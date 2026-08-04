@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:54:10+00:00",
+  "generated_at": "2026-08-04T16:07:35+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 18,
@@ -40,13 +40,13 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.471,
+      "review_score": 0.4709,
       "videos": [
         {
           "title": "Dhoot Transmission IPO Review Hindi | GMP, Financials & Risk Analysis",
           "url": "https://www.youtube.com/watch?v=CJBkfqLBRgw",
           "channel": "Raj invest",
-          "views": 377,
+          "views": 388,
           "upload_date": "",
           "sentiment": ""
         },
@@ -54,7 +54,7 @@
           "title": "MV Electrosystems IPO GMP | Dhoot Transmission IPO GMP | Leap India IPO GMP | Technocraft IPO GMP 💥",
           "url": "https://www.youtube.com/watch?v=Oi1QGb6VKRU",
           "channel": "Share Bazar with Ayush",
-          "views": 1501,
+          "views": 1535,
           "upload_date": "",
           "sentiment": ""
         },
@@ -62,7 +62,15 @@
           "title": "Dhoot Transmission IPO Analysis • Dhoot Transmission IPO Review • GMP • IPO • Dailystock",
           "url": "https://www.youtube.com/watch?v=ol6ijEm44V4",
           "channel": "Daily Stock",
-          "views": 620,
+          "views": 638,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmissions IPO | MV Electosystems IPO | Ardee Industries IPO | All IPO GMP Today |",
+          "url": "https://www.youtube.com/watch?v=PF-xDhTsbbo",
+          "channel": "The Rich Investor ",
+          "views": 1023,
           "upload_date": "",
           "sentiment": ""
         },
@@ -73,17 +81,9 @@
           "views": 57,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "Dhoot Transmissions IPO | MV Electosystems IPO | Ardee Industries IPO | All IPO GMP Today |",
-          "url": "https://www.youtube.com/watch?v=PF-xDhTsbbo",
-          "channel": "The Rich Investor ",
-          "views": 1006,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Dhoot Transmission's IPO shows a favorable grey market premium of approximately 28.1%, indicating positive investor sentiment. However, a review score of 0.47 suggests caution, highlighting potential risks that retail investors should consider.",
+      "summary": "Dhoot Transmission — grey-market premium ~28.1%, band ₹871, Mainboard, Upcoming, 5 YouTube reviews (score 0.47). Above the 5% GMP watch threshold.",
       "slug": "dhoot-transmission"
     },
     {
@@ -161,21 +161,13 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5412,
+      "review_score": 0.541,
       "videos": [
         {
           "title": "Lapl Automotive IPO | Analysis | GMP | Review",
           "url": "https://www.youtube.com/watch?v=L-haHMDk3UU",
           "channel": "Stock Market with Naveeen",
-          "views": 58,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "LAPL Automotive IPO Analysis • LAPL Automotive IPO Review • GMP • IPO • Dailystock",
-          "url": "https://www.youtube.com/watch?v=ynSVtZWocgk",
-          "channel": "Daily Stock",
-          "views": 113,
+          "views": 67,
           "upload_date": "",
           "sentiment": ""
         },
@@ -188,10 +180,10 @@
           "sentiment": ""
         },
         {
-          "title": "LAPL Automotive IPO Review",
-          "url": "https://www.youtube.com/watch?v=a6XjA_L00AY",
-          "channel": "CA Pradeep Rajput",
-          "views": 1802,
+          "title": "LAPL Automotive IPO Analysis • LAPL Automotive IPO Review • GMP • IPO • Dailystock",
+          "url": "https://www.youtube.com/watch?v=ynSVtZWocgk",
+          "channel": "Daily Stock",
+          "views": 113,
           "upload_date": "",
           "sentiment": ""
         },
@@ -199,12 +191,20 @@
           "title": "LAPL Automotive SME IPO Review | Apply or Avoid? | GMP, Financials & Complete IPO Analysis",
           "url": "https://www.youtube.com/watch?v=-KTBIz-NNGE",
           "channel": "Market Love Affairs",
-          "views": 1,
+          "views": 0,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Review",
+          "url": "https://www.youtube.com/watch?v=a6XjA_L00AY",
+          "channel": "CA Pradeep Rajput",
+          "views": 1774,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "LAPL Automotive's IPO is priced at ₹94 with a good gray market premium of approximately 29.8%, suggesting positive market sentiment. However, the review score of 0.54 indicates mixed opinions on its long-term potential, warranting careful consideration.",
+      "summary": "LAPL Automotive — grey-market premium ~29.8%, band ₹94, BSE SME, Upcoming, 5 YouTube reviews (score 0.54). Above the 5% GMP watch threshold.",
       "slug": "lapl-automotive"
     },
     {
@@ -222,13 +222,29 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5508,
+      "review_score": 0.5452,
       "videos": [
         {
           "title": "Ardee Industries IPO - Analysis | Ardee Industries IPO Review |",
           "url": "https://www.youtube.com/watch?v=MkO3V7XTkUE",
           "channel": "Anant Ladha",
-          "views": 5788,
+          "views": 6103,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Detailed Analysis Telugu • Ardee Industries IPO GMP • Ardee Ind IPO Telugu",
+          "url": "https://www.youtube.com/watch?v=vfEEuRb102E",
+          "channel": "Telugu Stocks Stories 1",
+          "views": 84,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=z910IT6NX5I",
+          "channel": "Knowledge Jazz",
+          "views": 23294,
           "upload_date": "",
           "sentiment": ""
         },
@@ -241,31 +257,15 @@
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ",
-          "url": "https://www.youtube.com/watch?v=z910IT6NX5I",
-          "channel": "Knowledge Jazz",
-          "views": 23279,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "screen capture 11",
-          "url": "https://www.youtube.com/watch?v=SixaV7gODz4",
-          "channel": "Trading With Sipu",
-          "views": 20,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Ardee Industries IPO Review | Apply or Avoid? 24% GMP, Price Band & Full Analysis",
-          "url": "https://www.youtube.com/watch?v=r8bdN8Z7VqE",
-          "channel": "Market Investor",
-          "views": 291,
+          "title": "Ardee Industries IPO Review",
+          "url": "https://www.youtube.com/watch?v=tesrkLrteus",
+          "channel": "CA Pradeep Rajput",
+          "views": 2564,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries' IPO is priced at ₹53 with a grey market premium of approximately 13.2%, suggesting moderate interest among investors. The review score of 0.55 indicates a cautious outlook, highlighting the importance of thorough analysis before participation.",
+      "summary": "Ardee Industries — grey-market premium ~13.2%, band ₹53, Mainboard, Upcoming, 5 YouTube reviews (score 0.55). Above the 5% GMP watch threshold.",
       "slug": "ardee-industries"
     },
     {
@@ -303,7 +303,7 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5267,
+      "review_score": 0.5268,
       "videos": [
         {
           "title": "Anawil Wire And Engineering IPO 🔴Anawil Wire And Engineering IPO Review 🔴Anawil Wire And Engineering",
@@ -317,7 +317,7 @@
           "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
           "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
           "channel": "The Rich Investor ",
-          "views": 258,
+          "views": 274,
           "upload_date": "",
           "sentiment": ""
         },
@@ -325,7 +325,15 @@
           "title": "Anawil Wire & Engineering Detailed analysis| Pankaj Ladha",
           "url": "https://www.youtube.com/watch?v=mHfkz7BGV4c",
           "channel": "Pankaj Ladha",
-          "views": 953,
+          "views": 1036,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire and Engineering IPO Review",
+          "url": "https://www.youtube.com/watch?v=ayRx2KrSnGI",
+          "channel": "CA Pradeep Rajput",
+          "views": 3792,
           "upload_date": "",
           "sentiment": ""
         },
@@ -336,17 +344,9 @@
           "views": 121,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "Anawil Wire and Engineering IPO Review",
-          "url": "https://www.youtube.com/watch?v=ayRx2KrSnGI",
-          "channel": "CA Pradeep Rajput",
-          "views": 3779,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Anawil Wire & Engineering's IPO is currently offering a significant grey market premium of approximately 29.6%, suggesting strong investor interest. However, with a review score of 0.53, potential investors should carefully assess the company's fundamentals and market positioning before making a decision.",
+      "summary": "Anawil Wire & Engineering — grey-market premium ~29.6%, band ₹270, NSE SME, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
       "slug": "anawil-wire-engineering"
     },
     {
@@ -384,13 +384,13 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5248,
+      "review_score": 0.5251,
       "videos": [
         {
           "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
           "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
           "channel": "The Rich Investor ",
-          "views": 258,
+          "views": 274,
           "upload_date": "",
           "sentiment": ""
         },
@@ -399,14 +399,6 @@
           "url": "https://www.youtube.com/watch?v=HmUR1Y8hNrg",
           "channel": "Share Market with Vini",
           "views": 1053,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "GV Electricals IPO 🔴GV Electricals IPO Review 🔴GV Electricals🔴GV Electrical IPO🔴G.V. Electricals IPO",
-          "url": "https://www.youtube.com/watch?v=VdAuYbqUIdY",
-          "channel": "Share Market with Vini",
-          "views": 552,
           "upload_date": "",
           "sentiment": ""
         },
@@ -422,12 +414,20 @@
           "title": "G V Electricals IPO Review",
           "url": "https://www.youtube.com/watch?v=SjyQ8QYW3b0",
           "channel": "CA Pradeep Rajput",
-          "views": 4859,
+          "views": 4867,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electricals IPO 🔴GV Electricals IPO Review 🔴GV Electricals🔴GV Electrical IPO🔴G.V. Electricals IPO",
+          "url": "https://www.youtube.com/watch?v=VdAuYbqUIdY",
+          "channel": "Share Market with Vini",
+          "views": 552,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "G.V. Electricals is currently offering shares at a price band of ₹130, with a grey market premium of around 20%. The review score of 0.52 indicates a mixed sentiment, suggesting cautious consideration for retail investors.",
+      "summary": "G.V. Electricals — grey-market premium ~20.0%, band ₹130, BSE SME, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
       "slug": "gv-electricals"
     },
     {
@@ -465,7 +465,7 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5363,
+      "review_score": 0.5325,
       "videos": [
         {
           "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
@@ -484,10 +484,10 @@
           "sentiment": ""
         },
         {
-          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
-          "url": "https://www.youtube.com/watch?v=JSvDZuxAMyM",
-          "channel": "Share Market with Vini",
-          "views": 219,
+          "title": "Dhaval Packaging IPO Review",
+          "url": "https://www.youtube.com/watch?v=5qS4tuXAqkM",
+          "channel": "CA Pradeep Rajput",
+          "views": 1982,
           "upload_date": "",
           "sentiment": ""
         },
@@ -500,15 +500,15 @@
           "sentiment": ""
         },
         {
-          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
-          "url": "https://www.youtube.com/watch?v=0V3j3w_D1_M",
-          "channel": "Share Market with Vini",
-          "views": 257,
+          "title": "Dhaval Packaging IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=T5tKkWNYsfQ",
+          "channel": "Stock Market with Naveeen",
+          "views": 586,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Dhaval Packaging's IPO closed with a GMP of approximately 8.2%, indicating moderate positive sentiment among investors. The review score of 0.54 suggests a cautious outlook, warranting careful consideration before investment.",
+      "summary": "Dhaval Packaging — grey-market premium ~8.2%, band ₹97, BSE SME, Closed, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
       "slug": "dhaval-packaging"
     },
     {
@@ -532,15 +532,7 @@
           "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment GMP | IPO GMP Today | Stock Market Tak",
           "url": "https://www.youtube.com/watch?v=IvnIIaW2A0Q",
           "channel": "Stock Market Tak",
-          "views": 569,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment Status | IPO GMP Today | Stock Market Tak",
-          "url": "https://www.youtube.com/watch?v=s6qQ7xuXvYM",
-          "channel": "Stock Market Tak",
-          "views": 1525,
+          "views": 660,
           "upload_date": "",
           "sentiment": ""
         },
@@ -548,7 +540,23 @@
           "title": "MV ELECTROSYSTEMS IPO ALLOTMENT STATUS 💥| Juniper Green IPO Allotment Status",
           "url": "https://www.youtube.com/watch?v=zVSrllnNkH4",
           "channel": "Share Bazar with Ayush",
-          "views": 1621,
+          "views": 1703,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment Status | IPO GMP Today | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=s6qQ7xuXvYM",
+          "channel": "Stock Market Tak",
+          "views": 1559,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO Allotment Out! 🔥 Listing Strategy | Don't Sell Before Watching This!",
+          "url": "https://www.youtube.com/watch?v=Pj1kXbab0RE",
+          "channel": "Market Investor",
+          "views": 40,
           "upload_date": "",
           "sentiment": ""
         },
@@ -556,20 +564,12 @@
           "title": "MV Electrosystems IPO Allotment Status | How to Check Allotment & GMP",
           "url": "https://www.youtube.com/watch?v=6h8qccVkBTo",
           "channel": "Demat Manish",
-          "views": 453,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "MV Electrosystems IPO Review Final | MV Electrosystems IPO GMP Today",
-          "url": "https://www.youtube.com/watch?v=-odoeYhaA8s",
-          "channel": "Financial Yoddha",
-          "views": 11117,
+          "views": 512,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "MV Electrosystems' IPO has a grey market premium of approximately 23.5%, indicating moderate investor interest. However, the review score of 0.50 suggests mixed sentiment regarding its long-term potential.",
+      "summary": "MV Electrosystems — grey-market premium ~23.5%, band ₹425, Mainboard, Closed, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
       "slug": "mv-electrosystems"
     },
     {
@@ -674,23 +674,23 @@
           "sentiment": ""
         },
         {
-          "title": "Poojaa Precision Engg IPO | Analysis | GMP | Review",
-          "url": "https://www.youtube.com/watch?v=cifTPTM3WyY",
-          "channel": "Stock Market with Naveeen",
-          "views": 2122,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
           "title": "Poojaa Precision Engg IPO Review | Poojaa Precision Engg IPO GMP Today | Day 1",
           "url": "https://www.youtube.com/watch?v=fbVoHao-km8",
           "channel": "Financial Yoddha",
           "views": 988,
           "upload_date": "",
           "sentiment": ""
+        },
+        {
+          "title": "FINAL DECISION | POOJAA PRECISION ENGG. IPO GMP TODAY | POOJAA PRECISION IPO | APPLY OR AVOID ?",
+          "url": "https://www.youtube.com/watch?v=jUsZ8XMiFRw",
+          "channel": "The Smart Investor💹",
+          "views": 2077,
+          "upload_date": "",
+          "sentiment": ""
         }
       ],
-      "summary": "Poojaa Precision's IPO shows a significant grey market premium of 78.1%, indicating positive investor sentiment. However, the review score of 0.50 suggests concerns regarding its valuation and underlying fundamentals.",
+      "summary": "Poojaa Precision — grey-market premium ~78.1%, band ₹301, BSE SME, Closed, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
       "slug": "poojaa-precision"
     }
   ],
@@ -737,23 +737,23 @@
           "sentiment": ""
         },
         {
-          "title": "Poojaa Precision Engg IPO | Analysis | GMP | Review",
-          "url": "https://www.youtube.com/watch?v=cifTPTM3WyY",
-          "channel": "Stock Market with Naveeen",
-          "views": 2122,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
           "title": "Poojaa Precision Engg IPO Review | Poojaa Precision Engg IPO GMP Today | Day 1",
           "url": "https://www.youtube.com/watch?v=fbVoHao-km8",
           "channel": "Financial Yoddha",
           "views": 988,
           "upload_date": "",
           "sentiment": ""
+        },
+        {
+          "title": "FINAL DECISION | POOJAA PRECISION ENGG. IPO GMP TODAY | POOJAA PRECISION IPO | APPLY OR AVOID ?",
+          "url": "https://www.youtube.com/watch?v=jUsZ8XMiFRw",
+          "channel": "The Smart Investor💹",
+          "views": 2077,
+          "upload_date": "",
+          "sentiment": ""
         }
       ],
-      "summary": "Poojaa Precision's IPO shows a significant grey market premium of 78.1%, indicating positive investor sentiment. However, the review score of 0.50 suggests concerns regarding its valuation and underlying fundamentals.",
+      "summary": "Poojaa Precision — grey-market premium ~78.1%, band ₹301, BSE SME, Closed, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
       "slug": "poojaa-precision"
     },
     {
@@ -771,21 +771,13 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5412,
+      "review_score": 0.541,
       "videos": [
         {
           "title": "Lapl Automotive IPO | Analysis | GMP | Review",
           "url": "https://www.youtube.com/watch?v=L-haHMDk3UU",
           "channel": "Stock Market with Naveeen",
-          "views": 58,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "LAPL Automotive IPO Analysis • LAPL Automotive IPO Review • GMP • IPO • Dailystock",
-          "url": "https://www.youtube.com/watch?v=ynSVtZWocgk",
-          "channel": "Daily Stock",
-          "views": 113,
+          "views": 67,
           "upload_date": "",
           "sentiment": ""
         },
@@ -798,10 +790,10 @@
           "sentiment": ""
         },
         {
-          "title": "LAPL Automotive IPO Review",
-          "url": "https://www.youtube.com/watch?v=a6XjA_L00AY",
-          "channel": "CA Pradeep Rajput",
-          "views": 1802,
+          "title": "LAPL Automotive IPO Analysis • LAPL Automotive IPO Review • GMP • IPO • Dailystock",
+          "url": "https://www.youtube.com/watch?v=ynSVtZWocgk",
+          "channel": "Daily Stock",
+          "views": 113,
           "upload_date": "",
           "sentiment": ""
         },
@@ -809,12 +801,20 @@
           "title": "LAPL Automotive SME IPO Review | Apply or Avoid? | GMP, Financials & Complete IPO Analysis",
           "url": "https://www.youtube.com/watch?v=-KTBIz-NNGE",
           "channel": "Market Love Affairs",
-          "views": 1,
+          "views": 0,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Review",
+          "url": "https://www.youtube.com/watch?v=a6XjA_L00AY",
+          "channel": "CA Pradeep Rajput",
+          "views": 1774,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "LAPL Automotive's IPO is priced at ₹94 with a good gray market premium of approximately 29.8%, suggesting positive market sentiment. However, the review score of 0.54 indicates mixed opinions on its long-term potential, warranting careful consideration.",
+      "summary": "LAPL Automotive — grey-market premium ~29.8%, band ₹94, BSE SME, Upcoming, 5 YouTube reviews (score 0.54). Above the 5% GMP watch threshold.",
       "slug": "lapl-automotive"
     },
     {
@@ -832,7 +832,7 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5267,
+      "review_score": 0.5268,
       "videos": [
         {
           "title": "Anawil Wire And Engineering IPO 🔴Anawil Wire And Engineering IPO Review 🔴Anawil Wire And Engineering",
@@ -846,7 +846,7 @@
           "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
           "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
           "channel": "The Rich Investor ",
-          "views": 258,
+          "views": 274,
           "upload_date": "",
           "sentiment": ""
         },
@@ -854,7 +854,15 @@
           "title": "Anawil Wire & Engineering Detailed analysis| Pankaj Ladha",
           "url": "https://www.youtube.com/watch?v=mHfkz7BGV4c",
           "channel": "Pankaj Ladha",
-          "views": 953,
+          "views": 1036,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire and Engineering IPO Review",
+          "url": "https://www.youtube.com/watch?v=ayRx2KrSnGI",
+          "channel": "CA Pradeep Rajput",
+          "views": 3792,
           "upload_date": "",
           "sentiment": ""
         },
@@ -865,17 +873,9 @@
           "views": 121,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "Anawil Wire and Engineering IPO Review",
-          "url": "https://www.youtube.com/watch?v=ayRx2KrSnGI",
-          "channel": "CA Pradeep Rajput",
-          "views": 3779,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Anawil Wire & Engineering's IPO is currently offering a significant grey market premium of approximately 29.6%, suggesting strong investor interest. However, with a review score of 0.53, potential investors should carefully assess the company's fundamentals and market positioning before making a decision.",
+      "summary": "Anawil Wire & Engineering — grey-market premium ~29.6%, band ₹270, NSE SME, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
       "slug": "anawil-wire-engineering"
     },
     {
@@ -893,13 +893,13 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.471,
+      "review_score": 0.4709,
       "videos": [
         {
           "title": "Dhoot Transmission IPO Review Hindi | GMP, Financials & Risk Analysis",
           "url": "https://www.youtube.com/watch?v=CJBkfqLBRgw",
           "channel": "Raj invest",
-          "views": 377,
+          "views": 388,
           "upload_date": "",
           "sentiment": ""
         },
@@ -907,7 +907,7 @@
           "title": "MV Electrosystems IPO GMP | Dhoot Transmission IPO GMP | Leap India IPO GMP | Technocraft IPO GMP 💥",
           "url": "https://www.youtube.com/watch?v=Oi1QGb6VKRU",
           "channel": "Share Bazar with Ayush",
-          "views": 1501,
+          "views": 1535,
           "upload_date": "",
           "sentiment": ""
         },
@@ -915,7 +915,15 @@
           "title": "Dhoot Transmission IPO Analysis • Dhoot Transmission IPO Review • GMP • IPO • Dailystock",
           "url": "https://www.youtube.com/watch?v=ol6ijEm44V4",
           "channel": "Daily Stock",
-          "views": 620,
+          "views": 638,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmissions IPO | MV Electosystems IPO | Ardee Industries IPO | All IPO GMP Today |",
+          "url": "https://www.youtube.com/watch?v=PF-xDhTsbbo",
+          "channel": "The Rich Investor ",
+          "views": 1023,
           "upload_date": "",
           "sentiment": ""
         },
@@ -926,17 +934,9 @@
           "views": 57,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "Dhoot Transmissions IPO | MV Electosystems IPO | Ardee Industries IPO | All IPO GMP Today |",
-          "url": "https://www.youtube.com/watch?v=PF-xDhTsbbo",
-          "channel": "The Rich Investor ",
-          "views": 1006,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Dhoot Transmission's IPO shows a favorable grey market premium of approximately 28.1%, indicating positive investor sentiment. However, a review score of 0.47 suggests caution, highlighting potential risks that retail investors should consider.",
+      "summary": "Dhoot Transmission — grey-market premium ~28.1%, band ₹871, Mainboard, Upcoming, 5 YouTube reviews (score 0.47). Above the 5% GMP watch threshold.",
       "slug": "dhoot-transmission"
     },
     {
@@ -960,15 +960,7 @@
           "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment GMP | IPO GMP Today | Stock Market Tak",
           "url": "https://www.youtube.com/watch?v=IvnIIaW2A0Q",
           "channel": "Stock Market Tak",
-          "views": 569,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment Status | IPO GMP Today | Stock Market Tak",
-          "url": "https://www.youtube.com/watch?v=s6qQ7xuXvYM",
-          "channel": "Stock Market Tak",
-          "views": 1525,
+          "views": 660,
           "upload_date": "",
           "sentiment": ""
         },
@@ -976,7 +968,23 @@
           "title": "MV ELECTROSYSTEMS IPO ALLOTMENT STATUS 💥| Juniper Green IPO Allotment Status",
           "url": "https://www.youtube.com/watch?v=zVSrllnNkH4",
           "channel": "Share Bazar with Ayush",
-          "views": 1621,
+          "views": 1703,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment Status | IPO GMP Today | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=s6qQ7xuXvYM",
+          "channel": "Stock Market Tak",
+          "views": 1559,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO Allotment Out! 🔥 Listing Strategy | Don't Sell Before Watching This!",
+          "url": "https://www.youtube.com/watch?v=Pj1kXbab0RE",
+          "channel": "Market Investor",
+          "views": 40,
           "upload_date": "",
           "sentiment": ""
         },
@@ -984,20 +992,12 @@
           "title": "MV Electrosystems IPO Allotment Status | How to Check Allotment & GMP",
           "url": "https://www.youtube.com/watch?v=6h8qccVkBTo",
           "channel": "Demat Manish",
-          "views": 453,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "MV Electrosystems IPO Review Final | MV Electrosystems IPO GMP Today",
-          "url": "https://www.youtube.com/watch?v=-odoeYhaA8s",
-          "channel": "Financial Yoddha",
-          "views": 11117,
+          "views": 512,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "MV Electrosystems' IPO has a grey market premium of approximately 23.5%, indicating moderate investor interest. However, the review score of 0.50 suggests mixed sentiment regarding its long-term potential.",
+      "summary": "MV Electrosystems — grey-market premium ~23.5%, band ₹425, Mainboard, Closed, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
       "slug": "mv-electrosystems"
     },
     {
@@ -1015,13 +1015,13 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5248,
+      "review_score": 0.5251,
       "videos": [
         {
           "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
           "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
           "channel": "The Rich Investor ",
-          "views": 258,
+          "views": 274,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1030,14 +1030,6 @@
           "url": "https://www.youtube.com/watch?v=HmUR1Y8hNrg",
           "channel": "Share Market with Vini",
           "views": 1053,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "GV Electricals IPO 🔴GV Electricals IPO Review 🔴GV Electricals🔴GV Electrical IPO🔴G.V. Electricals IPO",
-          "url": "https://www.youtube.com/watch?v=VdAuYbqUIdY",
-          "channel": "Share Market with Vini",
-          "views": 552,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1053,12 +1045,20 @@
           "title": "G V Electricals IPO Review",
           "url": "https://www.youtube.com/watch?v=SjyQ8QYW3b0",
           "channel": "CA Pradeep Rajput",
-          "views": 4859,
+          "views": 4867,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electricals IPO 🔴GV Electricals IPO Review 🔴GV Electricals🔴GV Electrical IPO🔴G.V. Electricals IPO",
+          "url": "https://www.youtube.com/watch?v=VdAuYbqUIdY",
+          "channel": "Share Market with Vini",
+          "views": 552,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "G.V. Electricals is currently offering shares at a price band of ₹130, with a grey market premium of around 20%. The review score of 0.52 indicates a mixed sentiment, suggesting cautious consideration for retail investors.",
+      "summary": "G.V. Electricals — grey-market premium ~20.0%, band ₹130, BSE SME, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
       "slug": "gv-electricals"
     },
     {
@@ -1076,13 +1076,29 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5508,
+      "review_score": 0.5452,
       "videos": [
         {
           "title": "Ardee Industries IPO - Analysis | Ardee Industries IPO Review |",
           "url": "https://www.youtube.com/watch?v=MkO3V7XTkUE",
           "channel": "Anant Ladha",
-          "views": 5788,
+          "views": 6103,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Detailed Analysis Telugu • Ardee Industries IPO GMP • Ardee Ind IPO Telugu",
+          "url": "https://www.youtube.com/watch?v=vfEEuRb102E",
+          "channel": "Telugu Stocks Stories 1",
+          "views": 84,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=z910IT6NX5I",
+          "channel": "Knowledge Jazz",
+          "views": 23294,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1095,31 +1111,15 @@
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ",
-          "url": "https://www.youtube.com/watch?v=z910IT6NX5I",
-          "channel": "Knowledge Jazz",
-          "views": 23279,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "screen capture 11",
-          "url": "https://www.youtube.com/watch?v=SixaV7gODz4",
-          "channel": "Trading With Sipu",
-          "views": 20,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Ardee Industries IPO Review | Apply or Avoid? 24% GMP, Price Band & Full Analysis",
-          "url": "https://www.youtube.com/watch?v=r8bdN8Z7VqE",
-          "channel": "Market Investor",
-          "views": 291,
+          "title": "Ardee Industries IPO Review",
+          "url": "https://www.youtube.com/watch?v=tesrkLrteus",
+          "channel": "CA Pradeep Rajput",
+          "views": 2564,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries' IPO is priced at ₹53 with a grey market premium of approximately 13.2%, suggesting moderate interest among investors. The review score of 0.55 indicates a cautious outlook, highlighting the importance of thorough analysis before participation.",
+      "summary": "Ardee Industries — grey-market premium ~13.2%, band ₹53, Mainboard, Upcoming, 5 YouTube reviews (score 0.55). Above the 5% GMP watch threshold.",
       "slug": "ardee-industries"
     },
     {
@@ -1137,7 +1137,7 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "review_score": 0.5363,
+      "review_score": 0.5325,
       "videos": [
         {
           "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
@@ -1156,10 +1156,10 @@
           "sentiment": ""
         },
         {
-          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
-          "url": "https://www.youtube.com/watch?v=JSvDZuxAMyM",
-          "channel": "Share Market with Vini",
-          "views": 219,
+          "title": "Dhaval Packaging IPO Review",
+          "url": "https://www.youtube.com/watch?v=5qS4tuXAqkM",
+          "channel": "CA Pradeep Rajput",
+          "views": 1982,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1172,15 +1172,15 @@
           "sentiment": ""
         },
         {
-          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
-          "url": "https://www.youtube.com/watch?v=0V3j3w_D1_M",
-          "channel": "Share Market with Vini",
-          "views": 257,
+          "title": "Dhaval Packaging IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=T5tKkWNYsfQ",
+          "channel": "Stock Market with Naveeen",
+          "views": 586,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Dhaval Packaging's IPO closed with a GMP of approximately 8.2%, indicating moderate positive sentiment among investors. The review score of 0.54 suggests a cautious outlook, warranting careful consideration before investment.",
+      "summary": "Dhaval Packaging — grey-market premium ~8.2%, band ₹97, BSE SME, Closed, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
       "slug": "dhaval-packaging"
     }
   ]
