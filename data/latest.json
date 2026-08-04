@@ -1,0 +1,1187 @@
+{
+  "generated_at": "2026-08-04T15:43:21+00:00",
+  "source": "ipowatch",
+  "threshold_pct": 5.0,
+  "count_all": 18,
+  "count_picks": 8,
+  "all_ipos": [
+    {
+      "name": "Molbio Diagnostics",
+      "gmp": 0.0,
+      "gmp_pct": 0.0,
+      "price_band": "₹-",
+      "lot_size": "",
+      "open_date": "10-12 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹- (0.00%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "Dhoot Transmission",
+      "gmp": 245.0,
+      "gmp_pct": 28.13,
+      "price_band": "₹871",
+      "lot_size": "",
+      "open_date": "10-12 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹1,116 (28.13%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.4711,
+      "videos": [
+        {
+          "title": "MV Electrosystems IPO GMP | Dhoot Transmission IPO GMP | Leap India IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=Oi1QGb6VKRU",
+          "channel": "Share Bazar with Ayush",
+          "views": 1447,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO Review Hindi | GMP, Financials & Risk Analysis",
+          "url": "https://www.youtube.com/watch?v=CJBkfqLBRgw",
+          "channel": "Raj invest",
+          "views": 368,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV IPO Allotment | Juniper IPO | Ardee IPO | Manipal IPO | Dhoot IPO | Upcoming IPO | Jayesh Khatri",
+          "url": "https://www.youtube.com/watch?v=cwICzC6m7qU",
+          "channel": "Knowledge Jazz",
+          "views": 480,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO Analysis • Dhoot Transmission IPO Review • GMP • IPO • Dailystock",
+          "url": "https://www.youtube.com/watch?v=ol6ijEm44V4",
+          "channel": "Daily Stock",
+          "views": 616,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "All ipo gmp today🤑manipal hospitals ipo gmp💥mv electrosystems ipo allotment💥dhoot transmission ipo💥",
+          "url": "https://www.youtube.com/watch?v=et450gaxDLQ",
+          "channel": "INVESTMENT ka bazar 🤑🤑",
+          "views": 139,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "dhoot-transmission"
+    },
+    {
+      "name": "LEAP India",
+      "gmp": 4.0,
+      "gmp_pct": 2.52,
+      "price_band": "₹159",
+      "lot_size": "",
+      "open_date": "7-11 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹163 (2.52%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "Optimystix Entertainment",
+      "gmp": 0.0,
+      "gmp_pct": 0.0,
+      "price_band": "₹175",
+      "lot_size": "",
+      "open_date": "7-11 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹- (0.00%)",
+      "ipo_type": "NSE SME",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "Technocraft Ventures",
+      "gmp": 10.0,
+      "gmp_pct": 4.72,
+      "price_band": "₹212",
+      "lot_size": "",
+      "open_date": "7-11 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹222 (4.72%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "LAPL Automotive",
+      "gmp": 28.0,
+      "gmp_pct": 29.78,
+      "price_band": "₹94",
+      "lot_size": "",
+      "open_date": "6-10 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹122 (29.78%)",
+      "ipo_type": "BSE SME",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5414,
+      "videos": [
+        {
+          "title": "Lapl Automotive IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=L-haHMDk3UU",
+          "channel": "Stock Market with Naveeen",
+          "views": 52,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Review | LAPL Automotive IPO GMP | Apply Or Not ?",
+          "url": "https://www.youtube.com/watch?v=gAnRPdgYwhc",
+          "channel": "The Rich Investor ",
+          "views": 1136,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Review",
+          "url": "https://www.youtube.com/watch?v=a6XjA_L00AY",
+          "channel": "CA Pradeep Rajput",
+          "views": 1774,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Analysis • LAPL Automotive IPO Review • GMP • IPO • Dailystock",
+          "url": "https://www.youtube.com/watch?v=ynSVtZWocgk",
+          "channel": "Daily Stock",
+          "views": 113,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive SME IPO Review | Apply or Avoid? | GMP, Financials & Complete IPO Analysis",
+          "url": "https://www.youtube.com/watch?v=-KTBIz-NNGE",
+          "channel": "Market Love Affairs",
+          "views": 1,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "lapl-automotive"
+    },
+    {
+      "name": "Ardee Industries",
+      "gmp": 7.0,
+      "gmp_pct": 13.2,
+      "price_band": "₹53",
+      "lot_size": "",
+      "open_date": "5-7 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹60 (13.20%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5471,
+      "videos": [
+        {
+          "title": "Ardee Industries IPO - Analysis | Ardee Industries IPO Review |",
+          "url": "https://www.youtube.com/watch?v=MkO3V7XTkUE",
+          "channel": "Anant Ladha",
+          "views": 5570,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=z910IT6NX5I",
+          "channel": "Knowledge Jazz",
+          "views": 23255,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Detailed Analysis Telugu • Ardee Industries IPO GMP • Ardee Ind IPO Telugu",
+          "url": "https://www.youtube.com/watch?v=vfEEuRb102E",
+          "channel": "Telugu Stocks Stories 1",
+          "views": 25,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Analysis | Should You Apply? Full DRHP Review, Financials, Valuation & Risks",
+          "url": "https://www.youtube.com/watch?v=8ZBmogPU_OI",
+          "channel": "Think Finance with P",
+          "views": 0,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Review",
+          "url": "https://www.youtube.com/watch?v=tesrkLrteus",
+          "channel": "CA Pradeep Rajput",
+          "views": 2559,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "ardee-industries"
+    },
+    {
+      "name": "Aegeus Technologies",
+      "gmp": 0.0,
+      "gmp_pct": 0.0,
+      "price_band": "₹105",
+      "lot_size": "",
+      "open_date": "4-6 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹- (0.00%)",
+      "ipo_type": "BSE SME",
+      "status": "Open",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "Anawil Wire & Engineering",
+      "gmp": 80.0,
+      "gmp_pct": 29.63,
+      "price_band": "₹270",
+      "lot_size": "",
+      "open_date": "3-5 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹350 (29.63%)",
+      "ipo_type": "NSE SME",
+      "status": "Open",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5268,
+      "videos": [
+        {
+          "title": "Anawil Wire And Engineering IPO 🔴Anawil Wire And Engineering IPO Review 🔴Anawil Wire And Engineering",
+          "url": "https://www.youtube.com/watch?v=oQF-UqFScRQ",
+          "channel": "Share Market with Vini",
+          "views": 271,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire & Engineering Detailed analysis| Pankaj Ladha",
+          "url": "https://www.youtube.com/watch?v=mHfkz7BGV4c",
+          "channel": "Pankaj Ladha",
+          "views": 885,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
+          "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
+          "channel": "The Rich Investor ",
+          "views": 250,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire And Engineering IPO 🔴Anawil Wire And Engineering IPO Review 🔴Anawil Wire And Engineering",
+          "url": "https://www.youtube.com/watch?v=SZn5_V66KxM",
+          "channel": "Share Market with Vini",
+          "views": 119,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire and Engineering IPO Review",
+          "url": "https://www.youtube.com/watch?v=ayRx2KrSnGI",
+          "channel": "CA Pradeep Rajput",
+          "views": 3771,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "anawil-wire-engineering"
+    },
+    {
+      "name": "Fusion Klassroom",
+      "gmp": 4.0,
+      "gmp_pct": 2.52,
+      "price_band": "₹159",
+      "lot_size": "",
+      "open_date": "31-4 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹163 (2.52%)",
+      "ipo_type": "BSE SME",
+      "status": "Open",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "G.V. Electricals",
+      "gmp": 26.0,
+      "gmp_pct": 20.0,
+      "price_band": "₹130",
+      "lot_size": "",
+      "open_date": "31-4 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹156 (20.00%)",
+      "ipo_type": "BSE SME",
+      "status": "Open",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5247,
+      "videos": [
+        {
+          "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
+          "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
+          "channel": "The Rich Investor ",
+          "views": 251,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electrical IPO 🔴GV Electrical IPO Review🔴GV Electricals🔴GV Electrical IPO Gmp🔴G V Electricals IPO",
+          "url": "https://www.youtube.com/watch?v=HmUR1Y8hNrg",
+          "channel": "Share Market with Vini",
+          "views": 1053,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "G V Electricals IPO Review",
+          "url": "https://www.youtube.com/watch?v=SjyQ8QYW3b0",
+          "channel": "CA Pradeep Rajput",
+          "views": 4859,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electricals IPO 🔴GV Electricals IPO Review 🔴GV Electricals🔴GV Electrical IPO🔴G.V. Electricals IPO",
+          "url": "https://www.youtube.com/watch?v=VdAuYbqUIdY",
+          "channel": "Share Market with Vini",
+          "views": 555,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electricals IPO| GV Electricals IPO GMP Today| GV Electricals IPO Final Decision| SME IPO",
+          "url": "https://www.youtube.com/watch?v=39TiaJxqVnI",
+          "channel": "Veer Trader 2.O",
+          "views": 495,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "gv-electricals"
+    },
+    {
+      "name": "Oneindig Technologies",
+      "gmp": 0.0,
+      "gmp_pct": 0.0,
+      "price_band": "₹96",
+      "lot_size": "",
+      "open_date": "30-3 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹- (0.00%)",
+      "ipo_type": "BSE SME",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "Dhaval Packaging",
+      "gmp": 8.0,
+      "gmp_pct": 8.25,
+      "price_band": "₹97",
+      "lot_size": "",
+      "open_date": "30-3 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹105 (8.25%)",
+      "ipo_type": "BSE SME",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5353,
+      "videos": [
+        {
+          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
+          "url": "https://www.youtube.com/watch?v=209KlfQR7mM",
+          "channel": "Share Market with Vini",
+          "views": 605,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging IPO Allotment 🔴 Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Gmp 🔴 Dhaval Packaging",
+          "url": "https://www.youtube.com/watch?v=0ChLztBTFUo",
+          "channel": "Share Market with Vini",
+          "views": 13,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging - SME IPO Review | Dhaval Packaging IPO GMP Today | SME IPO Analysis | Apply Or ...",
+          "url": "https://www.youtube.com/watch?v=flnUXPLS6lI",
+          "channel": "Ankit Pareek",
+          "views": 587,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
+          "url": "https://www.youtube.com/watch?v=JSvDZuxAMyM",
+          "channel": "Share Market with Vini",
+          "views": 219,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging IPO: Apply or Avoid? 🚨",
+          "url": "https://www.youtube.com/watch?v=EeYg7cGxZ5c",
+          "channel": "The FinReason",
+          "views": 565,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "dhaval-packaging"
+    },
+    {
+      "name": "MV Electrosystems",
+      "gmp": 100.0,
+      "gmp_pct": 23.53,
+      "price_band": "₹425",
+      "lot_size": "",
+      "open_date": "30-3 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹525 (23.53%)",
+      "ipo_type": "Mainboard",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5,
+      "videos": [
+        {
+          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment GMP | IPO GMP Today | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=IvnIIaW2A0Q",
+          "channel": "Stock Market Tak",
+          "views": 505,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment Status | IPO GMP Today | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=s6qQ7xuXvYM",
+          "channel": "Stock Market Tak",
+          "views": 1490,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO Allotment Out! 🔥 Listing Strategy | Don't Sell Before Watching This!",
+          "url": "https://www.youtube.com/watch?v=Pj1kXbab0RE",
+          "channel": "Market Investor",
+          "views": 12,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV ELECTROSYSTEMS IPO ALLOTMENT STATUS 💥| Juniper Green IPO Allotment Status",
+          "url": "https://www.youtube.com/watch?v=zVSrllnNkH4",
+          "channel": "Share Bazar with Ayush",
+          "views": 1567,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO GMP | Dhoot Transmission IPO GMP | Leap India IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=Oi1QGb6VKRU",
+          "channel": "Share Bazar with Ayush",
+          "views": 1447,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "mv-electrosystems"
+    },
+    {
+      "name": "Juniper Green Energy",
+      "gmp": 9.0,
+      "gmp_pct": 4.0,
+      "price_band": "₹225",
+      "lot_size": "",
+      "open_date": "30-3 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹234 (4.00%)",
+      "ipo_type": "Mainboard",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "H.R. Hygiene Products",
+      "gmp": 2.0,
+      "gmp_pct": 2.27,
+      "price_band": "₹88",
+      "lot_size": "",
+      "open_date": "29-31 July",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹90 (2.27%)",
+      "ipo_type": "BSE SME",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "Manipal Health",
+      "gmp": 0.0,
+      "gmp_pct": 0.0,
+      "price_band": "₹590",
+      "lot_size": "",
+      "open_date": "29-31 July",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹- (0.00%)",
+      "ipo_type": "Mainboard",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "slug": ""
+    },
+    {
+      "name": "Poojaa Precision",
+      "gmp": 235.0,
+      "gmp_pct": 78.07,
+      "price_band": "₹301",
+      "lot_size": "",
+      "open_date": "28-30 July",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹536 (78.07%)",
+      "ipo_type": "BSE SME",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5,
+      "videos": [
+        {
+          "title": "Poojaa Precision IPO Review | 85% GMP 😱 | ₹45 Cr Anchor Book | Is SME IPO Safe? Full Analysis",
+          "url": "https://www.youtube.com/watch?v=3J7cOep4Pdk",
+          "channel": "StockMarket Funda",
+          "views": 4160,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO Review Final | Poojaa Precision Engg IPO GMP Today",
+          "url": "https://www.youtube.com/watch?v=F7ib4h7RGEE",
+          "channel": "Financial Yoddha",
+          "views": 3065,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO| Poojaa Precision Engg IPO Review| Poojaa Precision Engg SME IPO GMP Today",
+          "url": "https://www.youtube.com/watch?v=QE4JPBcWBF8",
+          "channel": "Veer Trader 2.O",
+          "views": 1058,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=cifTPTM3WyY",
+          "channel": "Stock Market with Naveeen",
+          "views": 2126,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO Review | Poojaa Precision Engg IPO GMP Today | Day 1",
+          "url": "https://www.youtube.com/watch?v=fbVoHao-km8",
+          "channel": "Financial Yoddha",
+          "views": 987,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "poojaa-precision"
+    }
+  ],
+  "picks": [
+    {
+      "name": "Poojaa Precision",
+      "gmp": 235.0,
+      "gmp_pct": 78.07,
+      "price_band": "₹301",
+      "lot_size": "",
+      "open_date": "28-30 July",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹536 (78.07%)",
+      "ipo_type": "BSE SME",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5,
+      "videos": [
+        {
+          "title": "Poojaa Precision IPO Review | 85% GMP 😱 | ₹45 Cr Anchor Book | Is SME IPO Safe? Full Analysis",
+          "url": "https://www.youtube.com/watch?v=3J7cOep4Pdk",
+          "channel": "StockMarket Funda",
+          "views": 4160,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO Review Final | Poojaa Precision Engg IPO GMP Today",
+          "url": "https://www.youtube.com/watch?v=F7ib4h7RGEE",
+          "channel": "Financial Yoddha",
+          "views": 3065,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO| Poojaa Precision Engg IPO Review| Poojaa Precision Engg SME IPO GMP Today",
+          "url": "https://www.youtube.com/watch?v=QE4JPBcWBF8",
+          "channel": "Veer Trader 2.O",
+          "views": 1058,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=cifTPTM3WyY",
+          "channel": "Stock Market with Naveeen",
+          "views": 2126,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Poojaa Precision Engg IPO Review | Poojaa Precision Engg IPO GMP Today | Day 1",
+          "url": "https://www.youtube.com/watch?v=fbVoHao-km8",
+          "channel": "Financial Yoddha",
+          "views": 987,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "poojaa-precision"
+    },
+    {
+      "name": "LAPL Automotive",
+      "gmp": 28.0,
+      "gmp_pct": 29.78,
+      "price_band": "₹94",
+      "lot_size": "",
+      "open_date": "6-10 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹122 (29.78%)",
+      "ipo_type": "BSE SME",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5414,
+      "videos": [
+        {
+          "title": "Lapl Automotive IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=L-haHMDk3UU",
+          "channel": "Stock Market with Naveeen",
+          "views": 52,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Review | LAPL Automotive IPO GMP | Apply Or Not ?",
+          "url": "https://www.youtube.com/watch?v=gAnRPdgYwhc",
+          "channel": "The Rich Investor ",
+          "views": 1136,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Review",
+          "url": "https://www.youtube.com/watch?v=a6XjA_L00AY",
+          "channel": "CA Pradeep Rajput",
+          "views": 1774,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive IPO Analysis • LAPL Automotive IPO Review • GMP • IPO • Dailystock",
+          "url": "https://www.youtube.com/watch?v=ynSVtZWocgk",
+          "channel": "Daily Stock",
+          "views": 113,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "LAPL Automotive SME IPO Review | Apply or Avoid? | GMP, Financials & Complete IPO Analysis",
+          "url": "https://www.youtube.com/watch?v=-KTBIz-NNGE",
+          "channel": "Market Love Affairs",
+          "views": 1,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "lapl-automotive"
+    },
+    {
+      "name": "Anawil Wire & Engineering",
+      "gmp": 80.0,
+      "gmp_pct": 29.63,
+      "price_band": "₹270",
+      "lot_size": "",
+      "open_date": "3-5 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹350 (29.63%)",
+      "ipo_type": "NSE SME",
+      "status": "Open",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5268,
+      "videos": [
+        {
+          "title": "Anawil Wire And Engineering IPO 🔴Anawil Wire And Engineering IPO Review 🔴Anawil Wire And Engineering",
+          "url": "https://www.youtube.com/watch?v=oQF-UqFScRQ",
+          "channel": "Share Market with Vini",
+          "views": 271,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire & Engineering Detailed analysis| Pankaj Ladha",
+          "url": "https://www.youtube.com/watch?v=mHfkz7BGV4c",
+          "channel": "Pankaj Ladha",
+          "views": 885,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
+          "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
+          "channel": "The Rich Investor ",
+          "views": 250,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire And Engineering IPO 🔴Anawil Wire And Engineering IPO Review 🔴Anawil Wire And Engineering",
+          "url": "https://www.youtube.com/watch?v=SZn5_V66KxM",
+          "channel": "Share Market with Vini",
+          "views": 119,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Anawil Wire and Engineering IPO Review",
+          "url": "https://www.youtube.com/watch?v=ayRx2KrSnGI",
+          "channel": "CA Pradeep Rajput",
+          "views": 3771,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "anawil-wire-engineering"
+    },
+    {
+      "name": "Dhoot Transmission",
+      "gmp": 245.0,
+      "gmp_pct": 28.13,
+      "price_band": "₹871",
+      "lot_size": "",
+      "open_date": "10-12 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹1,116 (28.13%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.4711,
+      "videos": [
+        {
+          "title": "MV Electrosystems IPO GMP | Dhoot Transmission IPO GMP | Leap India IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=Oi1QGb6VKRU",
+          "channel": "Share Bazar with Ayush",
+          "views": 1447,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO Review Hindi | GMP, Financials & Risk Analysis",
+          "url": "https://www.youtube.com/watch?v=CJBkfqLBRgw",
+          "channel": "Raj invest",
+          "views": 368,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV IPO Allotment | Juniper IPO | Ardee IPO | Manipal IPO | Dhoot IPO | Upcoming IPO | Jayesh Khatri",
+          "url": "https://www.youtube.com/watch?v=cwICzC6m7qU",
+          "channel": "Knowledge Jazz",
+          "views": 480,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO Analysis • Dhoot Transmission IPO Review • GMP • IPO • Dailystock",
+          "url": "https://www.youtube.com/watch?v=ol6ijEm44V4",
+          "channel": "Daily Stock",
+          "views": 616,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "All ipo gmp today🤑manipal hospitals ipo gmp💥mv electrosystems ipo allotment💥dhoot transmission ipo💥",
+          "url": "https://www.youtube.com/watch?v=et450gaxDLQ",
+          "channel": "INVESTMENT ka bazar 🤑🤑",
+          "views": 139,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "dhoot-transmission"
+    },
+    {
+      "name": "MV Electrosystems",
+      "gmp": 100.0,
+      "gmp_pct": 23.53,
+      "price_band": "₹425",
+      "lot_size": "",
+      "open_date": "30-3 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹525 (23.53%)",
+      "ipo_type": "Mainboard",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5,
+      "videos": [
+        {
+          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment GMP | IPO GMP Today | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=IvnIIaW2A0Q",
+          "channel": "Stock Market Tak",
+          "views": 505,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO | MV Electrosystems IPO Allotment Status | IPO GMP Today | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=s6qQ7xuXvYM",
+          "channel": "Stock Market Tak",
+          "views": 1490,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO Allotment Out! 🔥 Listing Strategy | Don't Sell Before Watching This!",
+          "url": "https://www.youtube.com/watch?v=Pj1kXbab0RE",
+          "channel": "Market Investor",
+          "views": 12,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV ELECTROSYSTEMS IPO ALLOTMENT STATUS 💥| Juniper Green IPO Allotment Status",
+          "url": "https://www.youtube.com/watch?v=zVSrllnNkH4",
+          "channel": "Share Bazar with Ayush",
+          "views": 1567,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "MV Electrosystems IPO GMP | Dhoot Transmission IPO GMP | Leap India IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=Oi1QGb6VKRU",
+          "channel": "Share Bazar with Ayush",
+          "views": 1447,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "mv-electrosystems"
+    },
+    {
+      "name": "G.V. Electricals",
+      "gmp": 26.0,
+      "gmp_pct": 20.0,
+      "price_band": "₹130",
+      "lot_size": "",
+      "open_date": "31-4 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹156 (20.00%)",
+      "ipo_type": "BSE SME",
+      "status": "Open",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5247,
+      "videos": [
+        {
+          "title": "Anawil Wire & Engineering IPO Apply Or Not ? GV. Electricals IPO Allotment Chances? SME IPO ",
+          "url": "https://www.youtube.com/watch?v=DNZ_JcJauqA",
+          "channel": "The Rich Investor ",
+          "views": 251,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electrical IPO 🔴GV Electrical IPO Review🔴GV Electricals🔴GV Electrical IPO Gmp🔴G V Electricals IPO",
+          "url": "https://www.youtube.com/watch?v=HmUR1Y8hNrg",
+          "channel": "Share Market with Vini",
+          "views": 1053,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "G V Electricals IPO Review",
+          "url": "https://www.youtube.com/watch?v=SjyQ8QYW3b0",
+          "channel": "CA Pradeep Rajput",
+          "views": 4859,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electricals IPO 🔴GV Electricals IPO Review 🔴GV Electricals🔴GV Electrical IPO🔴G.V. Electricals IPO",
+          "url": "https://www.youtube.com/watch?v=VdAuYbqUIdY",
+          "channel": "Share Market with Vini",
+          "views": 555,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "GV Electricals IPO| GV Electricals IPO GMP Today| GV Electricals IPO Final Decision| SME IPO",
+          "url": "https://www.youtube.com/watch?v=39TiaJxqVnI",
+          "channel": "Veer Trader 2.O",
+          "views": 495,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "gv-electricals"
+    },
+    {
+      "name": "Ardee Industries",
+      "gmp": 7.0,
+      "gmp_pct": 13.2,
+      "price_band": "₹53",
+      "lot_size": "",
+      "open_date": "5-7 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹60 (13.20%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5471,
+      "videos": [
+        {
+          "title": "Ardee Industries IPO - Analysis | Ardee Industries IPO Review |",
+          "url": "https://www.youtube.com/watch?v=MkO3V7XTkUE",
+          "channel": "Anant Ladha",
+          "views": 5570,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=z910IT6NX5I",
+          "channel": "Knowledge Jazz",
+          "views": 23255,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Detailed Analysis Telugu • Ardee Industries IPO GMP • Ardee Ind IPO Telugu",
+          "url": "https://www.youtube.com/watch?v=vfEEuRb102E",
+          "channel": "Telugu Stocks Stories 1",
+          "views": 25,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Analysis | Should You Apply? Full DRHP Review, Financials, Valuation & Risks",
+          "url": "https://www.youtube.com/watch?v=8ZBmogPU_OI",
+          "channel": "Think Finance with P",
+          "views": 0,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO Review",
+          "url": "https://www.youtube.com/watch?v=tesrkLrteus",
+          "channel": "CA Pradeep Rajput",
+          "views": 2559,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "ardee-industries"
+    },
+    {
+      "name": "Dhaval Packaging",
+      "gmp": 8.0,
+      "gmp_pct": 8.25,
+      "price_band": "₹97",
+      "lot_size": "",
+      "open_date": "30-3 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹105 (8.25%)",
+      "ipo_type": "BSE SME",
+      "status": "Closed",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "review_score": 0.5353,
+      "videos": [
+        {
+          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
+          "url": "https://www.youtube.com/watch?v=209KlfQR7mM",
+          "channel": "Share Market with Vini",
+          "views": 605,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging IPO Allotment 🔴 Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Gmp 🔴 Dhaval Packaging",
+          "url": "https://www.youtube.com/watch?v=0ChLztBTFUo",
+          "channel": "Share Market with Vini",
+          "views": 13,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging - SME IPO Review | Dhaval Packaging IPO GMP Today | SME IPO Analysis | Apply Or ...",
+          "url": "https://www.youtube.com/watch?v=flnUXPLS6lI",
+          "channel": "Ankit Pareek",
+          "views": 587,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging IPO 🔴 Dhaval Packaging IPO Review 🔴Dhaval Packaging IPO Gmp Today 🔴Dhaval Packaging",
+          "url": "https://www.youtube.com/watch?v=JSvDZuxAMyM",
+          "channel": "Share Market with Vini",
+          "views": 219,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhaval Packaging IPO: Apply or Avoid? 🚨",
+          "url": "https://www.youtube.com/watch?v=EeYg7cGxZ5c",
+          "channel": "The FinReason",
+          "views": 565,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "",
+      "slug": "dhaval-packaging"
+    }
+  ]
+}

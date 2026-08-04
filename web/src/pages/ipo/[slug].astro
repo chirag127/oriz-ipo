@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadSnapshot, type Ipo } from '../../lib/data';
+
+export function getStaticPaths() {
+  const snap = loadSnapshot();
+  return snap.picks
+    .filter((p) => p.slug)
+    .map((ipo) => ({ params: { slug: ipo.slug }, props: { ipo } }));
+}
+
+const { ipo } = Astro.props as { ipo: Ipo };
+const pct = ipo.gmp_pct ?? 0;
+const sme = /sme/i.test(ipo.ipo_type);
+---
+
+<Base title={`${ipo.name} — ${pct.toFixed(1)}% GMP`} desc={ipo.summary}>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <span class="tag"><span class="pulse" aria-hidden="true"></span><a href="/">← Terminal</a></span>
+      <h1>{ipo.name}</h1>
+      <p class="sub">{ipo.summary || `Grey-market premium ~${pct.toFixed(1)}%.`}</p>
+      <div class="meta">
+        <span>GMP <b style="color:var(--up)">{pct.toFixed(1)}%</b></span>
+        {ipo.gmp != null && <span>₹<b>{ipo.gmp}</b></span>}
+        {ipo.price_band && <span>band <b>{ipo.price_band}</b></span>}
+        <span><b>{sme ? 'SME' : 'Mainboard'}</b></span>
+        {ipo.status && <span><b>{ipo.status}</b></span>}
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {ipo.videos.length > 0 ? (
+      <table class="ledger">
+        <thead><tr><th>Review</th><th class="hide-sm">Channel</th><th style="text-align:right">Views</th></tr></thead>
+        <tbody>
+          {ipo.videos.map((v) => (
+            <tr>
+              <td><a class="name" href={v.url} target="_blank" rel="noopener">{v.title}</a></td>
+              <td class="hide-sm" style="color:var(--dim)">{v.channel || '—'}</td>
+              <td class="gmp" style="color:var(--ink)">{v.views ? v.views.toLocaleString() : '—'}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    ) : (
+      <p class="empty">No YouTube reviews gathered for this IPO yet.</p>
+    )}
+  </main>
+
+  <footer>
+    <div class="wrap">
+      Not investment advice. GMP is an unofficial signal. · <a href="/">Back to terminal</a>
+    </div>
+  </footer>
+</Base>

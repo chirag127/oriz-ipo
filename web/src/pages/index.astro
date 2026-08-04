@@ -1,0 +1,82 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadSnapshot } from '../lib/data';
+
+const snap = loadSnapshot();
+const picks = snap.picks;
+const maxPct = Math.max(1, ...picks.map((p) => p.gmp_pct ?? 0));
+const updated = snap.generated_at ? new Date(snap.generated_at).toUTCString() : 'awaiting first run';
+const stars = (s: number) => (s >= 0.75 ? '★★★' : s >= 0.6 ? '★★' : s >= 0.4 ? '★' : '');
+---
+
+<Base>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <span class="tag"><span class="pulse" aria-hidden="true"></span>Live grey-market premium</span>
+      <h1>IPO <span class="ticker">GMP</span> Terminal</h1>
+      <p class="sub">
+        Every open India IPO with a grey-market premium above 5%, ranked by GMP.
+        Cross-checked across sources, enriched with YouTube reviews, refreshed hourly.
+      </p>
+      <div class="meta">
+        <span><b>{snap.count_picks}</b> above 5%</span>
+        <span><b>{snap.count_all}</b> tracked</span>
+        <span>source <b>{snap.source || '—'}</b></span>
+        <span class="hide-sm">updated <b>{updated}</b></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {picks.length === 0 ? (
+      <p class="empty">No IPO is above the 5% GMP threshold right now. Check back next hour.</p>
+    ) : (
+      <table class="ledger">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>IPO</th>
+            <th class="hide-sm">Band</th>
+            <th class="hide-sm">Type</th>
+            <th class="hide-sm">Reviews</th>
+            <th style="text-align:right">GMP</th>
+          </tr>
+        </thead>
+        <tbody>
+          {picks.map((ipo, i) => {
+            const pct = ipo.gmp_pct ?? 0;
+            const sme = /sme/i.test(ipo.ipo_type);
+            return (
+              <tr>
+                <td class="rank">{String(i + 1).padStart(2, '0')}</td>
+                <td>
+                  <a href={`/ipo/${ipo.slug}`} class="name">
+                    {ipo.name}
+                    <small>{ipo.status || 'IPO'} · {ipo.source}</small>
+                  </a>
+                </td>
+                <td class="hide-sm">{ipo.price_band || '—'}</td>
+                <td class="hide-sm"><span class={`pill ${sme ? 'sme' : ''}`}>{sme ? 'SME' : 'Mainboard'}</span></td>
+                <td class="hide-sm">
+                  <span class="stars">{stars(ipo.review_score)}</span>
+                  {ipo.videos.length > 0 && <span style="color:var(--dim)"> {ipo.videos.length}</span>}
+                </td>
+                <td class="gmp up">
+                  {pct.toFixed(1)}%
+                  <span class="bar"><i style={`width:${Math.min(100, (pct / maxPct) * 100)}%`}></i></span>
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    )}
+  </main>
+
+  <footer>
+    <div class="wrap">
+      Not investment advice. GMP is an unofficial grey-market signal, not a listing guarantee.
+      Data aggregated from public GMP trackers · <a href="https://oriz.in">oriz.in</a>
+    </div>
+  </footer>
+</Base>

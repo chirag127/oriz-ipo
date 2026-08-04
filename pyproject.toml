@@ -1,0 +1,29 @@
+[project]
+name = "ipo-watch"
+version = "0.1.0"
+description = "Hourly India IPO grey-market-premium (GMP) analyzer + notifier"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28",
+    "selectolax>=0.3.25",
+    "yt-dlp>=2026.1.1",
+    "g4f>=0.3",
+]
+
+[project.optional-dependencies]
+browser = ["playwright>=1.50"]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+ipo-watch = "ipo_watch.__main__:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
