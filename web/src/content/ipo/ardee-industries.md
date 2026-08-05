@@ -1,20 +1,20 @@
 ---
-title: "Ardee Industries IPO — 15.1% grey-market premium"
-gmp_pct: 15.09
-gmp: "8.0"
+title: "Ardee Industries IPO — 24.5% grey-market premium"
+gmp_pct: 24.53
+gmp: "13.0"
 price_band: "₹53"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5434
+review_score: 0.5000
 ---
 
-Ardee Industries' IPO is currently open with a price band of ₹53 and a good GMP of approximately 15.1%, indicating positive market sentiment. However, the review score of 0.54 suggests mixed opinions, warranting careful consideration before investing.
+Ardee Industries’ IPO shows a moderate grey‑market premium and middling review sentiment, suggesting neither strong enthusiasm nor clear red flags. With a low price band and mainboard listing, it appears to be a fairly typical small‑cap offering attracting cautious interest from reviewers.
 
 ## Reviews
 
-- [Ardee Industries IPO 🔴Ardee Industries IPO Review 🔴Ardee Industries IPO Gmp🔴Dhaval Packaging Limited](https://www.youtube.com/watch?v=ggya5DbQoX8) — Share Market with Vini (46 views)
-- [Ardee Industries IPO - Analysis | Ardee Industries IPO Review |](https://www.youtube.com/watch?v=MkO3V7XTkUE) — Anant Ladha (17,441 views)
-- [Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=z910IT6NX5I) — Knowledge Jazz (24,343 views)
-- [Ardee Industries IPO Detailed Analysis Telugu • Ardee Industries IPO GMP • Ardee Ind IPO Telugu](https://www.youtube.com/watch?v=vfEEuRb102E) — Telugu Stocks Stories 1 (402 views)
-- [Ardee Industries IPO | GMP LIVE | Ardee industries IPO analysis / IPO 2026/ share market](https://www.youtube.com/watch?v=kIpUlQlOF4s) — News Concept Vikas (185 views)
+- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (4,208 views)
+- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (3,560 views)
+- [Ardee Industries IPO 🔴Ardee Industries IPO Review 🔴Ardee Industries IPO Gmp🔴Dhaval Packaging Limited](https://www.youtube.com/watch?v=ggya5DbQoX8) — Share Market with Vini (247 views)
+- [Ardee Industries IPO Latest Update | Ardee Industries IPO GMP status ? | Ardee IPO Latest news](https://www.youtube.com/watch?v=bXspWVRA8y0) — Satwasiya Pankaj (780 views)
+- [Ardee Industries IPO | MV Electrosystems IPO | Juniper Green Energy IPO | IPO GMP | Stock Market Tak](https://www.youtube.com/watch?v=3y6QUzF2QF0) — Stock Market Tak (352 views)
