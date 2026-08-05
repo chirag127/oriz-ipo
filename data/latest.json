@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:47:33+00:00",
+  "generated_at": "2026-08-05T12:11:40+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 19,
@@ -85,14 +85,14 @@
     },
     {
       "name": "Dhoot Transmission",
-      "gmp": 253.0,
-      "gmp_pct": 29.05,
+      "gmp": 255.0,
+      "gmp_pct": 29.28,
       "price_band": "₹871",
       "lot_size": "",
       "open_date": "10-12 August",
       "close_date": "",
       "listing_date": "",
-      "est_listing": "₹1,124 (29.05%)",
+      "est_listing": "₹1,126 (29.28%)",
       "ipo_type": "Mainboard",
       "status": "Upcoming",
       "source": "ipowatch",
@@ -229,17 +229,17 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹425.87 Cr",
-      "sub_total": 2.18,
-      "sub_qib": 1.12,
-      "sub_nii": 3.22,
-      "sub_retail": 2.35,
+      "sub_total": 3.2,
+      "sub_qib": 1.13,
+      "sub_nii": 5.57,
+      "sub_retail": 3.38,
       "review_score": 0.5,
       "videos": [
         {
           "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
           "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 4208,
+          "views": 6185,
           "upload_date": "",
           "sentiment": ""
         },
@@ -247,15 +247,23 @@
           "title": "₹ 53 Ardee Recycling Company IPO: Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=JwGvl20pU7c",
           "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 3560,
+          "views": 7499,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO 🔴Ardee Industries IPO Review 🔴Ardee Industries IPO Gmp🔴Dhaval Packaging Limited",
-          "url": "https://www.youtube.com/watch?v=ggya5DbQoX8",
-          "channel": "Share Market with Vini",
-          "views": 247,
+          "title": "Ardee Industries IPO: CMD Sandeep Aggarwal On Growth, EV Opportunity & IPO Plans",
+          "url": "https://www.youtube.com/watch?v=ung7pUYrZLs",
+          "channel": "Business Today",
+          "views": 779,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Manipal Health Enterprises IPO Listing के बाद क्या करें?Ardee Industries IPO में बनेगा पैसा?",
+          "url": "https://www.youtube.com/watch?v=efpm3tXPdPI",
+          "channel": "The Bonus",
+          "views": 4044,
           "upload_date": "",
           "sentiment": ""
         },
@@ -263,21 +271,13 @@
           "title": "Ardee Industries IPO Latest Update | Ardee Industries IPO GMP status ? | Ardee IPO Latest news",
           "url": "https://www.youtube.com/watch?v=bXspWVRA8y0",
           "channel": "Satwasiya Pankaj",
-          "views": 780,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Ardee Industries IPO | MV Electrosystems IPO | Juniper Green Energy IPO | IPO GMP | Stock Market Tak",
-          "url": "https://www.youtube.com/watch?v=3y6QUzF2QF0",
-          "channel": "Stock Market Tak",
-          "views": 352,
+          "views": 1251,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries’ IPO shows a moderate grey‑market premium and middling review sentiment, suggesting neither strong enthusiasm nor clear red flags. With a low price band and mainboard listing, it appears to be a fairly typical small‑cap offering attracting cautious interest from reviewers.",
-      "comment_analysis": "Reviewers show a **cautiously neutral-to-negative tilt**, with most leaning **“avoid or only for listing gain”** rather than a confident “apply.” Across videos, the recurring themes are **stretched valuation for a small-scale recycling/packaging business**, **weak or limited fundamentals**, and reliance on a **modest GMP of ~₹24–25** that suggests only **short-term listing pop rather than long-term conviction**. Overall sentiment clusters around **low enthusiasm, high risk, and no strong long‑term investment case**.",
+      "summary": "Ardee Industries’ IPO shows moderate grey‑market interest and a middling review score, suggesting sentiment is neither strongly bullish nor overtly negative. With a low price band and mixed public commentary, it appears to be positioned as a typical small‑cap industrial listing rather than a standout opportunity.",
+      "comment_analysis": "Reviewers show a **cautiously positive but not unanimous** lean toward *apply only for listing gains*, with few voices making a strong long‑term conviction case. Across videos, the recurring themes are the **modest GMP (~₹24–25)**, **reasonable but not standout fundamentals**, and the company’s **EV‑recycling growth narrative** highlighted in the CMD interview. Most reviewers frame the IPO as a **sentiment/GMP-driven listing‑gain opportunity rather than a valuation-led or deep‑fundamentals bet**, with long‑term views remaining tentative.",
       "slug": "ardee-industries"
     },
     {
@@ -558,17 +558,17 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹425.87 Cr",
-      "sub_total": 2.18,
-      "sub_qib": 1.12,
-      "sub_nii": 3.22,
-      "sub_retail": 2.35,
+      "sub_total": 3.2,
+      "sub_qib": 1.13,
+      "sub_nii": 5.57,
+      "sub_retail": 3.38,
       "review_score": 0.5,
       "videos": [
         {
           "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
           "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 4208,
+          "views": 6185,
           "upload_date": "",
           "sentiment": ""
         },
@@ -576,15 +576,23 @@
           "title": "₹ 53 Ardee Recycling Company IPO: Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=JwGvl20pU7c",
           "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 3560,
+          "views": 7499,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO 🔴Ardee Industries IPO Review 🔴Ardee Industries IPO Gmp🔴Dhaval Packaging Limited",
-          "url": "https://www.youtube.com/watch?v=ggya5DbQoX8",
-          "channel": "Share Market with Vini",
-          "views": 247,
+          "title": "Ardee Industries IPO: CMD Sandeep Aggarwal On Growth, EV Opportunity & IPO Plans",
+          "url": "https://www.youtube.com/watch?v=ung7pUYrZLs",
+          "channel": "Business Today",
+          "views": 779,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Manipal Health Enterprises IPO Listing के बाद क्या करें?Ardee Industries IPO में बनेगा पैसा?",
+          "url": "https://www.youtube.com/watch?v=efpm3tXPdPI",
+          "channel": "The Bonus",
+          "views": 4044,
           "upload_date": "",
           "sentiment": ""
         },
@@ -592,21 +600,13 @@
           "title": "Ardee Industries IPO Latest Update | Ardee Industries IPO GMP status ? | Ardee IPO Latest news",
           "url": "https://www.youtube.com/watch?v=bXspWVRA8y0",
           "channel": "Satwasiya Pankaj",
-          "views": 780,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Ardee Industries IPO | MV Electrosystems IPO | Juniper Green Energy IPO | IPO GMP | Stock Market Tak",
-          "url": "https://www.youtube.com/watch?v=3y6QUzF2QF0",
-          "channel": "Stock Market Tak",
-          "views": 352,
+          "views": 1251,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries’ IPO shows a moderate grey‑market premium and middling review sentiment, suggesting neither strong enthusiasm nor clear red flags. With a low price band and mainboard listing, it appears to be a fairly typical small‑cap offering attracting cautious interest from reviewers.",
-      "comment_analysis": "Reviewers show a **cautiously neutral-to-negative tilt**, with most leaning **“avoid or only for listing gain”** rather than a confident “apply.” Across videos, the recurring themes are **stretched valuation for a small-scale recycling/packaging business**, **weak or limited fundamentals**, and reliance on a **modest GMP of ~₹24–25** that suggests only **short-term listing pop rather than long-term conviction**. Overall sentiment clusters around **low enthusiasm, high risk, and no strong long‑term investment case**.",
+      "summary": "Ardee Industries’ IPO shows moderate grey‑market interest and a middling review score, suggesting sentiment is neither strongly bullish nor overtly negative. With a low price band and mixed public commentary, it appears to be positioned as a typical small‑cap industrial listing rather than a standout opportunity.",
+      "comment_analysis": "Reviewers show a **cautiously positive but not unanimous** lean toward *apply only for listing gains*, with few voices making a strong long‑term conviction case. Across videos, the recurring themes are the **modest GMP (~₹24–25)**, **reasonable but not standout fundamentals**, and the company’s **EV‑recycling growth narrative** highlighted in the CMD interview. Most reviewers frame the IPO as a **sentiment/GMP-driven listing‑gain opportunity rather than a valuation-led or deep‑fundamentals bet**, with long‑term views remaining tentative.",
       "slug": "ardee-industries"
     }
   ]
