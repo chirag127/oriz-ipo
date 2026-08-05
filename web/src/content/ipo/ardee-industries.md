@@ -1,20 +1,20 @@
 ---
-title: "Ardee Industries IPO — 13.2% grey-market premium"
-gmp_pct: 13.20
-gmp: "7.0"
+title: "Ardee Industries IPO — 15.1% grey-market premium"
+gmp_pct: 15.09
+gmp: "8.0"
 price_band: "₹53"
 ipo_type: "Mainboard"
-status: "Upcoming"
+status: "Open"
 source: "ipowatch"
-review_score: 0.5664
+review_score: 0.5434
 ---
 
-Ardee Industries' upcoming IPO is priced at ₹53 with a grey market premium of approximately 13.2%, indicating some positive sentiment among investors. However, the review score of 0.57 suggests mixed opinions on its investment potential, warranting careful consideration.
+Ardee Industries' IPO is currently open with a price band of ₹53 and a good GMP of approximately 15.1%, indicating positive market sentiment. However, the review score of 0.54 suggests mixed opinions, warranting careful consideration before investing.
 
 ## Reviews
 
-- [Ardee Industries IPO - Analysis | Ardee Industries IPO Review |](https://www.youtube.com/watch?v=MkO3V7XTkUE) — Anant Ladha (16,666 views)
-- [Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=z910IT6NX5I) — Knowledge Jazz (24,208 views)
-- [Ardee Industries IPO Detailed Analysis Telugu • Ardee Industries IPO GMP • Ardee Ind IPO Telugu](https://www.youtube.com/watch?v=vfEEuRb102E) — Telugu Stocks Stories 1 (349 views)
+- [Ardee Industries IPO 🔴Ardee Industries IPO Review 🔴Ardee Industries IPO Gmp🔴Dhaval Packaging Limited](https://www.youtube.com/watch?v=ggya5DbQoX8) — Share Market with Vini (46 views)
+- [Ardee Industries IPO - Analysis | Ardee Industries IPO Review |](https://www.youtube.com/watch?v=MkO3V7XTkUE) — Anant Ladha (17,441 views)
+- [Ardee Industries IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=z910IT6NX5I) — Knowledge Jazz (24,343 views)
+- [Ardee Industries IPO Detailed Analysis Telugu • Ardee Industries IPO GMP • Ardee Ind IPO Telugu](https://www.youtube.com/watch?v=vfEEuRb102E) — Telugu Stocks Stories 1 (402 views)
 - [Ardee Industries IPO | GMP LIVE | Ardee industries IPO analysis / IPO 2026/ share market](https://www.youtube.com/watch?v=kIpUlQlOF4s) — News Concept Vikas (185 views)
-- [Ardee Industries IPO Review | Apply or Avoid? | GMP | Listing Gains | Full Analysis](https://www.youtube.com/watch?v=I3B6TRNQlY8) — Tamil Nifty Zone (10 views)
