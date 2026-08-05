@@ -6,32 +6,51 @@ from ipo_watch.models import Ipo, Snapshot, ReviewVideo
 from ipo_watch.pipeline import rank, _change_key, write_blog_posts, THRESHOLD_PCT
 
 
-def _ipo(name, pct, review=0.0):
-    i = Ipo(name=name, gmp_pct=pct)
+def _ipo(name, pct, review=0.0, status="Open", ipo_type="Mainboard"):
+    """Open mainboard IPO by default (the only kind that ranks)."""
+    i = Ipo(name=name, gmp_pct=pct, status=status, ipo_type=ipo_type)
     i.review_score = review
     return i
 
 
 def test_rank_filters_below_threshold():
     ipos = [_ipo("A", 12.0), _ipo("B", 5.0), _ipo("C", 4.9), _ipo("D", None)]
-    picks = rank(ipos)
-    names = [p.name for p in picks]
+    names = [p.name for p in rank(ipos)]
     assert "A" in names
     assert "B" not in names  # 5.0 is NOT > 5
     assert "C" not in names
     assert "D" not in names
 
 
+def test_rank_open_only():
+    ipos = [
+        _ipo("OpenOne", 20.0, status="Open"),
+        _ipo("Upcoming", 40.0, status="Upcoming"),
+        _ipo("Closed", 35.0, status="Closed"),
+        _ipo("Listed", 50.0, status="Listed"),
+    ]
+    names = [p.name for p in rank(ipos)]
+    assert names == ["OpenOne"]  # only the OPEN one, despite lower GMP
+
+
+def test_rank_no_sme():
+    ipos = [
+        _ipo("Main", 15.0, ipo_type="Mainboard"),
+        _ipo("SmeHigh", 90.0, ipo_type="NSE SME"),
+        _ipo("SmeHigh2", 80.0, ipo_type="BSE SME"),
+    ]
+    names = [p.name for p in rank(ipos)]
+    assert names == ["Main"]  # SME excluded even at 90% GMP
+
+
 def test_rank_sorts_by_gmp_then_review():
     ipos = [_ipo("low", 10.0, 0.9), _ipo("high", 30.0, 0.1), _ipo("mid", 20.0, 0.5)]
-    picks = rank(ipos)
-    assert [p.name for p in picks] == ["high", "mid", "low"]
+    assert [p.name for p in rank(ipos)] == ["high", "mid", "low"]
 
 
 def test_rank_review_score_is_tiebreaker():
     ipos = [_ipo("x", 15.0, 0.2), _ipo("y", 15.0, 0.8)]
-    picks = rank(ipos)
-    assert [p.name for p in picks] == ["y", "x"]  # equal GMP, higher review first
+    assert [p.name for p in rank(ipos)] == ["y", "x"]
 
 
 def test_change_key_detects_change():

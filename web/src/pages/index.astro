@@ -23,6 +23,7 @@ const stars = (s: number) => (s >= 0.75 ? '★★★' : s >= 0.6 ? '★★' : s 
         <span><b>{snap.count_all}</b> tracked</span>
         <span>source <b>{snap.source || '—'}</b></span>
         <span class="hide-sm">updated <b>{updated}</b></span>
+        <span><a href="/history" style="color:var(--up)">history →</a></span>
       </div>
     </div>
   </header>
@@ -54,6 +55,7 @@ const stars = (s: number) => (s >= 0.75 ? '★★★' : s >= 0.6 ? '★★' : s 
                     {ipo.name}
                     <small>{ipo.status || 'IPO'} · {ipo.source}</small>
                   </a>
+                  {ipo.summary && <p class="ai-snip">{ipo.summary.slice(0, 130)}{ipo.summary.length > 130 ? '…' : ''} <a href={`/ipo/${ipo.slug}`}>analysis →</a></p>}
                 </td>
                 <td class="hide-sm">{ipo.price_band || '—'}</td>
                 <td class="hide-sm"><span class={`pill ${sme ? 'sme' : ''}`}>{sme ? 'SME' : 'Mainboard'}</span></td>

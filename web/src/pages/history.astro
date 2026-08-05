@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadHistory } from '../lib/data';
+
+const history = loadHistory();
+---
+
+<Base title="History — IPO GMP Terminal" desc="Hourly archive of India IPO grey-market-premium snapshots.">
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <span class="tag"><span class="pulse" aria-hidden="true"></span><a href="/">← Terminal</a></span>
+      <h1>Snapshot <span class="ticker">history</span></h1>
+      <p class="sub">Every hourly GMP snapshot, newest first. Each row is a committed data point — see how the open-IPO board moved over time.</p>
+      <div class="meta"><span><b>{history.length}</b> snapshots archived</span></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {history.length === 0 ? (
+      <p class="empty">No history yet. Snapshots accumulate hourly.</p>
+    ) : (
+      <table class="ledger">
+        <thead>
+          <tr><th>Date</th><th>Picks</th><th class="hide-sm">Source</th><th>Top movers</th></tr>
+        </thead>
+        <tbody>
+          {history.map((h) => (
+            <tr>
+              <td class="name">{h.date}</td>
+              <td class="gmp" style="color:var(--up);width:60px">{h.count_picks}</td>
+              <td class="hide-sm" style="color:var(--dim)">{h.source || '—'}</td>
+              <td>
+                {h.top.map((t) => (
+                  <a href={`/ipo/${t.slug}`} class="chip">{t.name} <b>{(t.gmp_pct ?? 0).toFixed(0)}%</b></a>
+                ))}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    )}
+  </main>
+
+  <footer>
+    <div class="wrap">
+      Not investment advice. · <a href="/">Terminal</a>
+    </div>
+  </footer>
+
+  <style is:global>
+    .chip { display: inline-flex; gap: 5px; align-items: baseline; margin: 0 8px 6px 0; padding: 3px 9px; border: 1px solid var(--line); border-radius: 999px; font-size: 12px; color: var(--dim); }
+    .chip b { color: var(--up); font-family: var(--font-mono); }
+    .chip:hover { border-color: var(--up); }
+  </style>
+</Base>

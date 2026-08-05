@@ -40,15 +40,29 @@ class Ipo:
     source: str = ""               # which site produced this row
     kostak: str = ""
     subject_to: str = ""
+    issue_size: str = ""           # e.g. "₹1,200 Cr"
+    sub_total: float | None = None # times subscribed (overall), e.g. 12.4
+    sub_qib: float | None = None   # QIB times
+    sub_nii: float | None = None   # NII/HNI times
+    sub_retail: float | None = None
     review_score: float = 0.0      # tiebreaker, 0..1
     videos: list[ReviewVideo] = field(default_factory=list)
-    summary: str = ""              # g4f / template blurb
+    summary: str = ""              # g4f / template blurb (the AI analysis)
+    comment_analysis: str = ""     # g4f analysis of review-video signals
     slug: str = ""
 
     def to_dict(self) -> dict[str, Any]:
         d = asdict(self)
         d["videos"] = [v.to_dict() for v in self.videos]
         return d
+
+    @property
+    def is_open(self) -> bool:
+        return "open" in (self.status or "").lower()
+
+    @property
+    def is_sme(self) -> bool:
+        return "sme" in (self.ipo_type or "").lower()
 
 
 @dataclass(slots=True)

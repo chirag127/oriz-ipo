@@ -8,10 +8,11 @@ import json
 import logging
 from pathlib import Path
 
-from .llm.summary import summarise
+from .llm.summary import analyse_comments, summarise
 from .models import Ipo, Snapshot
 from .reviews.youtube import gather_reviews
 from .sources import scrape_first_available
+from .sources.subscription import enrich_subscription
 from .util import slugify
 
 log = logging.getLogger("ipo_watch")
@@ -20,8 +21,15 @@ THRESHOLD_PCT = 5.0
 
 
 def rank(ipos: list[Ipo], threshold: float = THRESHOLD_PCT) -> list[Ipo]:
-    """Picks = gmp_pct > threshold, sorted by GMP% desc (review_score tiebreaker)."""
-    picks = [i for i in ipos if (i.gmp_pct or 0) > threshold]
+    """Picks = OPEN mainboard IPOs with gmp_pct > threshold, sorted by GMP% desc.
+
+    Per user directive 2026-08-05: only currently-OPEN IPOs, no SME (mainboard
+    only). review_score is the tiebreaker; GMP% is the primary sort key.
+    """
+    picks = [
+        i for i in ipos
+        if (i.gmp_pct or 0) > threshold and i.is_open and not i.is_sme
+    ]
     picks.sort(key=lambda i: (i.gmp_pct or 0, i.review_score), reverse=True)
     return picks
 
@@ -116,9 +124,16 @@ def run(
             gather_reviews(ipo)
         # review_score is the tiebreaker — re-sort after gathering
         picks.sort(key=lambda i: (i.gmp_pct or 0, i.review_score), reverse=True)
+
+    # subscription + issue size (best-effort; never blocks the run)
+    try:
+        enrich_subscription(picks)
+    except Exception as e:  # noqa: BLE001
+        log.warning("subscription enrich failed: %s", e)
     if with_llm:
         for ipo in picks:
             ipo.summary = summarise(ipo)
+            ipo.comment_analysis = analyse_comments(ipo)
 
     prev = load_previous(data_dir)
     changed = prev is None or _change_key(prev.picks) != _change_key(picks)
