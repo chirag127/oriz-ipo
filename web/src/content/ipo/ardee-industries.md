@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Ardee Industries shows a moderate grey‑market premium and middling review sentiment, suggesting balanced but not overwhelming interest. Its positioning as a mainboard recycling‑focused player may appeal to some investors, though current buzz appears measured rather than strong.
+Ardee Industries’ GMP near 24.5% and a middling review score of 0.50 suggest moderate but not overwhelming sentiment around the issue. With a low price band and mixed retail commentary, the IPO appears to be drawing interest mainly from value-focused participants rather than broad enthusiasm.
 
 ## Reviews
 
-- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (9,709 views)
-- [Ardee Industries IPO analysis | Ardee IPO latest GMP | Apply or avoid Technocraft Ventures | RD IPO](https://www.youtube.com/watch?v=xNsRr0ENnNs) — Vibhor Varshney (2,233 views)
-- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid? Ashish Kacholia  Invested](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (15,664 views)
-- [Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ](https://www.youtube.com/watch?v=DZS3lCmpQC8) — Anant Ladha (5,936 views)
-- [Ardee Industries IPO: CMD Sandeep Aggarwal On Growth, EV Opportunity & IPO Plans](https://www.youtube.com/watch?v=ung7pUYrZLs) — Business Today (1,656 views)
+- [Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist](https://www.youtube.com/watch?v=xNsRr0ENnNs) — Vibhor Varshney (4,950 views)
+- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (12,073 views)
+- [Ardee Industries IPO Review | Final Decsion | Apply or Avoid?](https://www.youtube.com/watch?v=5-Gv70XeUwg) — Yogesh Mantri (1,023 views)
+- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (21,627 views)
+- [Ardee Industries IPO Review || Ardee Industries IPO GMP | Pankaj Ladha](https://www.youtube.com/watch?v=j2z_LNkQxgs) — Pankaj Ladha (1,694 views)
