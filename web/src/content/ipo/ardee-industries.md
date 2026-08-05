@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Ardee Industries shows a moderate GMP uplift of about 24.5%, while online reviews appear mixed and score only 0.50, suggesting sentiment is neither strongly positive nor negative. Its positioning as a mainboard IPO with active comparisons to peers indicates typical retail interest but no clear consensus on its near-term prospects.
+Ardee Industries’ IPO shows a moderate grey‑market premium of about 24.5%, suggesting balanced but not exuberant early sentiment. With a mid‑range review score and mixed coverage in YouTube reviews, it appears to be drawing measured interest rather than strong conviction from retail watchers.
 
 ## Reviews
 
-- [Ardee Industries IPO analysis | Ardee IPO latest GMP | Apply or avoid Technocraft Ventures | RD IPO](https://www.youtube.com/watch?v=xNsRr0ENnNs) — Vibhor Varshney (7,312 views)
-- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (13,523 views)
-- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (25,518 views)
-- [Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ](https://www.youtube.com/watch?v=DZS3lCmpQC8) — Anant Ladha (14,634 views)
-- [Ardee Industries IPO Review || Ardee Industries IPO GMP | Pankaj Ladha](https://www.youtube.com/watch?v=j2z_LNkQxgs) — Pankaj Ladha (2,620 views)
+- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (14,229 views)
+- [Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist](https://www.youtube.com/watch?v=xNsRr0ENnNs) — Vibhor Varshney (9,092 views)
+- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (27,352 views)
+- [Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ](https://www.youtube.com/watch?v=DZS3lCmpQC8) — Anant Ladha (16,599 views)
+- [Ardee Industries IPO Review | Final Decsion | Apply or Avoid?](https://www.youtube.com/watch?v=5-Gv70XeUwg) — Yogesh Mantri (1,684 views)
