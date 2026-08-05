@@ -120,9 +120,21 @@ const { title = 'IPO GMP Terminal — ipo.oriz.in', desc = 'Live India IPO grey-
         .pulse { animation: none; }
       }
       :focus-visible { outline: 2px solid var(--up); outline-offset: 2px; }
+
+      /* oriz wordmark — top-left on every page */
+      .oriz-brand {
+        position: sticky; top: 0; z-index: 50;
+        display: block; padding: 8px 20px;
+        font-family: var(--font-disp); font-weight: 700; font-size: 14px;
+        letter-spacing: 0.02em; color: var(--ink);
+        background: var(--bg); border-bottom: 1px solid var(--line);
+      }
+      .oriz-brand span { color: var(--up); }
+      .oriz-brand:hover { color: var(--up); }
     </style>
   </head>
   <body>
+    <a class="oriz-brand" href="https://oriz.in">oriz<span>.in</span></a>
     <slot />
   </body>
 </html>
