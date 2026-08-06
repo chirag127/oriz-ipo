@@ -6,15 +6,15 @@ price_band: "₹53"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5203
+review_score: 0.5399
 ---
 
-Ardee Industries shows a moderate grey‑market premium and middling review sentiment, suggesting tempered but present interest from early watchers. Its low price band and mainboard listing make it accessible, though current buzz appears neither strongly positive nor negative.
+Ardee Industries shows a moderate grey‑market premium and middling review sentiment, suggesting tempered but present listing‑day interest. The mixed YouTube chatter and a 0.54 review score point to a generally cautious market stance rather than strong conviction.
 
 ## Reviews
 
-- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (16,847 views)
-- [Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist](https://www.youtube.com/watch?v=xNsRr0ENnNs) — Vibhor Varshney (15,772 views)
-- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (34,668 views)
-- [Detailed IPO Review of Ardee Industries || Should You Apply? || Paryan Sharma](https://www.youtube.com/watch?v=g1idB1f5wec) — Paryan Sharma Equities (522 views)
-- [Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ](https://www.youtube.com/watch?v=DZS3lCmpQC8) — Anant Ladha (22,945 views)
+- [Ardee Industries IPO Review I Ardee Industries Apply or Avoid I Ardee Industries IPO Listing gain](https://www.youtube.com/watch?v=P0uaElRQYwg) — 𝓛𝓮𝓪𝓻𝓷 𝓽𝓸 𝓔𝓪𝓻𝓷 𝓫𝔂 𝔸𝕂ℝ (354 views)
+- [Ardee Industries Ltd. - #IPO Review by  @Tradeswift1](https://www.youtube.com/watch?v=TdLF98rCCPU) — Sandeep Jain (3,936 views)
+- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (35,639 views)
+- [Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist](https://www.youtube.com/watch?v=xNsRr0ENnNs) — Vibhor Varshney (16,930 views)
+- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (17,451 views)
