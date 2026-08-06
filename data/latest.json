@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T06:44:40+00:00",
+  "generated_at": "2026-08-06T09:50:34+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
-  "count_all": 17,
+  "count_all": 19,
   "count_picks": 1,
   "all_ipos": [
     {
@@ -32,10 +32,62 @@
       "slug": ""
     },
     {
+      "name": "Shiprocket",
+      "gmp": 0.0,
+      "gmp_pct": 0.0,
+      "price_band": "₹97",
+      "lot_size": "",
+      "open_date": "12-13 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹- (0.00%)",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "comment_analysis": "",
+      "slug": ""
+    },
+    {
+      "name": "Fascinate Textiles",
+      "gmp": 0.0,
+      "gmp_pct": 0.0,
+      "price_band": "₹156",
+      "lot_size": "",
+      "open_date": "11-13 August",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "₹- (0.00%)",
+      "ipo_type": "NSE SME",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "comment_analysis": "",
+      "slug": ""
+    },
+    {
       "name": "Milky Mist",
       "gmp": 0.0,
       "gmp_pct": 0.0,
-      "price_band": "₹-",
+      "price_band": "₹140",
       "lot_size": "",
       "open_date": "11-13 August",
       "close_date": "",
@@ -229,17 +281,25 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹425.87 Cr",
-      "sub_total": 7.13,
-      "sub_qib": 1.16,
-      "sub_nii": 13.62,
-      "sub_retail": 7.75,
-      "review_score": 0.5,
+      "sub_total": 12.07,
+      "sub_qib": 1.23,
+      "sub_nii": 24.72,
+      "sub_retail": 12.84,
+      "review_score": 0.5203,
       "videos": [
         {
-          "title": "Ardee Industries IPO review | IPO GMP | Molbio Diagnostics | Vibhor varshney | Upcoming IPO |",
+          "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
+          "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
+          "channel": "Palash Bopche -WealthyFied",
+          "views": 16847,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist",
           "url": "https://www.youtube.com/watch?v=xNsRr0ENnNs",
           "channel": "Vibhor Varshney",
-          "views": 12737,
+          "views": 15772,
           "upload_date": "",
           "sentiment": ""
         },
@@ -247,15 +307,15 @@
           "title": "₹ 53 Ardee Recycling Company IPO: Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=JwGvl20pU7c",
           "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 31996,
+          "views": 34668,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
-          "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
-          "channel": "Palash Bopche -WealthyFied",
-          "views": 15579,
+          "title": "Detailed IPO Review of Ardee Industries || Should You Apply? || Paryan Sharma",
+          "url": "https://www.youtube.com/watch?v=g1idB1f5wec",
+          "channel": "Paryan Sharma Equities",
+          "views": 522,
           "upload_date": "",
           "sentiment": ""
         },
@@ -263,21 +323,13 @@
           "title": "Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ",
           "url": "https://www.youtube.com/watch?v=DZS3lCmpQC8",
           "channel": "Anant Ladha",
-          "views": 20145,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Ardee Industries IPO Retail को 35%Allotment| Ardee Industries IPO GMP status?| Ardee IPO Latest news",
-          "url": "https://www.youtube.com/watch?v=GdhaQQeJUzE",
-          "channel": "Satwasiya Pankaj",
-          "views": 351,
+          "views": 22945,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries shows a moderate GMP uplift of about **28%**, but its middling review score suggests sentiment is mixed. With a low price band and ongoing comparisons to other industrial IPOs, investors appear to be treating it as a cautiously watched small-cap listing rather than a clear standout.",
-      "comment_analysis": "Reviewers generally lean **cautiously positive**, with most suggesting that Ardee Industries may be suitable for **listing‑gain applicants** rather than strong long‑term conviction. Across videos, recurring themes include a **modest GMP (~28%)**, discussion of **basic but acceptable fundamentals**, and concerns about **valuation comfort** given the company’s recycling‑sector profile. The consensus tone is: *apply only if aiming for short‑term gains; long‑term investors may want deeper diligence or prefer stronger peers*.",
+      "summary": "Ardee Industries shows a moderate grey‑market premium and middling review sentiment, suggesting tempered but present interest from early watchers. Its low price band and mainboard listing make it accessible, though current buzz appears neither strongly positive nor negative.",
+      "comment_analysis": "Reviewers show a **mildly cautious-to-negative tilt**, with several leaning **avoid or only apply for listing gains** rather than long‑term conviction. Across videos, recurring themes include **concerns about valuation**, limited clarity on **fundamentals/business strength**, and reliance on **GMP (~₹28–29)** as the main positive talking point. Most reviewers frame Ardee Industries as a **short-term listing‑gain opportunity** at best, with **weak long‑term visibility** and comparisons to other contemporaneous IPOs often placing it in the **less attractive** bucket.",
       "slug": "ardee-industries"
     },
     {
@@ -506,17 +558,25 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹425.87 Cr",
-      "sub_total": 7.13,
-      "sub_qib": 1.16,
-      "sub_nii": 13.62,
-      "sub_retail": 7.75,
-      "review_score": 0.5,
+      "sub_total": 12.07,
+      "sub_qib": 1.23,
+      "sub_nii": 24.72,
+      "sub_retail": 12.84,
+      "review_score": 0.5203,
       "videos": [
         {
-          "title": "Ardee Industries IPO review | IPO GMP | Molbio Diagnostics | Vibhor varshney | Upcoming IPO |",
+          "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
+          "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
+          "channel": "Palash Bopche -WealthyFied",
+          "views": 16847,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist",
           "url": "https://www.youtube.com/watch?v=xNsRr0ENnNs",
           "channel": "Vibhor Varshney",
-          "views": 12737,
+          "views": 15772,
           "upload_date": "",
           "sentiment": ""
         },
@@ -524,15 +584,15 @@
           "title": "₹ 53 Ardee Recycling Company IPO: Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=JwGvl20pU7c",
           "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 31996,
+          "views": 34668,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
-          "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
-          "channel": "Palash Bopche -WealthyFied",
-          "views": 15579,
+          "title": "Detailed IPO Review of Ardee Industries || Should You Apply? || Paryan Sharma",
+          "url": "https://www.youtube.com/watch?v=g1idB1f5wec",
+          "channel": "Paryan Sharma Equities",
+          "views": 522,
           "upload_date": "",
           "sentiment": ""
         },
@@ -540,21 +600,13 @@
           "title": "Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ",
           "url": "https://www.youtube.com/watch?v=DZS3lCmpQC8",
           "channel": "Anant Ladha",
-          "views": 20145,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Ardee Industries IPO Retail को 35%Allotment| Ardee Industries IPO GMP status?| Ardee IPO Latest news",
-          "url": "https://www.youtube.com/watch?v=GdhaQQeJUzE",
-          "channel": "Satwasiya Pankaj",
-          "views": 351,
+          "views": 22945,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries shows a moderate GMP uplift of about **28%**, but its middling review score suggests sentiment is mixed. With a low price band and ongoing comparisons to other industrial IPOs, investors appear to be treating it as a cautiously watched small-cap listing rather than a clear standout.",
-      "comment_analysis": "Reviewers generally lean **cautiously positive**, with most suggesting that Ardee Industries may be suitable for **listing‑gain applicants** rather than strong long‑term conviction. Across videos, recurring themes include a **modest GMP (~28%)**, discussion of **basic but acceptable fundamentals**, and concerns about **valuation comfort** given the company’s recycling‑sector profile. The consensus tone is: *apply only if aiming for short‑term gains; long‑term investors may want deeper diligence or prefer stronger peers*.",
+      "summary": "Ardee Industries shows a moderate grey‑market premium and middling review sentiment, suggesting tempered but present interest from early watchers. Its low price band and mainboard listing make it accessible, though current buzz appears neither strongly positive nor negative.",
+      "comment_analysis": "Reviewers show a **mildly cautious-to-negative tilt**, with several leaning **avoid or only apply for listing gains** rather than long‑term conviction. Across videos, recurring themes include **concerns about valuation**, limited clarity on **fundamentals/business strength**, and reliance on **GMP (~₹28–29)** as the main positive talking point. Most reviewers frame Ardee Industries as a **short-term listing‑gain opportunity** at best, with **weak long‑term visibility** and comparisons to other contemporaneous IPOs often placing it in the **less attractive** bucket.",
       "slug": "ardee-industries"
     }
   ]
