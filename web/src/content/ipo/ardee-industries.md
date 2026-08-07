@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Ardee Industries shows a moderate grey‑market premium and a middling review score, suggesting balanced sentiment rather than strong conviction. The open chatter around allotment chances and a known investor’s participation adds visibility, but overall signals point to a cautiously neutral market reception.
+Ardee Industries’ GMP of about **28%** suggests moderate listing interest, while the middling review score indicates a mixed sentiment among early watchers. With a low price band and active discussion around allotment chances, it appears to be drawing attention without a clear consensus on strength.
 
 ## Reviews
 
-- [Ardee Industries IPO Subscription Status 💥| Ardee Industries IPO Allotment Chances](https://www.youtube.com/watch?v=W4l9FvkraoM) — Share Bazar with Ayush (716 views)
-- [ardee industries ipo allotment Chances? ardee industries ipo gmp?  ipo latest news.](https://www.youtube.com/watch?v=4ZHbaeWgz8M) — Bonus & Split (547 views)
-- [Ardee Industries IPO Final Decision || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=ChNBhYptmts) — Palash Bopche -WealthyFied (15,945 views)
-- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid? Ashish Kacholia  Invested](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (45,568 views)
-- [Ardee Industries IPO | Ardee Industries IPO Allotment Status | Upcoming IPO 2026 | Stock Market Tak](https://www.youtube.com/watch?v=hqEC45pitu4) — Stock Market Tak (781 views)
+- [Ardee Industries IPO Subscription Status 💥| Ardee Industries IPO Allotment Chances](https://www.youtube.com/watch?v=W4l9FvkraoM) — Share Bazar with Ayush (1,446 views)
+- [Ardee Industries IPO Allotment Chances | Ardee Industries IPO GMP Today ](https://www.youtube.com/watch?v=SiwSHLU-wW0) — Financial Yoddha (437 views)
+- [Ardee Industries IPO Final Decision || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=ChNBhYptmts) — Palash Bopche -WealthyFied (16,703 views)
+- [ardee industries ipo allotment Chances? ardee industries ipo gmp?  ipo latest news.](https://www.youtube.com/watch?v=4ZHbaeWgz8M) — Bonus & Split (939 views)
+- [Ardee Industries IPO | Ardee Industries IPO Allotment Status | Upcoming IPO 2026 | Stock Market Tak](https://www.youtube.com/watch?v=hqEC45pitu4) — Stock Market Tak (1,339 views)
