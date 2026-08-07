@@ -6,15 +6,15 @@ price_band: "₹159"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5366
+review_score: 0.5355
 ---
 
-LEAP India’s GMP near 12.6% and a middling review score suggest moderate but not overwhelming sentiment, with neither strong excitement nor clear red flags dominating retail chatter. The mainboard listing and steady discussion across review channels indicate a routine IPO where interest exists, but conviction appears measured rather than emphatic.
+LEAP India’s GMP near 12.6% and a middling review score of 0.54 suggest moderate but not overwhelming sentiment from early watchers. With a mainboard listing at ₹159 and mixed YouTube chatter, retail interest appears present yet measured rather than strongly conviction‑driven.
 
 ## Reviews
 
-- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (10,267 views)
-- [Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo](https://www.youtube.com/watch?v=Vb-3o_0FQyc) — Divyanshu Chaturvedi (259 views)
-- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (2,552 views)
-- [ARDEE IPO GMP | Leap India IPO GMP | Dhoot Transmission IPO GMP | Molbio IPO GMP | Technocraft IPO 💥](https://www.youtube.com/watch?v=bm_ggk6aGSw) — Share Bazar with Ayush (1,127 views)
-- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (14,496 views)
+- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (10,532 views)
+- [Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo](https://www.youtube.com/watch?v=Vb-3o_0FQyc) — Divyanshu Chaturvedi (362 views)
+- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (15,034 views)
+- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (4,977 views)
+- [ARDEE IPO GMP | Leap India IPO GMP | Dhoot Transmission IPO GMP | Molbio IPO GMP | Technocraft IPO 💥](https://www.youtube.com/watch?v=bm_ggk6aGSw) — Share Bazar with Ayush (1,547 views)
