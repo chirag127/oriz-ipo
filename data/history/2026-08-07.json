@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:07:11+00:00",
+  "generated_at": "2026-08-07T11:57:27+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 17,
@@ -228,26 +228,26 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5375,
+      "issue_size": "₹2480.00 Cr",
+      "sub_total": 0.28,
+      "sub_qib": 0.64,
+      "sub_nii": 0.12,
+      "sub_retail": 0.14,
+      "review_score": 0.5366,
       "videos": [
-        {
-          "title": "Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo",
-          "url": "https://www.youtube.com/watch?v=Vb-3o_0FQyc",
-          "channel": "Divyanshu Chaturvedi",
-          "views": 205,
-          "upload_date": "",
-          "sentiment": ""
-        },
         {
           "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
           "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
           "channel": "Vibhor Varshney",
-          "views": 10004,
+          "views": 10267,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo",
+          "url": "https://www.youtube.com/watch?v=Vb-3o_0FQyc",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 259,
           "upload_date": "",
           "sentiment": ""
         },
@@ -255,7 +255,7 @@
           "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
           "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
           "channel": "The Bonus",
-          "views": 1626,
+          "views": 2552,
           "upload_date": "",
           "sentiment": ""
         },
@@ -263,7 +263,7 @@
           "title": "ARDEE IPO GMP | Leap India IPO GMP | Dhoot Transmission IPO GMP | Molbio IPO GMP | Technocraft IPO 💥",
           "url": "https://www.youtube.com/watch?v=bm_ggk6aGSw",
           "channel": "Share Bazar with Ayush",
-          "views": 832,
+          "views": 1127,
           "upload_date": "",
           "sentiment": ""
         },
@@ -271,13 +271,13 @@
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 14138,
+          "views": 14496,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "LEAP India's IPO is currently open with a price band of ₹159 and a grey market premium indicating potential interest, but mixed online reviews suggest cautious optimism. Retail investors should consider weighing the 0.54 review score and market conditions before making a decision.",
-      "comment_analysis": "Reviewers broadly lean **cautious-to-neutral**, with most suggesting a **selective or moderate apply** rather than a strong endorsement. The recurring themes are **rich valuation** (notably the ~112x P/E), a **low-to-modest GMP**, and solid **fundamentals with strong revenue/PAT growth** supported by industry tailwinds. Most reviewers frame the IPO as **more suitable for listing gains if demand holds**, while long‑term conviction is tempered by concerns around valuation and the large OFS component.  [[0]](https://chanakyanipothi.com/leap-india-ipo-review/) [[1]](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)\n\n\n\n> [0] [LEAP India IPO Review](https://chanakyanipothi.com/leap-india-ipo-review/)\n>\n> [1] [LEAP India IPO Review 2026: Should You Subscribe? GMP, Financial Analysis, Valuation & Long-Term Outlook | India Infoline](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)",
+      "summary": "LEAP India’s GMP near 12.6% and a middling review score suggest moderate but not overwhelming sentiment, with neither strong excitement nor clear red flags dominating retail chatter. The mainboard listing and steady discussion across review channels indicate a routine IPO where interest exists, but conviction appears measured rather than emphatic.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative tilt**, with most leaning **toward “avoid” or only consider for small listing-gain speculation**. The recurring themes are **stretched valuation**, **weak or inconsistent fundamentals**, and a **low GMP (~12–13%) that doesn’t signal strong demand**. Across videos, analysts repeatedly frame LEAP India as **not compelling for long-term holding**, with any interest driven mainly by **short-term listing pop rather than business strength**.",
       "slug": "leap-india"
     },
     {
@@ -321,26 +321,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5,
+      "issue_size": "₹251.88 Cr",
+      "sub_total": 2.59,
+      "sub_qib": 4.47,
+      "sub_nii": 3.8,
+      "sub_retail": 1.01,
+      "review_score": 0.4905,
       "videos": [
         {
           "title": "Technocraft Ventures IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=JPg4Jcm42n0",
           "channel": "Knowledge Jazz",
-          "views": 14556,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Technocraft Venture IPO Latest Update | Technocraft IPO GMP status ? | Technocraft IPO Latest news",
-          "url": "https://www.youtube.com/watch?v=id9tpd48luY",
-          "channel": "Satwasiya Pankaj",
-          "views": 486,
+          "views": 14762,
           "upload_date": "",
           "sentiment": ""
         },
@@ -348,29 +340,37 @@
           "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
           "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
           "channel": "The Bonus",
-          "views": 1626,
+          "views": 2552,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist",
-          "url": "https://www.youtube.com/watch?v=xNsRr0ENnNs",
-          "channel": "Vibhor Varshney",
-          "views": 26757,
+          "title": "Technocraft Venture IPO Latest Update | Technocraft IPO GMP status ? | Technocraft IPO Latest news",
+          "url": "https://www.youtube.com/watch?v=id9tpd48luY",
+          "channel": "Satwasiya Pankaj",
+          "views": 581,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft Ventures IPO Review 🔥 | GMP Today, Apply or Skip? | Full Analysis Hindi",
-          "url": "https://www.youtube.com/watch?v=ZaGaZfo6uqU",
-          "channel": "Gaurav Kale",
+          "title": "Technocraft Ventures IPO Review — GMP, Financials & Risks Explained..",
+          "url": "https://www.youtube.com/watch?v=nV97SCdY9mE",
+          "channel": "Dhyan Gyan Share Market Bangla",
           "views": 0,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ",
+          "url": "https://www.youtube.com/watch?v=DZS3lCmpQC8",
+          "channel": "Anant Ladha",
+          "views": 31550,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures' IPO, with a price band of ₹212 and a GMP of ~7.5%, has garnered moderate interest reflected in its neutral review score of 0.50. Retail investors should consider the company's fundamentals and market conditions before making a decision.",
-      "comment_analysis": "Reviewer sentiment leans mildly **positive**, with most analysts tilting toward *Apply* for at least listing gains, though a few adopt a neutral stance. Common themes include a **reasonable valuation**, **strong recent earnings growth**, and **healthy but modest GMP** in the ~5–8% range, alongside repeated mention that the IPO proceeds are largely for **working‑capital needs**, which adds some caution. Overall, reviewers see potential short‑term listing upside and selectively favorable long‑term prospects, contingent on execution and cash‑flow discipline.  [[0]](https://www.business-standard.com/markets/ipo/technocraft-ventures-ipo-review-brokerages-split-gmp-stands-at-6-subscription-date-126080601048_1.html) [[1]](https://chanakyanipothi.com/technocraft-ventures-ipo-review/) [[2]](https://www.sushilfinance.com/blogs/IPO-Note/Technocraft-Ventures-Limited-IPO) [[3]](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-opens-today-gmp-signals-8-premium-should-you-subscribe/articleshow/133019823.cms) [[4]](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-sets-price-band-opens-august-7-check-gmp-key-details/articleshow/132826666.cms)\n\n\n\n> [0] [Technocraft Ventures IPO review: Brokerages split; GMP stands at 6% | IPO - Business Standard](https://www.business-standard.com/markets/ipo/technocraft-ventures-ipo-review-brokerages-split-gmp-stands-at-6-subscription-date-126080601048_1.html)\n>\n> [1] [Technocraft Ventures IPO Review: Apply or Avoid?](https://chanakyanipothi.com/technocraft-ventures-ipo-review/)\n>\n> [2] [Technocraft Ventures Limited IPO Note & Review | Sushil Finance](https://www.sushilfinance.com/blogs/IPO-Note/Technocraft-Ventures-Limited-IPO)\n>\n> [3] [Technocraft Ventures IPO opens today: GMP signals 8% premium. Should you subscribe? - The Economic Times](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-opens-today-gmp-signals-8-premium-should-you-subscribe/articleshow/133019823.cms)\n>\n> [4] [Technocraft Ventures IPO sets price band, opens August 7. Check GMP, key details - The Economic Times](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-sets-price-band-opens-august-7-check-gmp-key-details/articleshow/132826666.cms)",
+      "summary": "Technocraft Ventures shows a modest GMP and a middling review score, suggesting sentiment is neither strongly positive nor negative. With mixed YouTube commentary and a standard mainboard profile, it appears to be viewed as a fairly routine offering without a clear consensus tilt.",
+      "comment_analysis": "Reviewers lean towards a cautious approach for Technocraft Ventures' IPO, with a focus on valuation concerns and modest grey market premium (GMP) around 7.5%. Common themes include scrutiny of the company's fundamentals and financials, with discussions on potential listing gains versus long-term investment prospects.",
       "slug": "technocraft-ventures"
     },
     {
@@ -414,18 +414,26 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
+      "issue_size": "₹425.87 Cr",
+      "sub_total": 138.83,
+      "sub_qib": 202.26,
+      "sub_nii": 266.75,
+      "sub_retail": 47.76,
       "review_score": 0.5,
       "videos": [
         {
           "title": "Ardee Industries IPO Final Decision || Ardee Industries IPO GMP",
           "url": "https://www.youtube.com/watch?v=ChNBhYptmts",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 12654,
+          "views": 14358,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "ardee industries ipo allotment Chances? ardee industries ipo gmp?  ipo latest news.",
+          "url": "https://www.youtube.com/watch?v=4ZHbaeWgz8M",
+          "channel": "Bonus & Split",
+          "views": 64,
           "upload_date": "",
           "sentiment": ""
         },
@@ -433,15 +441,15 @@
           "title": "Ardee Industries Ltd. - #IPO Review by  @Tradeswift1",
           "url": "https://www.youtube.com/watch?v=TdLF98rCCPU",
           "channel": "Sandeep Jain",
-          "views": 17428,
+          "views": 17627,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "₹ 53 Ardee Recycling Company IPO: Apply or Avoid?",
-          "url": "https://www.youtube.com/watch?v=JwGvl20pU7c",
-          "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 44830,
+          "title": "ARDEE IPO GMP | Leap India IPO GMP | Dhoot Transmission IPO GMP | Molbio IPO GMP | Technocraft IPO 💥",
+          "url": "https://www.youtube.com/watch?v=bm_ggk6aGSw",
+          "channel": "Share Bazar with Ayush",
+          "views": 1127,
           "upload_date": "",
           "sentiment": ""
         },
@@ -449,21 +457,13 @@
           "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
           "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 21808,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "ARDEE INDUSTRIES IPO Final Decision 💥| Ardee Industries IPO Day 3 Subscription Status",
-          "url": "https://www.youtube.com/watch?v=26NaD8OQa7k",
-          "channel": "Share Bazar with Ayush",
-          "views": 469,
+          "views": 21854,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries’ GMP of about 28% and a middling review score suggest moderate market interest rather than strong conviction. With a low price band and mixed commentary from reviewers, sentiment appears cautiously neutral as the IPO remains open.",
-      "comment_analysis": "Reviewers show a **cautiously positive but not unanimous “apply for listing gains”** tilt. Most discussions revolve around the **strong GMP (~28%)**, healthy subscription momentum, and a business model seen as stable but not particularly high‑growth. The recurring theme is that fundamentals appear **average to moderate**, valuation is not considered cheap, and long‑term conviction is limited—so the consensus leans toward **applying mainly for short‑term listing gains rather than long‑term holding**.",
+      "summary": "Ardee Industries' IPO is currently open with a price band of ₹53 and a grey market premium around 28.3%, indicating moderate interest. The mixed review scores suggest investors should carefully evaluate the company's fundamentals and market conditions before participating.",
+      "comment_analysis": "Reviewers broadly lean **“apply”**, citing steady GMP interest and generally solid fundamentals. They repeatedly discuss valuation relative to peers, the company’s lead‑recycling business strength, and improving financials, while also noting risks. Most videos frame the IPO as suitable for **listing gains**, with some suggesting it could be held long‑term if investors are comfortable with sector‑specific risks.  [[0]](https://www.youtube.com/watch?v=r8bdN8Z7VqE) [[1]](https://www.youtube.com/watch?v=aPNZFbm6oFQ) [[2]](https://www.youtube.com/watch?v=E2f88qVLChk)\n\n\n\n> [0] [Ardee Industries IPO Review | Apply or Avoid? 24% GMP, Price Band & Full Analysis - YouTube](https://www.youtube.com/watch?v=r8bdN8Z7VqE)\n>\n> [1] [₹50-53 Price Band! Ardee Industries IPO Review | Listing Gain Ya Long Term? - YouTube](https://www.youtube.com/watch?v=aPNZFbm6oFQ)\n>\n> [2] [Ardee Industries IPO: We Read the DRHP So You Don't Have To! Apply Or Avoid Explained - YouTube](https://www.youtube.com/watch?v=E2f88qVLChk)",
       "slug": "ardee-industries"
     },
     {
@@ -587,18 +587,26 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
+      "issue_size": "₹425.87 Cr",
+      "sub_total": 138.83,
+      "sub_qib": 202.26,
+      "sub_nii": 266.75,
+      "sub_retail": 47.76,
       "review_score": 0.5,
       "videos": [
         {
           "title": "Ardee Industries IPO Final Decision || Ardee Industries IPO GMP",
           "url": "https://www.youtube.com/watch?v=ChNBhYptmts",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 12654,
+          "views": 14358,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "ardee industries ipo allotment Chances? ardee industries ipo gmp?  ipo latest news.",
+          "url": "https://www.youtube.com/watch?v=4ZHbaeWgz8M",
+          "channel": "Bonus & Split",
+          "views": 64,
           "upload_date": "",
           "sentiment": ""
         },
@@ -606,15 +614,15 @@
           "title": "Ardee Industries Ltd. - #IPO Review by  @Tradeswift1",
           "url": "https://www.youtube.com/watch?v=TdLF98rCCPU",
           "channel": "Sandeep Jain",
-          "views": 17428,
+          "views": 17627,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "₹ 53 Ardee Recycling Company IPO: Apply or Avoid?",
-          "url": "https://www.youtube.com/watch?v=JwGvl20pU7c",
-          "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 44830,
+          "title": "ARDEE IPO GMP | Leap India IPO GMP | Dhoot Transmission IPO GMP | Molbio IPO GMP | Technocraft IPO 💥",
+          "url": "https://www.youtube.com/watch?v=bm_ggk6aGSw",
+          "channel": "Share Bazar with Ayush",
+          "views": 1127,
           "upload_date": "",
           "sentiment": ""
         },
@@ -622,21 +630,13 @@
           "title": "Ardee Industries IPO Review || Ardee Industries IPO GMP",
           "url": "https://www.youtube.com/watch?v=iljuKsvGakY",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 21808,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "ARDEE INDUSTRIES IPO Final Decision 💥| Ardee Industries IPO Day 3 Subscription Status",
-          "url": "https://www.youtube.com/watch?v=26NaD8OQa7k",
-          "channel": "Share Bazar with Ayush",
-          "views": 469,
+          "views": 21854,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Ardee Industries’ GMP of about 28% and a middling review score suggest moderate market interest rather than strong conviction. With a low price band and mixed commentary from reviewers, sentiment appears cautiously neutral as the IPO remains open.",
-      "comment_analysis": "Reviewers show a **cautiously positive but not unanimous “apply for listing gains”** tilt. Most discussions revolve around the **strong GMP (~28%)**, healthy subscription momentum, and a business model seen as stable but not particularly high‑growth. The recurring theme is that fundamentals appear **average to moderate**, valuation is not considered cheap, and long‑term conviction is limited—so the consensus leans toward **applying mainly for short‑term listing gains rather than long‑term holding**.",
+      "summary": "Ardee Industries' IPO is currently open with a price band of ₹53 and a grey market premium around 28.3%, indicating moderate interest. The mixed review scores suggest investors should carefully evaluate the company's fundamentals and market conditions before participating.",
+      "comment_analysis": "Reviewers broadly lean **“apply”**, citing steady GMP interest and generally solid fundamentals. They repeatedly discuss valuation relative to peers, the company’s lead‑recycling business strength, and improving financials, while also noting risks. Most videos frame the IPO as suitable for **listing gains**, with some suggesting it could be held long‑term if investors are comfortable with sector‑specific risks.  [[0]](https://www.youtube.com/watch?v=r8bdN8Z7VqE) [[1]](https://www.youtube.com/watch?v=aPNZFbm6oFQ) [[2]](https://www.youtube.com/watch?v=E2f88qVLChk)\n\n\n\n> [0] [Ardee Industries IPO Review | Apply or Avoid? 24% GMP, Price Band & Full Analysis - YouTube](https://www.youtube.com/watch?v=r8bdN8Z7VqE)\n>\n> [1] [₹50-53 Price Band! Ardee Industries IPO Review | Listing Gain Ya Long Term? - YouTube](https://www.youtube.com/watch?v=aPNZFbm6oFQ)\n>\n> [2] [Ardee Industries IPO: We Read the DRHP So You Don't Have To! Apply Or Avoid Explained - YouTube](https://www.youtube.com/watch?v=E2f88qVLChk)",
       "slug": "ardee-industries"
     },
     {
@@ -654,26 +654,26 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5375,
+      "issue_size": "₹2480.00 Cr",
+      "sub_total": 0.28,
+      "sub_qib": 0.64,
+      "sub_nii": 0.12,
+      "sub_retail": 0.14,
+      "review_score": 0.5366,
       "videos": [
-        {
-          "title": "Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo",
-          "url": "https://www.youtube.com/watch?v=Vb-3o_0FQyc",
-          "channel": "Divyanshu Chaturvedi",
-          "views": 205,
-          "upload_date": "",
-          "sentiment": ""
-        },
         {
           "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
           "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
           "channel": "Vibhor Varshney",
-          "views": 10004,
+          "views": 10267,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo",
+          "url": "https://www.youtube.com/watch?v=Vb-3o_0FQyc",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 259,
           "upload_date": "",
           "sentiment": ""
         },
@@ -681,7 +681,7 @@
           "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
           "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
           "channel": "The Bonus",
-          "views": 1626,
+          "views": 2552,
           "upload_date": "",
           "sentiment": ""
         },
@@ -689,7 +689,7 @@
           "title": "ARDEE IPO GMP | Leap India IPO GMP | Dhoot Transmission IPO GMP | Molbio IPO GMP | Technocraft IPO 💥",
           "url": "https://www.youtube.com/watch?v=bm_ggk6aGSw",
           "channel": "Share Bazar with Ayush",
-          "views": 832,
+          "views": 1127,
           "upload_date": "",
           "sentiment": ""
         },
@@ -697,13 +697,13 @@
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 14138,
+          "views": 14496,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "LEAP India's IPO is currently open with a price band of ₹159 and a grey market premium indicating potential interest, but mixed online reviews suggest cautious optimism. Retail investors should consider weighing the 0.54 review score and market conditions before making a decision.",
-      "comment_analysis": "Reviewers broadly lean **cautious-to-neutral**, with most suggesting a **selective or moderate apply** rather than a strong endorsement. The recurring themes are **rich valuation** (notably the ~112x P/E), a **low-to-modest GMP**, and solid **fundamentals with strong revenue/PAT growth** supported by industry tailwinds. Most reviewers frame the IPO as **more suitable for listing gains if demand holds**, while long‑term conviction is tempered by concerns around valuation and the large OFS component.  [[0]](https://chanakyanipothi.com/leap-india-ipo-review/) [[1]](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)\n\n\n\n> [0] [LEAP India IPO Review](https://chanakyanipothi.com/leap-india-ipo-review/)\n>\n> [1] [LEAP India IPO Review 2026: Should You Subscribe? GMP, Financial Analysis, Valuation & Long-Term Outlook | India Infoline](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)",
+      "summary": "LEAP India’s GMP near 12.6% and a middling review score suggest moderate but not overwhelming sentiment, with neither strong excitement nor clear red flags dominating retail chatter. The mainboard listing and steady discussion across review channels indicate a routine IPO where interest exists, but conviction appears measured rather than emphatic.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative tilt**, with most leaning **toward “avoid” or only consider for small listing-gain speculation**. The recurring themes are **stretched valuation**, **weak or inconsistent fundamentals**, and a **low GMP (~12–13%) that doesn’t signal strong demand**. Across videos, analysts repeatedly frame LEAP India as **not compelling for long-term holding**, with any interest driven mainly by **short-term listing pop rather than business strength**.",
       "slug": "leap-india"
     },
     {
@@ -721,26 +721,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5,
+      "issue_size": "₹251.88 Cr",
+      "sub_total": 2.59,
+      "sub_qib": 4.47,
+      "sub_nii": 3.8,
+      "sub_retail": 1.01,
+      "review_score": 0.4905,
       "videos": [
         {
           "title": "Technocraft Ventures IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=JPg4Jcm42n0",
           "channel": "Knowledge Jazz",
-          "views": 14556,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Technocraft Venture IPO Latest Update | Technocraft IPO GMP status ? | Technocraft IPO Latest news",
-          "url": "https://www.youtube.com/watch?v=id9tpd48luY",
-          "channel": "Satwasiya Pankaj",
-          "views": 486,
+          "views": 14762,
           "upload_date": "",
           "sentiment": ""
         },
@@ -748,29 +740,37 @@
           "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
           "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
           "channel": "The Bonus",
-          "views": 1626,
+          "views": 2552,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist",
-          "url": "https://www.youtube.com/watch?v=xNsRr0ENnNs",
-          "channel": "Vibhor Varshney",
-          "views": 26757,
+          "title": "Technocraft Venture IPO Latest Update | Technocraft IPO GMP status ? | Technocraft IPO Latest news",
+          "url": "https://www.youtube.com/watch?v=id9tpd48luY",
+          "channel": "Satwasiya Pankaj",
+          "views": 581,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft Ventures IPO Review 🔥 | GMP Today, Apply or Skip? | Full Analysis Hindi",
-          "url": "https://www.youtube.com/watch?v=ZaGaZfo6uqU",
-          "channel": "Gaurav Kale",
+          "title": "Technocraft Ventures IPO Review — GMP, Financials & Risks Explained..",
+          "url": "https://www.youtube.com/watch?v=nV97SCdY9mE",
+          "channel": "Dhyan Gyan Share Market Bangla",
           "views": 0,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ",
+          "url": "https://www.youtube.com/watch?v=DZS3lCmpQC8",
+          "channel": "Anant Ladha",
+          "views": 31550,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures' IPO, with a price band of ₹212 and a GMP of ~7.5%, has garnered moderate interest reflected in its neutral review score of 0.50. Retail investors should consider the company's fundamentals and market conditions before making a decision.",
-      "comment_analysis": "Reviewer sentiment leans mildly **positive**, with most analysts tilting toward *Apply* for at least listing gains, though a few adopt a neutral stance. Common themes include a **reasonable valuation**, **strong recent earnings growth**, and **healthy but modest GMP** in the ~5–8% range, alongside repeated mention that the IPO proceeds are largely for **working‑capital needs**, which adds some caution. Overall, reviewers see potential short‑term listing upside and selectively favorable long‑term prospects, contingent on execution and cash‑flow discipline.  [[0]](https://www.business-standard.com/markets/ipo/technocraft-ventures-ipo-review-brokerages-split-gmp-stands-at-6-subscription-date-126080601048_1.html) [[1]](https://chanakyanipothi.com/technocraft-ventures-ipo-review/) [[2]](https://www.sushilfinance.com/blogs/IPO-Note/Technocraft-Ventures-Limited-IPO) [[3]](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-opens-today-gmp-signals-8-premium-should-you-subscribe/articleshow/133019823.cms) [[4]](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-sets-price-band-opens-august-7-check-gmp-key-details/articleshow/132826666.cms)\n\n\n\n> [0] [Technocraft Ventures IPO review: Brokerages split; GMP stands at 6% | IPO - Business Standard](https://www.business-standard.com/markets/ipo/technocraft-ventures-ipo-review-brokerages-split-gmp-stands-at-6-subscription-date-126080601048_1.html)\n>\n> [1] [Technocraft Ventures IPO Review: Apply or Avoid?](https://chanakyanipothi.com/technocraft-ventures-ipo-review/)\n>\n> [2] [Technocraft Ventures Limited IPO Note & Review | Sushil Finance](https://www.sushilfinance.com/blogs/IPO-Note/Technocraft-Ventures-Limited-IPO)\n>\n> [3] [Technocraft Ventures IPO opens today: GMP signals 8% premium. Should you subscribe? - The Economic Times](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-opens-today-gmp-signals-8-premium-should-you-subscribe/articleshow/133019823.cms)\n>\n> [4] [Technocraft Ventures IPO sets price band, opens August 7. Check GMP, key details - The Economic Times](https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-sets-price-band-opens-august-7-check-gmp-key-details/articleshow/132826666.cms)",
+      "summary": "Technocraft Ventures shows a modest GMP and a middling review score, suggesting sentiment is neither strongly positive nor negative. With mixed YouTube commentary and a standard mainboard profile, it appears to be viewed as a fairly routine offering without a clear consensus tilt.",
+      "comment_analysis": "Reviewers lean towards a cautious approach for Technocraft Ventures' IPO, with a focus on valuation concerns and modest grey market premium (GMP) around 7.5%. Common themes include scrutiny of the company's fundamentals and financials, with discussions on potential listing gains versus long-term investment prospects.",
       "slug": "technocraft-ventures"
     }
   ]

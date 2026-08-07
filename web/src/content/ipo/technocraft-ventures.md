@@ -6,15 +6,15 @@ price_band: "₹212"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5000
+review_score: 0.4905
 ---
 
-Technocraft Ventures' IPO, with a price band of ₹212 and a GMP of ~7.5%, has garnered moderate interest reflected in its neutral review score of 0.50. Retail investors should consider the company's fundamentals and market conditions before making a decision.
+Technocraft Ventures shows a modest GMP and a middling review score, suggesting sentiment is neither strongly positive nor negative. With mixed YouTube commentary and a standard mainboard profile, it appears to be viewed as a fairly routine offering without a clear consensus tilt.
 
 ## Reviews
 
-- [Technocraft Ventures IPO Review | Apply Or Avoid ? | Jayesh Khatri ](https://www.youtube.com/watch?v=JPg4Jcm42n0) — Knowledge Jazz (14,556 views)
-- [Technocraft Venture IPO Latest Update | Technocraft IPO GMP status ? | Technocraft IPO Latest news](https://www.youtube.com/watch?v=id9tpd48luY) — Satwasiya Pankaj (486 views)
-- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (1,626 views)
-- [Ardee Industries IPO review | Ardee IPO GMP | LEAP India | Dhoot Transmission IPO GMP | Milky mist](https://www.youtube.com/watch?v=xNsRr0ENnNs) — Vibhor Varshney (26,757 views)
-- [Technocraft Ventures IPO Review 🔥 | GMP Today, Apply or Skip? | Full Analysis Hindi](https://www.youtube.com/watch?v=ZaGaZfo6uqU) — Gaurav Kale (0 views)
+- [Technocraft Ventures IPO Review | Apply Or Avoid ? | Jayesh Khatri ](https://www.youtube.com/watch?v=JPg4Jcm42n0) — Knowledge Jazz (14,762 views)
+- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (2,552 views)
+- [Technocraft Venture IPO Latest Update | Technocraft IPO GMP status ? | Technocraft IPO Latest news](https://www.youtube.com/watch?v=id9tpd48luY) — Satwasiya Pankaj (581 views)
+- [Technocraft Ventures IPO Review — GMP, Financials & Risks Explained..](https://www.youtube.com/watch?v=nV97SCdY9mE) — Dhyan Gyan Share Market Bangla (0 views)
+- [Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ](https://www.youtube.com/watch?v=DZS3lCmpQC8) — Anant Ladha (31,550 views)
