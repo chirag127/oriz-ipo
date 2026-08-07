@@ -6,15 +6,15 @@ price_band: "₹53"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5530
+review_score: 0.5000
 ---
 
-Ardee Industries’ IPO shows moderate grey‑market interest with a GMP near 28%, while public reviews and a middling 0.55 sentiment score suggest a mixed reception. The ₹53 pricing and mainboard listing position it as a conventional offering without strong signals in either direction for retail participants.
+Ardee Industries’ GMP near 28% and a middling review score suggest moderate but not overwhelming market enthusiasm for the listing. With a low price band and steady retail chatter, sentiment appears balanced rather than strongly bullish or bearish.
 
 ## Reviews
 
-- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (20,401 views)
-- [Ardee Industries Ltd. - #IPO Review by  @Tradeswift1](https://www.youtube.com/watch?v=TdLF98rCCPU) — Sandeep Jain (14,374 views)
-- [Ardee Industries IPO Review Final | Ardee Industries IPO GMP Today](https://www.youtube.com/watch?v=H4SJ2vWjs4k) — Financial Yoddha (106 views)
-- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (41,314 views)
-- [Ardee Industries IPO Review I Ardee Industries Apply or Avoid I Ardee Industries IPO Listing gain](https://www.youtube.com/watch?v=P0uaElRQYwg) — 𝓛𝓮𝓪𝓻𝓷 𝓽𝓸 𝓔𝓪𝓻𝓷 𝓫𝔂 𝔸𝕂ℝ (1,757 views)
+- [Ardee Industries IPO Final Decision || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=ChNBhYptmts) — Palash Bopche -WealthyFied (2,112 views)
+- [Ardee Industries Ltd. - #IPO Review by  @Tradeswift1](https://www.youtube.com/watch?v=TdLF98rCCPU) — Sandeep Jain (14,809 views)
+- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (20,723 views)
+- [Ardee Industries IPO Review Final | Ardee Industries IPO GMP Today](https://www.youtube.com/watch?v=H4SJ2vWjs4k) — Financial Yoddha (362 views)
+- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (41,873 views)

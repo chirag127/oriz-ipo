@@ -6,15 +6,15 @@ price_band: "₹159"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5612
+review_score: 0.5677
 ---
 
-LEAP India's IPO, with a price band of ₹159 and a GMP of approximately 12.6%, has garnered moderate interest among reviewers, suggesting a mixed sentiment. Retail investors should consider this alongside other factors such as financials and industry position before making a decision.
+LEAP India, with a price band of ₹159 and a GMP indicating a ~12.6% premium, presents an average attractiveness for retail investors based on current sentiment and review scores. Given its mainboard status and moderate review score of 0.57, investors might consider evaluating individual risk tolerance and market outlook before proceeding.
 
 ## Reviews
 
-- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (6,967 views)
-- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (9,455 views)
-- [LEAP India IPO Review 🔥 Market Leader Company | Apply करे या नहीं?](https://www.youtube.com/watch?v=yQdrmlWUOhI) — Investors Choice  (65 views)
-- [Leap India IPO 🔴Leap India IPO Review🔴Leap India IPO Gmp🔴Leap India Ltd IPO🔴Leap IPO🔴Leap IPO Review](https://www.youtube.com/watch?v=EQNKnuZ_MH8) — Share Market with Vini (1 views)
-- [LEAP India IPO Analysis । LEAP and Technocraft IPO ranking ।](https://www.youtube.com/watch?v=QrZ-WkzEi-k) — Naren RKP (3,576 views)
+- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (7,452 views)
+- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (10,203 views)
+- [Leap india ipo review🤑leap india ipo gmp today🔥leap india ipo opens today✨leap india ipo gmp up 12%](https://www.youtube.com/watch?v=BxrHk5k22ek) — INVESTMENT ka bazar 🤑🤑 (0 views)
+- [Ardee Industries IPO | Dhoot Transmission IPO | LEAP India IPO | All IPO GMP Today Stock Market Tak](https://www.youtube.com/watch?v=7ol-BNJhxDo) — Stock Market Tak (626 views)
+- [LEAP India IPO Review 🔥 Market Leader Company | Apply करे या नहीं?](https://www.youtube.com/watch?v=yQdrmlWUOhI) — Investors Choice  (196 views)
