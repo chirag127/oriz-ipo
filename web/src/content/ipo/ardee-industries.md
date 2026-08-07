@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Ardee Industries’ GMP near 28% and a middling review score suggest moderate but not overwhelming market enthusiasm for the listing. With a low price band and steady retail chatter, sentiment appears balanced rather than strongly bullish or bearish.
+Ardee Industries' IPO is currently open with a price band of ₹53 and a grey market premium of approximately 28.3%, reflecting moderate investor interest. With a review score of 0.50, opinions are mixed, suggesting that potential investors should carefully evaluate the company's fundamentals and market conditions.
 
 ## Reviews
 
-- [Ardee Industries IPO Final Decision || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=ChNBhYptmts) — Palash Bopche -WealthyFied (2,112 views)
-- [Ardee Industries Ltd. - #IPO Review by  @Tradeswift1](https://www.youtube.com/watch?v=TdLF98rCCPU) — Sandeep Jain (14,809 views)
-- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (20,723 views)
-- [Ardee Industries IPO Review Final | Ardee Industries IPO GMP Today](https://www.youtube.com/watch?v=H4SJ2vWjs4k) — Financial Yoddha (362 views)
-- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (41,873 views)
+- [Ardee Industries IPO Final Decision || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=ChNBhYptmts) — Palash Bopche -WealthyFied (5,450 views)
+- [Ardee Industries Ltd. - #IPO Review by  @Tradeswift1](https://www.youtube.com/watch?v=TdLF98rCCPU) — Sandeep Jain (16,081 views)
+- [Ardee Industries IPO Review || Ardee Industries IPO GMP](https://www.youtube.com/watch?v=iljuKsvGakY) — Palash Bopche -WealthyFied (21,463 views)
+- [Ardee Industries IPO Review Final | Ardee Industries IPO GMP Today](https://www.youtube.com/watch?v=H4SJ2vWjs4k) — Financial Yoddha (670 views)
+- [₹ 53 Ardee Recycling Company IPO: Apply or Avoid?](https://www.youtube.com/watch?v=JwGvl20pU7c) — Money Purse { మనీ పర్స్ } (43,016 views)
