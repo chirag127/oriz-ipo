@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:44:13+00:00",
+  "generated_at": "2026-08-08T18:56:24+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 17,
@@ -259,21 +259,13 @@
       "sub_qib": 0.64,
       "sub_nii": 0.12,
       "sub_retail": 0.14,
-      "review_score": 0.5586,
+      "review_score": 0.5526,
       "videos": [
         {
           "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
           "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
           "channel": "Vibhor Varshney",
-          "views": 13975,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "LEAP India IPO Review | Final Decision | Apply or Avoid?",
-          "url": "https://www.youtube.com/watch?v=TCOguD6NjaQ",
-          "channel": "Yogesh Mantri",
-          "views": 5130,
+          "views": 14151,
           "upload_date": "",
           "sentiment": ""
         },
@@ -281,15 +273,23 @@
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 20470,
+          "views": 20692,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft IPO & LEAP India IPO Review & Comparison - Where to Apply? | IPO Ranking",
-          "url": "https://www.youtube.com/watch?v=SeNy7KmTkc0",
-          "channel": "Ankur Singh",
-          "views": 357,
+          "title": "LEAP India IPO Review | Final Decision | Apply or Avoid?",
+          "url": "https://www.youtube.com/watch?v=TCOguD6NjaQ",
+          "channel": "Yogesh Mantri",
+          "views": 5262,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Detailed Review of LEAP INDIA IPO || Should You Apply? || Paryan Sharma",
+          "url": "https://www.youtube.com/watch?v=rSZLneUpSC0",
+          "channel": "Paryan Sharma Equities",
+          "views": 30,
           "upload_date": "",
           "sentiment": ""
         },
@@ -302,8 +302,8 @@
           "sentiment": ""
         }
       ],
-      "summary": "LEAP India’s GMP near 9% and a middling review score suggest moderate market interest rather than strong conviction. With the issue open and reviews focused on basic apply-or-avoid debates, sentiment appears cautious but not negative.",
-      "comment_analysis": "Reviewers lean mildly **cautious‑to‑negative**, with most tilting toward **avoid or only apply for listing gains** rather than a confident long‑term “apply.” Across videos, recurring themes include concerns about **valuation**, modest **GMP (~9%)**, and **average fundamentals** relative to peers. The consensus frames LEAP India as a **low‑conviction IPO** where any participation would be driven more by short‑term listing sentiment than strong business strength or long‑term growth visibility.",
+      "summary": "LEAP India’s GMP near 9% and a middling review score suggest moderate market interest rather than strong conviction. With a mainboard listing and active retail discussion, sentiment appears cautiously neutral as investors weigh its fundamentals against relatively modest grey‑market enthusiasm.",
+      "comment_analysis": "Reviewers lean **cautiously negative**, with most tilting toward **avoid or only apply for listing gains** rather than long‑term conviction. Across videos, recurring themes include **stretched valuation**, **modest GMP (~9–10%)**, and **concerns about fundamentals** such as leverage, customer concentration, and the pallet‑rental business’s scalability. The consensus frames LEAP India as a **listing‑gain–dependent IPO** with limited comfort on long‑term growth or margin stability.",
       "slug": "leap-india"
     },
     {
@@ -352,21 +352,37 @@
       "sub_qib": 4.47,
       "sub_nii": 3.8,
       "sub_retail": 1.01,
-      "review_score": 0.5,
+      "review_score": 0.4688,
       "videos": [
         {
           "title": "Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ",
           "url": "https://www.youtube.com/watch?v=lnOSx0gTMqY",
           "channel": "Vibhor Varshney",
-          "views": 9694,
+          "views": 9982,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO | GMP & Allotment Chances | LEAP India IPO | Technocraft Ventures IPO |",
-          "url": "https://www.youtube.com/watch?v=ZK5sgxnxNeU",
-          "channel": "The Rich Investor ",
-          "views": 1381,
+          "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
+          "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
+          "channel": "The Bonus",
+          "views": 20307,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ",
+          "url": "https://www.youtube.com/watch?v=DZS3lCmpQC8",
+          "channel": "Anant Ladha",
+          "views": 33985,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Technocraft Ventures IPO Review | Technocraft IPO Business, Financials & Risks",
+          "url": "https://www.youtube.com/watch?v=0yTJlbb_QWY",
+          "channel": "IPO Review by Groww",
+          "views": 4370,
           "upload_date": "",
           "sentiment": ""
         },
@@ -377,26 +393,10 @@
           "views": 4,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
-          "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
-          "channel": "The Bonus",
-          "views": 19902,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
-          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
-          "channel": "Naren RKP",
-          "views": 1974,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures shows a modest GMP of about 7.5%, and online reviews appear mixed, reflected in its mid‑range sentiment score of 0.50. The IPO is drawing attention across retail channels, but current chatter suggests a neutral market reception rather than strong momentum.",
-      "comment_analysis": "5 reviewers covered this IPO (32,955 combined views); overall reviewer tone reads mixed (review score 0.50/1).",
+      "summary": "Technocraft Ventures — grey-market premium ~7.5%, band ₹212, Mainboard, Open, 5 YouTube reviews (score 0.47). Above the 5% GMP watch threshold.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative consensus**, leaning **avoid or only apply for listing gains**. Across channels, the recurring themes are **stretched valuation**, **weak or uneven fundamentals**, and a **low GMP (~₹7.5)** that signals limited upside. Most analysts frame Technocraft Ventures as a **short-term, speculative listing-play at best**, with **little conviction for long‑term holding**.",
       "slug": "technocraft-ventures"
     },
     {
@@ -551,21 +551,13 @@
       "sub_qib": 0.64,
       "sub_nii": 0.12,
       "sub_retail": 0.14,
-      "review_score": 0.5586,
+      "review_score": 0.5526,
       "videos": [
         {
           "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
           "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
           "channel": "Vibhor Varshney",
-          "views": 13975,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "LEAP India IPO Review | Final Decision | Apply or Avoid?",
-          "url": "https://www.youtube.com/watch?v=TCOguD6NjaQ",
-          "channel": "Yogesh Mantri",
-          "views": 5130,
+          "views": 14151,
           "upload_date": "",
           "sentiment": ""
         },
@@ -573,15 +565,23 @@
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 20470,
+          "views": 20692,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft IPO & LEAP India IPO Review & Comparison - Where to Apply? | IPO Ranking",
-          "url": "https://www.youtube.com/watch?v=SeNy7KmTkc0",
-          "channel": "Ankur Singh",
-          "views": 357,
+          "title": "LEAP India IPO Review | Final Decision | Apply or Avoid?",
+          "url": "https://www.youtube.com/watch?v=TCOguD6NjaQ",
+          "channel": "Yogesh Mantri",
+          "views": 5262,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Detailed Review of LEAP INDIA IPO || Should You Apply? || Paryan Sharma",
+          "url": "https://www.youtube.com/watch?v=rSZLneUpSC0",
+          "channel": "Paryan Sharma Equities",
+          "views": 30,
           "upload_date": "",
           "sentiment": ""
         },
@@ -594,8 +594,8 @@
           "sentiment": ""
         }
       ],
-      "summary": "LEAP India’s GMP near 9% and a middling review score suggest moderate market interest rather than strong conviction. With the issue open and reviews focused on basic apply-or-avoid debates, sentiment appears cautious but not negative.",
-      "comment_analysis": "Reviewers lean mildly **cautious‑to‑negative**, with most tilting toward **avoid or only apply for listing gains** rather than a confident long‑term “apply.” Across videos, recurring themes include concerns about **valuation**, modest **GMP (~9%)**, and **average fundamentals** relative to peers. The consensus frames LEAP India as a **low‑conviction IPO** where any participation would be driven more by short‑term listing sentiment than strong business strength or long‑term growth visibility.",
+      "summary": "LEAP India’s GMP near 9% and a middling review score suggest moderate market interest rather than strong conviction. With a mainboard listing and active retail discussion, sentiment appears cautiously neutral as investors weigh its fundamentals against relatively modest grey‑market enthusiasm.",
+      "comment_analysis": "Reviewers lean **cautiously negative**, with most tilting toward **avoid or only apply for listing gains** rather than long‑term conviction. Across videos, recurring themes include **stretched valuation**, **modest GMP (~9–10%)**, and **concerns about fundamentals** such as leverage, customer concentration, and the pallet‑rental business’s scalability. The consensus frames LEAP India as a **listing‑gain–dependent IPO** with limited comfort on long‑term growth or margin stability.",
       "slug": "leap-india"
     },
     {
@@ -618,21 +618,37 @@
       "sub_qib": 4.47,
       "sub_nii": 3.8,
       "sub_retail": 1.01,
-      "review_score": 0.5,
+      "review_score": 0.4688,
       "videos": [
         {
           "title": "Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ",
           "url": "https://www.youtube.com/watch?v=lnOSx0gTMqY",
           "channel": "Vibhor Varshney",
-          "views": 9694,
+          "views": 9982,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Ardee Industries IPO | GMP & Allotment Chances | LEAP India IPO | Technocraft Ventures IPO |",
-          "url": "https://www.youtube.com/watch?v=ZK5sgxnxNeU",
-          "channel": "The Rich Investor ",
-          "views": 1381,
+          "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
+          "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
+          "channel": "The Bonus",
+          "views": 20307,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ",
+          "url": "https://www.youtube.com/watch?v=DZS3lCmpQC8",
+          "channel": "Anant Ladha",
+          "views": 33985,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Technocraft Ventures IPO Review | Technocraft IPO Business, Financials & Risks",
+          "url": "https://www.youtube.com/watch?v=0yTJlbb_QWY",
+          "channel": "IPO Review by Groww",
+          "views": 4370,
           "upload_date": "",
           "sentiment": ""
         },
@@ -643,26 +659,10 @@
           "views": 4,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
-          "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
-          "channel": "The Bonus",
-          "views": 19902,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
-          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
-          "channel": "Naren RKP",
-          "views": 1974,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures shows a modest GMP of about 7.5%, and online reviews appear mixed, reflected in its mid‑range sentiment score of 0.50. The IPO is drawing attention across retail channels, but current chatter suggests a neutral market reception rather than strong momentum.",
-      "comment_analysis": "5 reviewers covered this IPO (32,955 combined views); overall reviewer tone reads mixed (review score 0.50/1).",
+      "summary": "Technocraft Ventures — grey-market premium ~7.5%, band ₹212, Mainboard, Open, 5 YouTube reviews (score 0.47). Above the 5% GMP watch threshold.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative consensus**, leaning **avoid or only apply for listing gains**. Across channels, the recurring themes are **stretched valuation**, **weak or uneven fundamentals**, and a **low GMP (~₹7.5)** that signals limited upside. Most analysts frame Technocraft Ventures as a **short-term, speculative listing-play at best**, with **little conviction for long‑term holding**.",
       "slug": "technocraft-ventures"
     }
   ]
