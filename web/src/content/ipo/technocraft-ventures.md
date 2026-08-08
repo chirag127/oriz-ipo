@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Technocraft Ventures shows a modest GMP premium and middling review sentiment, suggesting balanced but unspectacular demand. With a mainboard listing and active retail chatter, it appears to be drawing steady interest without strong conviction.
+Technocraft Ventures shows a modest GMP of about 7.5%, and online reviews appear mixed, reflected in its mid‑range sentiment score of 0.50. The IPO is drawing attention across retail channels, but current chatter suggests a neutral market reception rather than strong momentum.
 
 ## Reviews
 
-- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (9,551 views)
-- [Mainboard IPO: Technocraft Ventures](https://www.youtube.com/watch?v=PpNdS6xEZeU) — Ankit Pareek (1 views)
-- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (19,651 views)
+- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (9,694 views)
+- [Ardee Industries IPO | GMP & Allotment Chances | LEAP India IPO | Technocraft Ventures IPO |](https://www.youtube.com/watch?v=ZK5sgxnxNeU) — The Rich Investor  (1,381 views)
+- [Mainboard IPO: Technocraft Ventures](https://www.youtube.com/watch?v=PpNdS6xEZeU) — Ankit Pareek (4 views)
+- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (19,902 views)
 - [Technocraft Ventures IPO Detailed Analysis with Latest GMP।](https://www.youtube.com/watch?v=YxtkDfXDgok) — Naren RKP (1,974 views)
-- [Technocraft Ventures IPO Review ](https://www.youtube.com/watch?v=8zihaipAqiA) — Naresh Bhyan  (31 views)
