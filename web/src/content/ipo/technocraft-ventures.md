@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Technocraft Ventures shows a modest GMP of about 7.5%, and online reviews appear mixed, reflected in its mid‑range sentiment score of 0.50. The IPO is drawing attention mainly due to sector curiosity rather than strong conviction, making it a relatively neutral listing in the current mainboard lineup.
+Technocraft Ventures shows a modest GMP of about **7.5%**, and online reviews appear mixed, reflected in its mid‑range sentiment score of **0.50**. With a standard mainboard structure and steady but unspectacular market chatter, it’s coming across as a cautiously received offering rather than a strongly momentum-driven one.
 
 ## Reviews
 
-- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (10,147 views)
-- [Technocraft Ventures IPO Detailed Analysis with Latest GMP।](https://www.youtube.com/watch?v=YxtkDfXDgok) — Naren RKP (1,975 views)
-- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (20,510 views)
-- [Mainboard IPO: Technocraft Ventures](https://www.youtube.com/watch?v=PpNdS6xEZeU) — Ankit Pareek (8 views)
-- [Ardee Industries IPO vs Technocraft Ventures IPO vs LEAP India IPO ](https://www.youtube.com/watch?v=DZS3lCmpQC8) — Anant Ladha (34,039 views)
+- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (10,344 views)
+- [Technocraft Ventures IPO Detailed Analysis with Latest GMP।](https://www.youtube.com/watch?v=YxtkDfXDgok) — Naren RKP (1,982 views)
+- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (20,720 views)
+- [Ardee Industries IPO | GMP & Allotment Chances | LEAP India IPO | Technocraft Ventures IPO |](https://www.youtube.com/watch?v=ZK5sgxnxNeU) — The Rich Investor  (1,389 views)
+- [Technocraft Ventures IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=uqwvt8a2buM) — Stock Market with Naveeen (738 views)
