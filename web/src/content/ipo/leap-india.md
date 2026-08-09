@@ -6,15 +6,15 @@ price_band: "₹159"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5385
+review_score: 0.5350
 ---
 
-LEAP India’s GMP near 9% and a middling review score suggest moderate market interest rather than strong conviction. With a mainboard listing and active retail discussion, sentiment appears cautiously balanced as the issue remains open.
+LEAP India’s GMP of about 9.4% and a middling review score of 0.54 suggest moderate sentiment, with neither strong enthusiasm nor clear red flags dominating retail chatter. The steady flow of “apply or avoid”–style reviews indicates that investors are treating it as a borderline offering where interest hinges more on individual risk appetite than on any standout IPO buzz.
 
 ## Reviews
 
-- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (15,229 views)
-- [LEAP India IPO Review | Final Decision | Apply or Avoid?](https://www.youtube.com/watch?v=TCOguD6NjaQ) — Yogesh Mantri (6,226 views)
-- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (22,030 views)
-- [All IPO GMP | Dhoot Transmission IPO | LEAP India IPO | Molbio IPO Technocraft IPO Stock Market Tak](https://www.youtube.com/watch?v=ilK-LDv5dws) — Stock Market Tak (586 views)
-- [Leap India ipo, Leap India ipo review? Leap India ipo news?  ipo latest news.](https://www.youtube.com/watch?v=T0L8FoVctU4) — Bonus & Split (71 views)
+- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (15,307 views)
+- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (22,143 views)
+- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (2,312 views)
+- [LEAP India IPO Review | Final Decision | Apply or Avoid?](https://www.youtube.com/watch?v=TCOguD6NjaQ) — Yogesh Mantri (6,295 views)
+- [All IPO GMP | Dhoot Transmission IPO | LEAP India IPO | Molbio IPO Technocraft IPO Stock Market Tak](https://www.youtube.com/watch?v=ilK-LDv5dws) — Stock Market Tak (800 views)
