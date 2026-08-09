@@ -6,15 +6,15 @@ price_band: "₹159"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5604
+review_score: 0.5391
 ---
 
-LEAP India — grey-market premium ~9.4%, band ₹159, Mainboard, Open, 5 YouTube reviews (score 0.56). Above the 5% GMP watch threshold.
+LEAP India’s GMP near 9% and a middling review score of 0.54 suggest moderate sentiment rather than strong enthusiasm. With the issue open and priced at ₹159, retail interest appears steady but not notably high.
 
 ## Reviews
 
-- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (15,042 views)
-- [LEAP India IPO Review | Final Decision | Apply or Avoid?](https://www.youtube.com/watch?v=TCOguD6NjaQ) — Yogesh Mantri (5,996 views)
-- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (21,805 views)
-- [Detailed Review of LEAP INDIA IPO || Should You Apply? || Paryan Sharma](https://www.youtube.com/watch?v=rSZLneUpSC0) — Paryan Sharma Equities (923 views)
-- [Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo](https://www.youtube.com/watch?v=Vb-3o_0FQyc) — Divyanshu Chaturvedi (752 views)
+- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (15,158 views)
+- [LEAP India IPO Review | Final Decision | Apply or Avoid?](https://www.youtube.com/watch?v=TCOguD6NjaQ) — Yogesh Mantri (6,146 views)
+- [Leap India ipo, Leap India ipo review? Leap India ipo news?  ipo latest news.](https://www.youtube.com/watch?v=T0L8FoVctU4) — Bonus & Split (23 views)
+- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (21,936 views)
+- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (1,000 views)

@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Technocraft Ventures shows a modest GMP of about 7.5% and middling sentiment, with review scores suggesting only moderate investor enthusiasm. Retail chatter frames it as a straightforward mainboard offering without strong momentum signals either way.
+Technocraft Ventures shows a modest GMP of about **7.5%**, and online reviews appear mixed, reflected in its mid‑range sentiment score of **0.50**. The IPO seems to be drawing moderate interest, with coverage largely focused on basic analysis rather than strong conviction.
 
 ## Reviews
 
-- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (11,168 views)
-- [Technocraft Ventures IPO Detailed Analysis with Latest GMP।](https://www.youtube.com/watch?v=YxtkDfXDgok) — Naren RKP (1,987 views)
-- [Technocraft Ventures IPO Review 🔥 | GMP Update | Apply Kare Ya Avoid?](https://www.youtube.com/watch?v=z5-h_REjLu8) — MARKET VIBE (7 views)
-- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (22,029 views)
-- [Technocraft Ventures IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=uqwvt8a2buM) — Stock Market with Naveeen (751 views)
+- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (11,347 views)
+- [Technocraft Ventures IPO Detailed Analysis with Latest GMP।](https://www.youtube.com/watch?v=YxtkDfXDgok) — Naren RKP (1,991 views)
+- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (1,000 views)
+- [Technocraft Ventures IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=uqwvt8a2buM) — Stock Market with Naveeen (752 views)
+- [IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP](https://www.youtube.com/watch?v=t8kNS29Lut0) — The Bonus (22,285 views)
