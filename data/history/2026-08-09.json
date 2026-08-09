@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:58:24+00:00",
+  "generated_at": "2026-08-09T19:46:57+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 17,
@@ -259,13 +259,21 @@
       "sub_qib": 0.64,
       "sub_nii": 0.12,
       "sub_retail": 0.14,
-      "review_score": 0.5316,
+      "review_score": 0.534,
       "videos": [
+        {
+          "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
+          "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
+          "channel": "Vibhor Varshney",
+          "views": 16210,
+          "upload_date": "",
+          "sentiment": ""
+        },
         {
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 23154,
+          "views": 23284,
           "upload_date": "",
           "sentiment": ""
         },
@@ -273,15 +281,7 @@
           "title": "IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO",
           "url": "https://www.youtube.com/watch?v=t1iL9n175Cs",
           "channel": "Yogesh Mantri",
-          "views": 8881,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
-          "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
-          "channel": "Vibhor Varshney",
-          "views": 16103,
+          "views": 9519,
           "upload_date": "",
           "sentiment": ""
         },
@@ -289,21 +289,21 @@
           "title": "LEAP India IPO Review | Final Decision | Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=TCOguD6NjaQ",
           "channel": "Yogesh Mantri",
-          "views": 6529,
+          "views": 6587,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "LEAP India IPO में लगाएं पैसा या रहें दूर? जानिए Anil Singhvi की राय",
-          "url": "https://www.youtube.com/watch?v=nF0PzQdht04",
-          "channel": "Zee Business",
-          "views": 24854,
+          "title": "Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo",
+          "url": "https://www.youtube.com/watch?v=Vb-3o_0FQyc",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 777,
           "upload_date": "",
           "sentiment": ""
         }
       ],
       "summary": "LEAP India — grey-market premium ~9.4%, band ₹159, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
-      "comment_analysis": "Reviewers show a **cautious-to-negative tilt**, with most leaning **“avoid or only for listing gains”** rather than a confident apply. Across videos, the recurring themes are **stretched valuation**, **weak or inconsistent fundamentals**, and a **low GMP (~₹9–10)** that signals limited upside. The consensus frames LEAP India as a **short-term listing‑gain punt at best**, with **little conviction for long‑term holding**.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative tilt**, with most leaning **avoid or only consider for listing gains** rather than a confident “apply.” The recurring themes include concerns about **valuation being on the higher side**, **modest GMP (~9%)**, and **fundamentals that appear decent but not compelling enough** for long-term conviction. Overall consensus: **possible small listing pop, but weak long-term attractiveness**, making this a low‑enthusiasm IPO among analysts.",
       "slug": "leap-india"
     },
     {
@@ -358,15 +358,7 @@
           "title": "Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ",
           "url": "https://www.youtube.com/watch?v=lnOSx0gTMqY",
           "channel": "Vibhor Varshney",
-          "views": 12513,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
-          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
-          "channel": "Naren RKP",
-          "views": 2023,
+          "views": 12657,
           "upload_date": "",
           "sentiment": ""
         },
@@ -374,7 +366,7 @@
           "title": "IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO",
           "url": "https://www.youtube.com/watch?v=t1iL9n175Cs",
           "channel": "Yogesh Mantri",
-          "views": 8881,
+          "views": 9519,
           "upload_date": "",
           "sentiment": ""
         },
@@ -382,7 +374,7 @@
           "title": "Technocraft Ventures IPO | Analysis | GMP | Review",
           "url": "https://www.youtube.com/watch?v=uqwvt8a2buM",
           "channel": "Stock Market with Naveeen",
-          "views": 771,
+          "views": 781,
           "upload_date": "",
           "sentiment": ""
         },
@@ -390,13 +382,21 @@
           "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
           "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
           "channel": "The Bonus",
-          "views": 24166,
+          "views": 24389,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
+          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
+          "channel": "Naren RKP",
+          "views": 2024,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures — grey-market premium ~7.5%, band ₹212, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
-      "comment_analysis": "Reviewers lean **neutral‑to‑cautious**, with most signalling that Technocraft Ventures looks more suitable for **listing gains than long‑term holding**. A recurring theme is that **fundamentals appear modest and valuation not clearly compelling**, while the **GMP near ₹7.5** suggests only **mild demand**. Across videos, analysts repeatedly frame the IPO as a **“apply only for listing pop, avoid for long‑term conviction”** type of opportunity.",
+      "summary": "TechnTechnocraft Ventures shows a modest grey‑market premium and middling review sentiment, suggesting moderate but not enthusiastic demand. With a mainboard listing and active discussion across IPO channels, investors appear to be treating it as a straightforward, average‑quality offering rather than a high‑conviction bet.",
+      "comment_analysis": "Reviewers show a **cautiously neutral‑to‑avoid** stance on Technocraft Ventures, with very few leaning clearly toward “apply.” Across channels, the recurring themes are **modest GMP (~₹7.5)**, **uncertain valuation comfort**, and **average fundamentals without a strong growth narrative**. Most reviewers frame the IPO as **listing‑gain dependent rather than a long‑term conviction**, and the muted GMP keeps expectations conservative rather than enthusiastic.",
       "slug": "technocraft-ventures"
     },
     {
@@ -551,13 +551,21 @@
       "sub_qib": 0.64,
       "sub_nii": 0.12,
       "sub_retail": 0.14,
-      "review_score": 0.5316,
+      "review_score": 0.534,
       "videos": [
+        {
+          "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
+          "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
+          "channel": "Vibhor Varshney",
+          "views": 16210,
+          "upload_date": "",
+          "sentiment": ""
+        },
         {
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 23154,
+          "views": 23284,
           "upload_date": "",
           "sentiment": ""
         },
@@ -565,15 +573,7 @@
           "title": "IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO",
           "url": "https://www.youtube.com/watch?v=t1iL9n175Cs",
           "channel": "Yogesh Mantri",
-          "views": 8881,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
-          "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
-          "channel": "Vibhor Varshney",
-          "views": 16103,
+          "views": 9519,
           "upload_date": "",
           "sentiment": ""
         },
@@ -581,21 +581,21 @@
           "title": "LEAP India IPO Review | Final Decision | Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=TCOguD6NjaQ",
           "channel": "Yogesh Mantri",
-          "views": 6529,
+          "views": 6587,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "LEAP India IPO में लगाएं पैसा या रहें दूर? जानिए Anil Singhvi की राय",
-          "url": "https://www.youtube.com/watch?v=nF0PzQdht04",
-          "channel": "Zee Business",
-          "views": 24854,
+          "title": "Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo",
+          "url": "https://www.youtube.com/watch?v=Vb-3o_0FQyc",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 777,
           "upload_date": "",
           "sentiment": ""
         }
       ],
       "summary": "LEAP India — grey-market premium ~9.4%, band ₹159, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
-      "comment_analysis": "Reviewers show a **cautious-to-negative tilt**, with most leaning **“avoid or only for listing gains”** rather than a confident apply. Across videos, the recurring themes are **stretched valuation**, **weak or inconsistent fundamentals**, and a **low GMP (~₹9–10)** that signals limited upside. The consensus frames LEAP India as a **short-term listing‑gain punt at best**, with **little conviction for long‑term holding**.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative tilt**, with most leaning **avoid or only consider for listing gains** rather than a confident “apply.” The recurring themes include concerns about **valuation being on the higher side**, **modest GMP (~9%)**, and **fundamentals that appear decent but not compelling enough** for long-term conviction. Overall consensus: **possible small listing pop, but weak long-term attractiveness**, making this a low‑enthusiasm IPO among analysts.",
       "slug": "leap-india"
     },
     {
@@ -624,15 +624,7 @@
           "title": "Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ",
           "url": "https://www.youtube.com/watch?v=lnOSx0gTMqY",
           "channel": "Vibhor Varshney",
-          "views": 12513,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
-          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
-          "channel": "Naren RKP",
-          "views": 2023,
+          "views": 12657,
           "upload_date": "",
           "sentiment": ""
         },
@@ -640,7 +632,7 @@
           "title": "IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO",
           "url": "https://www.youtube.com/watch?v=t1iL9n175Cs",
           "channel": "Yogesh Mantri",
-          "views": 8881,
+          "views": 9519,
           "upload_date": "",
           "sentiment": ""
         },
@@ -648,7 +640,7 @@
           "title": "Technocraft Ventures IPO | Analysis | GMP | Review",
           "url": "https://www.youtube.com/watch?v=uqwvt8a2buM",
           "channel": "Stock Market with Naveeen",
-          "views": 771,
+          "views": 781,
           "upload_date": "",
           "sentiment": ""
         },
@@ -656,13 +648,21 @@
           "title": "IPO Alert : Technocraft Ventures IPO | LEAP India IPO में कहां बनेगा पैसा? IPO GMP",
           "url": "https://www.youtube.com/watch?v=t8kNS29Lut0",
           "channel": "The Bonus",
-          "views": 24166,
+          "views": 24389,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
+          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
+          "channel": "Naren RKP",
+          "views": 2024,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures — grey-market premium ~7.5%, band ₹212, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
-      "comment_analysis": "Reviewers lean **neutral‑to‑cautious**, with most signalling that Technocraft Ventures looks more suitable for **listing gains than long‑term holding**. A recurring theme is that **fundamentals appear modest and valuation not clearly compelling**, while the **GMP near ₹7.5** suggests only **mild demand**. Across videos, analysts repeatedly frame the IPO as a **“apply only for listing pop, avoid for long‑term conviction”** type of opportunity.",
+      "summary": "TechnTechnocraft Ventures shows a modest grey‑market premium and middling review sentiment, suggesting moderate but not enthusiastic demand. With a mainboard listing and active discussion across IPO channels, investors appear to be treating it as a straightforward, average‑quality offering rather than a high‑conviction bet.",
+      "comment_analysis": "Reviewers show a **cautiously neutral‑to‑avoid** stance on Technocraft Ventures, with very few leaning clearly toward “apply.” Across channels, the recurring themes are **modest GMP (~₹7.5)**, **uncertain valuation comfort**, and **average fundamentals without a strong growth narrative**. Most reviewers frame the IPO as **listing‑gain dependent rather than a long‑term conviction**, and the muted GMP keeps expectations conservative rather than enthusiastic.",
       "slug": "technocraft-ventures"
     }
   ]
