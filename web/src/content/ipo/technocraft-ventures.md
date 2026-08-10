@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Technocraft Ventures — grey-market premium ~10.8%, band ₹212, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.
+Technocraft Ventures shows a modest GMP of about **10.8%**, and early reviews appear mixed with a mid‑range sentiment score of **0.50**. Subscription traction and broader market tone will likely determine how this mainboard issue shapes up during the remaining bidding window.
 
 ## Reviews
 
-- [YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥](https://www.youtube.com/watch?v=Ix2snEB7TL4) — Share Bazar with Ayush (1,299 views)
-- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (15,132 views)
-- [Technocraft Ventures IPO Day 2 Subscription Status | LEAP India IPO Day 2 Subscription Status 💥](https://www.youtube.com/watch?v=K3sZi4_vJto) — Share Bazar with Ayush (107 views)
-- [Technocraft Ventures IPO 🔴Technocraft Ventures IPO Review 🔴Technocraft Ventures IPO Gmp 🔴Technocraft](https://www.youtube.com/watch?v=r6CcqawxYlg) — Share Market with Vini (123 views)
-- [Technocraft Ventures IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=uqwvt8a2buM) — Stock Market with Naveeen (820 views)
+- [YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥](https://www.youtube.com/watch?v=Ix2snEB7TL4) — Share Bazar with Ayush (1,974 views)
+- [Technocraft Ventures IPO Review | Apply Or Avoid ? | Jayesh Khatri ](https://www.youtube.com/watch?v=JPg4Jcm42n0) — Knowledge Jazz (21,412 views)
+- [Technocraft Ventures IPO Day 2 Subscription Status | LEAP India IPO Day 2 Subscription Status 💥](https://www.youtube.com/watch?v=K3sZi4_vJto) — Share Bazar with Ayush (394 views)
+- [Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ](https://www.youtube.com/watch?v=lnOSx0gTMqY) — Vibhor Varshney (15,395 views)
+- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (14,390 views)
