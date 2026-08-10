@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5000
 ---
 
-Dhoot Transmission’s IPO shows a moderate grey‑market premium and a middling review score, suggesting balanced sentiment rather than strong conviction. Retail investors may view it as a steady but unspectacular offering, with neither clear red flags nor standout enthusiasm in early chatter.
+Dhoot Transmission — grey-market premium ~29.7%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.
 
 ## Reviews
 
-- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (52 views)
-- [MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ](https://www.youtube.com/watch?v=Am0yqYDc6Vs) — Vibhor Varshney (8,057 views)
-- [6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo](https://www.youtube.com/watch?v=2kv6roeZr8w) — CA Market GuY  (202 views)
-- [Dhoot transmission ipo gmp today✅dhoot transmission ipo full details💥dhoot transmission ipo opens✅](https://www.youtube.com/watch?v=KtoV6_BESoI) — INVESTMENT ka bazar 🤑🤑 (14 views)
-- [DHOOT TRANSMISSION IPO analysis | Molbio IPO GMP | Leap india | Technocraft | Ardee ipo allotment ](https://www.youtube.com/watch?v=8m9KQ_9MnW0) — Vibhor Varshney (13,230 views)
+- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (1,018 views)
+- [MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ](https://www.youtube.com/watch?v=Am0yqYDc6Vs) — Vibhor Varshney (8,766 views)
+- [6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo](https://www.youtube.com/watch?v=2kv6roeZr8w) — CA Market GuY  (642 views)
+- [DHOOT TRANSMISSION IPO analysis | Molbio IPO GMP | Leap india | Technocraft | Ardee ipo allotment ](https://www.youtube.com/watch?v=8m9KQ_9MnW0) — Vibhor Varshney (13,833 views)
+- [4 IPO Ranking | Molbio Diagnostics IPO | Technocraft Ventures | LEAP India | Dhoot Transmission IPO](https://www.youtube.com/watch?v=Cll0i36eZ8Q) — Financial Yoddha (184 views)

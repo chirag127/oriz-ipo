@@ -6,15 +6,15 @@ price_band: "₹159"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5414
+review_score: 0.5612
 ---
 
-LEAP India’s GMP near 10% and a middling review score suggest moderate but not overwhelming sentiment toward the issue. With a standard mainboard structure and active retail discussion, it appears to be drawing interest without strong conviction.
+LEAP India — grey-market premium ~10.1%, band ₹159, Mainboard, Open, 5 YouTube reviews (score 0.56). Above the 5% GMP watch threshold.
 
 ## Reviews
 
-- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (16,504 views)
-- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (23,522 views)
-- [6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo](https://www.youtube.com/watch?v=2kv6roeZr8w) — CA Market GuY  (202 views)
-- [LEAP India IPO Review | Final Decision | Apply or Avoid?](https://www.youtube.com/watch?v=TCOguD6NjaQ) — Yogesh Mantri (6,687 views)
-- [Leap India IPO 🔴Leap India IPO Review🔴Leap India IPO Gmp🔴Leap India Ltd IPO🔴Leap IPO🔴Leap IPO Review](https://www.youtube.com/watch?v=1cL-qqxnHEI) — Share Market with Vini (13 views)
+- [LEAP India IPO Full Review | LEAP India IPO GMP | Apply Or Not?](https://www.youtube.com/watch?v=C8xu2DFjfr4) — Basic Gyaan (292 views)
+- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (16,706 views)
+- [6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo](https://www.youtube.com/watch?v=2kv6roeZr8w) — CA Market GuY  (642 views)
+- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (23,744 views)
+- [Leap India IPO Review - APPLY or AVOID? – Leap India IPO GMP, Date & Details #ipo #leapindiaipo](https://www.youtube.com/watch?v=Vb-3o_0FQyc) — Divyanshu Chaturvedi (799 views)

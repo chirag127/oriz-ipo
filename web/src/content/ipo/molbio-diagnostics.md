@@ -6,15 +6,15 @@ price_band: "₹807"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5397
+review_score: 0.5000
 ---
 
-Molbio Diagnostics’ IPO shows moderate retail buzz, with a mid‑range GMP near 16% and review sentiment landing around the middle of the pack. The offer leans on the company’s established diagnostics footprint, but mixed reviewer enthusiasm suggests investors are weighing growth potential against valuation.
+Molbio Diagnostics’ IPO shows moderate grey‑market interest and a middling review score, suggesting sentiment is neither strongly bullish nor negative. The offering sits in a higher price band, so retail attention may hinge on how investors perceive its diagnostics niche and growth consistency.
 
 ## Reviews
 
-- [Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics](https://www.youtube.com/watch?v=8Xq8VwMWlXg) — Share Market with Vini (7 views)
-- [Molbio Diagnostics IPO analysis | Latest IPO GMP | Dhoot Transmission IPO | Shiprocket | Milky mist](https://www.youtube.com/watch?v=TGrWs_PuMCQ) — Vibhor Varshney (8,578 views)
-- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (10,987 views)
-- [Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis](https://www.youtube.com/watch?v=KPmIAFUB9lE) — Market Investor (570 views)
-- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (16,658 views)
+- [Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics](https://www.youtube.com/watch?v=8Xq8VwMWlXg) — Share Market with Vini (13 views)
+- [Molbio diagnostics ipo gmp today✅molbio diagnostics ipo apply or avoid?molbio diagnostics ipo review](https://www.youtube.com/watch?v=j9ii7ZjLAng) — INVESTMENT ka bazar 🤑🤑 (17 views)
+- [Molbio Diagnostics IPO analysis | Latest IPO GMP | Dhoot Transmission IPO | Shiprocket | Milky mist](https://www.youtube.com/watch?v=TGrWs_PuMCQ) — Vibhor Varshney (8,762 views)
+- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (11,507 views)
+- [Molbio Diagnostics IPO Complete Analysis 🧬 Business Model, GMP, Valuation & Verdict](https://www.youtube.com/watch?v=8jqokv1K41U) — PTV InfoNauts (1 views)
