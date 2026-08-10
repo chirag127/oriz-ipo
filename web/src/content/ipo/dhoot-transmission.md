@@ -1,20 +1,20 @@
 ---
-title: "Dhoot Transmission IPO — 29.1% grey-market premium"
-gmp_pct: 29.05
-gmp: "253.0"
+title: "Dhoot Transmission IPO — 29.7% grey-market premium"
+gmp_pct: 29.74
+gmp: "259.0"
 price_band: "₹871"
 ipo_type: "Mainboard"
-status: "Upcoming"
+status: "Open"
 source: "ipowatch"
-review_score: 0.4676
+review_score: 0.5000
 ---
 
-Dhoot Transmission's upcoming IPO has a strong gray market premium of approximately 29.1%, indicating positive market sentiment. However, the review score of 0.47 suggests potential concerns that investors should consider carefully.
+Dhoot Transmission’s GMP near 30% suggests moderate listing optimism, but the middling review score indicates mixed sentiment around fundamentals and valuation. As a mainboard issue with active retail chatter, it appears to be drawing interest without a clear consensus on long‑term prospects.
 
 ## Reviews
 
-- [Dhoot Transmission IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=Mt019pHJono) — Stock Market with Naveeen (72 views)
-- [Dhoot Transmission IPO Review Hindi | GMP, Financials & Risk Analysis](https://www.youtube.com/watch?v=CJBkfqLBRgw) — Raj invest (750 views)
-- [MV Electrosystems IPO GMP | Dhoot Transmission IPO GMP | Leap India IPO GMP | Technocraft IPO GMP 💥](https://www.youtube.com/watch?v=Oi1QGb6VKRU) — Share Bazar with Ayush (2,761 views)
-- [Dhoot Transmission IPO Analysis • Dhoot Transmission IPO Review • GMP • IPO • Dailystock](https://www.youtube.com/watch?v=ol6ijEm44V4) — Daily Stock (825 views)
-- [Dhoot Transmission IPO GMP / Dhoot Transmission IPO 2026 / IPO 2026 / share market ](https://www.youtube.com/watch?v=vfecxaZc7fY) — News Concept Vikas (163 views)
+- [MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ](https://www.youtube.com/watch?v=Am0yqYDc6Vs) — Vibhor Varshney (7,416 views)
+- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (10,528 views)
+- [DHOOT TRANSMISSION IPO analysis | Molbio IPO GMP | Leap india | Technocraft | Ardee ipo allotment ](https://www.youtube.com/watch?v=8m9KQ_9MnW0) — Vibhor Varshney (12,812 views)
+- [Dhoot Transmission IPO 🔴Dhoot Transmission IPO Review 🔴Dhoot Transmission IPO Gmp🔴Dhoot Transmission](https://www.youtube.com/watch?v=d-Hz9DdUqOc) — Share Market with Vini (6 views)
+- [Dhoot Transmission IPO GMP | LEAP IPO GMP | Ardee IPO GMP | Technocraft IPO GMP | Molbio IPO GMP 💥](https://www.youtube.com/watch?v=02_etAE37Z8) — Share Bazar with Ayush (1,947 views)
