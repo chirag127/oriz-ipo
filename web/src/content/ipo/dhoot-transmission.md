@@ -6,15 +6,15 @@ price_band: "₹871"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5185
+review_score: 0.5567
 ---
 
-Dhoot Transmission’s GMP suggests moderate listing optimism, but the middling review score indicates mixed sentiment around fundamentals and valuation. For a retail investor, this IPO appears neither strongly compelling nor clearly unattractive based on currently available signals.
+Dhoot Transmission’s IPO shows moderate retail buzz, with a GMP implying a premium but not an overheated listing sentiment. Reviews are mixed, and the mid‑range score suggests cautious optimism driven more by market mood than strong conviction.
 
 ## Reviews
 
-- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (5,048 views)
-- [Dhoot Transmission IPO Full Review | Dhoot Transmission IPO GMP | Apply Or Not?](https://www.youtube.com/watch?v=qiXQ7jCijag) — Basic Gyaan (91 views)
-- [6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo](https://www.youtube.com/watch?v=2kv6roeZr8w) — CA Market GuY  (2,318 views)
-- [MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ](https://www.youtube.com/watch?v=Am0yqYDc6Vs) — Vibhor Varshney (11,034 views)
-- [YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥](https://www.youtube.com/watch?v=Ix2snEB7TL4) — Share Bazar with Ayush (671 views)
+- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (6,123 views)
+- [Dhoot Transmission IPO Full Review | Dhoot Transmission IPO GMP | Apply Or Not?](https://www.youtube.com/watch?v=qiXQ7jCijag) — Basic Gyaan (170 views)
+- [dhoot transmission ipo | dhoot transmission ipo review | dhoot transmission ipo gmp today](https://www.youtube.com/watch?v=LnmTPkEjl5I) — BIKI K Sports  (3 views)
+- [Dhoot Transmission IPO | Dhoot Transmission IPO Day 1 Subscription Status | Molbio Diagnostics IPO 💥](https://www.youtube.com/watch?v=pGw4n1y_8-g) — Share Bazar with Ayush (394 views)
+- [Dhoot Transmissions IPO | Molbio Diagnostics IPO | Day 1 Subscription | Apply Or Not ?](https://www.youtube.com/watch?v=1E3EPgWaJs0) — The Rich Investor  (178 views)
