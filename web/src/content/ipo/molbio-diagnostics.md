@@ -6,15 +6,15 @@ price_band: "₹807"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5451
+review_score: 0.5387
 ---
 
-Molbio Diagnostics’ IPO shows moderate grey‑market interest and mixed retail sentiment, with a mid‑range review score suggesting neither strong enthusiasm nor clear red flags. Its pricing and mainboard status position it as a typical healthcare listing where investor attention hinges more on long‑term diagnostics demand than on short‑term hype.
+Molbio Diagnostics shows moderate grey‑market interest and middling review sentiment, suggesting neither strong enthusiasm nor clear red flags. Fundamentals and valuation discussions appear mixed, so retail investors may view it as a balanced‑risk offering rather than an obvious opportunity.
 
 ## Reviews
 
-- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (18,859 views)
-- [Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis](https://www.youtube.com/watch?v=KPmIAFUB9lE) — Market Investor (589 views)
-- [Dhoot Transmission ipo, Molbio Diagnostics ipo,  ipo latest news.](https://www.youtube.com/watch?v=Xz87hN3btE8) — Bonus & Split (257 views)
-- [Dhoot Transmission IPO | Dhoot Transmission IPO Day 1 Subscription Status | Molbio Diagnostics IPO 💥](https://www.youtube.com/watch?v=pGw4n1y_8-g) — Share Bazar with Ayush (733 views)
-- [Molbio diagnostics ipo gmp today✅molbio diagnostics ipo apply or avoid?molbio diagnostics ipo review](https://www.youtube.com/watch?v=j9ii7ZjLAng) — INVESTMENT ka bazar 🤑🤑 (80 views)
+- [Molbio Diagnostics IPO Analysis - Avoid or Apply? GMP, Valuation & Fundamentals](https://www.youtube.com/watch?v=cApZOFekqis) — Md Azhar - Learn Investing (35 views)
+- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (19,115 views)
+- [Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis](https://www.youtube.com/watch?v=KPmIAFUB9lE) — Market Investor (593 views)
+- [LEAP India IPO । Molbio Diagnostics IPO । Dhoot Transmission IPO में कहां बनेगा मौका? IPO](https://www.youtube.com/watch?v=VHvdxViPtH4) — The Bonus (22,647 views)
+- [Molbio Diagnostic IPO Review | Final Decision | Apply or Avoid?](https://www.youtube.com/watch?v=WIuPc352VdI) — Yogesh Mantri (4,377 views)

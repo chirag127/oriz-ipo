@@ -6,15 +6,15 @@ price_band: "₹159"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5888
+review_score: 0.5846
 ---
 
-LEAP India — grey-market premium ~10.1%, band ₹159, Mainboard, Open, 5 YouTube reviews (score 0.59). Above the 5% GMP watch threshold.
+LEAP India’s GMP near 10% and a middling review score suggest moderate interest without strong conviction from the market. The mainboard listing and active retail discussion indicate visibility, but sentiment appears balanced rather than clearly enthusiastic.
 
 ## Reviews
 
-- [LEAP India IPO Full Review | LEAP India IPO GMP | Apply Or Not?](https://www.youtube.com/watch?v=C8xu2DFjfr4) — Basic Gyaan (3,533 views)
-- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (18,274 views)
-- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (25,544 views)
-- [6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo](https://www.youtube.com/watch?v=2kv6roeZr8w) — CA Market GuY  (3,077 views)
-- [Detailed Review of LEAP INDIA IPO || Should You Apply? || Paryan Sharma](https://www.youtube.com/watch?v=rSZLneUpSC0) — Paryan Sharma Equities (2,007 views)
+- [LEAP India IPO Full Review | LEAP India IPO GMP | Apply Or Not?](https://www.youtube.com/watch?v=C8xu2DFjfr4) — Basic Gyaan (3,920 views)
+- [LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ](https://www.youtube.com/watch?v=1oBmqVDH13s) — Vibhor Varshney (18,486 views)
+- [LEAP India IPO Final Decision | Technocraft Ventures IPO Decision | Last date Apply or Not?](https://www.youtube.com/watch?v=fcpJ1ViIAwU) — Yogesh Mantri (1,445 views)
+- [LEAP India IPO । Molbio Diagnostics IPO । Dhoot Transmission IPO में कहां बनेगा मौका? IPO](https://www.youtube.com/watch?v=VHvdxViPtH4) — The Bonus (22,647 views)
+- [Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=10duJBgXb3s) — Knowledge Jazz (25,785 views)
