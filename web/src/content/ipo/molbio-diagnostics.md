@@ -6,15 +6,15 @@ price_band: "₹807"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5380
+review_score: 0.5424
 ---
 
-Molbio’s GMP premium and mid‑range review score suggest moderate interest, with neither strong enthusiasm nor clear red flags. The diagnostics focus and mainboard listing make it a conventional healthcare IPO where sentiment appears steady rather than exuberant.
+Molbio Diagnostics’ IPO shows moderate grey‑market interest and a middling review score, suggesting sentiment is neither strongly positive nor negative. The company’s mainboard listing and active retail discussion indicate attention, but available signals point to a fairly balanced market view rather than clear enthusiasm.
 
 ## Reviews
 
-- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (17,981 views)
-- [Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics](https://www.youtube.com/watch?v=8Xq8VwMWlXg) — Share Market with Vini (23 views)
-- [Molbio Diagnostics IPO Analysis। IPO Ranking।](https://www.youtube.com/watch?v=G3G00XkfPpA) — Naren RKP (1,158 views)
-- [IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO](https://www.youtube.com/watch?v=t1iL9n175Cs) — Yogesh Mantri (13,348 views)
-- [Molbio Diagnostics IPO analysis | Latest IPO GMP | Dhoot Transmission IPO | Shiprocket | Milky mist](https://www.youtube.com/watch?v=TGrWs_PuMCQ) — Vibhor Varshney (9,499 views)
+- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (18,246 views)
+- [Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis](https://www.youtube.com/watch?v=KPmIAFUB9lE) — Market Investor (584 views)
+- [Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics](https://www.youtube.com/watch?v=8Xq8VwMWlXg) — Share Market with Vini (22 views)
+- [Molbio Diagnostic IPO Review | Final Decision | Apply or Avoid?](https://www.youtube.com/watch?v=WIuPc352VdI) — Yogesh Mantri (4,310 views)
+- [Molbio Diagnostics IPO Analysis। IPO Ranking।](https://www.youtube.com/watch?v=G3G00XkfPpA) — Naren RKP (1,177 views)

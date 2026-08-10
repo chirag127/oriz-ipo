@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:37:41+00:00",
+  "generated_at": "2026-08-10T11:59:27+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 18,
@@ -229,17 +229,25 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹939.70 Cr",
-      "sub_total": 0.74,
+      "sub_total": 0.83,
       "sub_qib": 1.0,
-      "sub_nii": 0.59,
-      "sub_retail": 0.65,
-      "review_score": 0.538,
+      "sub_nii": 0.73,
+      "sub_retail": 0.77,
+      "review_score": 0.5424,
       "videos": [
         {
           "title": "Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=W8lV1AEAV6s",
           "channel": "Knowledge Jazz",
-          "views": 17981,
+          "views": 18246,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis",
+          "url": "https://www.youtube.com/watch?v=KPmIAFUB9lE",
+          "channel": "Market Investor",
+          "views": 584,
           "upload_date": "",
           "sentiment": ""
         },
@@ -247,7 +255,15 @@
           "title": "Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics",
           "url": "https://www.youtube.com/watch?v=8Xq8VwMWlXg",
           "channel": "Share Market with Vini",
-          "views": 23,
+          "views": 22,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Molbio Diagnostic IPO Review | Final Decision | Apply or Avoid?",
+          "url": "https://www.youtube.com/watch?v=WIuPc352VdI",
+          "channel": "Yogesh Mantri",
+          "views": 4310,
           "upload_date": "",
           "sentiment": ""
         },
@@ -255,29 +271,13 @@
           "title": "Molbio Diagnostics IPO Analysis। IPO Ranking।",
           "url": "https://www.youtube.com/watch?v=G3G00XkfPpA",
           "channel": "Naren RKP",
-          "views": 1158,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO",
-          "url": "https://www.youtube.com/watch?v=t1iL9n175Cs",
-          "channel": "Yogesh Mantri",
-          "views": 13348,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Molbio Diagnostics IPO analysis | Latest IPO GMP | Dhoot Transmission IPO | Shiprocket | Milky mist",
-          "url": "https://www.youtube.com/watch?v=TGrWs_PuMCQ",
-          "channel": "Vibhor Varshney",
-          "views": 9499,
+          "views": 1177,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Molbio’s GMP premium and mid‑range review score suggest moderate interest, with neither strong enthusiasm nor clear red flags. The diagnostics focus and mainboard listing make it a conventional healthcare IPO where sentiment appears steady rather than exuberant.",
-      "comment_analysis": "Reviewers generally lean **cautiously positive**, with most suggesting an *apply only for listing gains* rather than strong long‑term conviction. Across videos, recurring themes include **rich valuation**, **moderate GMP (~16%)**, and **solid fundamentals driven by Molbio’s molecular diagnostics niche**, but also concerns about **pricing being on the higher side**. The consensus frames the IPO as attractive for short‑term listing pop, while long‑term investors may want to wait for more reasonable valuations.",
+      "summary": "Molbio Diagnostics’ IPO shows moderate grey‑market interest and a middling review score, suggesting sentiment is neither strongly positive nor negative. The company’s mainboard listing and active retail discussion indicate attention, but available signals point to a fairly balanced market view rather than clear enthusiasm.",
+      "comment_analysis": "Reviewers generally lean **cautiously positive**, with most suggesting an *apply* stance but typically for **listing gains rather than long‑term holding**. Across videos, recurring themes include **premium valuation**, **moderate GMP (~16%)**, and **strong fundamentals driven by Molbio’s niche diagnostics products**, though some analysts flag that growth momentum and pricing leave limited margin of safety. Overall consensus: **decent short‑term sentiment, mixed conviction for long‑term investment**.",
       "slug": "molbio-diagnostics"
     },
     {
@@ -296,17 +296,17 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹3066.89 Cr",
-      "sub_total": 0.5,
-      "sub_qib": 0.01,
-      "sub_nii": 0.74,
-      "sub_retail": 0.66,
-      "review_score": 0.5163,
+      "sub_total": 0.62,
+      "sub_qib": 0.06,
+      "sub_nii": 1.02,
+      "sub_retail": 0.76,
+      "review_score": 0.5185,
       "videos": [
         {
           "title": "Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP",
           "url": "https://www.youtube.com/watch?v=u8MxloMLxHI",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 4016,
+          "views": 5048,
           "upload_date": "",
           "sentiment": ""
         },
@@ -314,7 +314,7 @@
           "title": "Dhoot Transmission IPO Full Review | Dhoot Transmission IPO GMP | Apply Or Not?",
           "url": "https://www.youtube.com/watch?v=qiXQ7jCijag",
           "channel": "Basic Gyaan",
-          "views": 70,
+          "views": 91,
           "upload_date": "",
           "sentiment": ""
         },
@@ -322,7 +322,7 @@
           "title": "6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo",
           "url": "https://www.youtube.com/watch?v=2kv6roeZr8w",
           "channel": "CA Market GuY ",
-          "views": 1873,
+          "views": 2318,
           "upload_date": "",
           "sentiment": ""
         },
@@ -330,21 +330,21 @@
           "title": "MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ",
           "url": "https://www.youtube.com/watch?v=Am0yqYDc6Vs",
           "channel": "Vibhor Varshney",
-          "views": 10631,
+          "views": 11034,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "DHOOT TRANSMISSION IPO analysis | Molbio IPO GMP | Leap india | Technocraft | Ardee ipo allotment ",
-          "url": "https://www.youtube.com/watch?v=8m9KQ_9MnW0",
-          "channel": "Vibhor Varshney",
-          "views": 15788,
+          "title": "YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=Ix2snEB7TL4",
+          "channel": "Share Bazar with Ayush",
+          "views": 671,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Dhoot Transmission — grey-market premium ~29.7%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.52). Above the 5% GMP watch threshold.",
-      "comment_analysis": "Reviewers show a **cautiously positive but not unanimous** lean toward *apply*, mainly for **listing gains** rather than long‑term conviction. Across channels, the recurring themes are a **moderate GMP (~₹30)**, **reasonable but not standout fundamentals**, and **valuation that looks acceptable for a short‑term pop but not compelling for multi‑year holding.** Most analysts frame Dhoot Transmission as a *tactical listing‑gain opportunity* rather than a strong fundamental bet.",
+      "summary": "Dhoot Transmission’s GMP suggests moderate listing optimism, but the middling review score indicates mixed sentiment around fundamentals and valuation. For a retail investor, this IPO appears neither strongly compelling nor clearly unattractive based on currently available signals.",
+      "comment_analysis": "Reviewers show a **mildly positive but cautious tilt toward “apply for listing gains”**, not a strong long‑term conviction. Across videos, the recurring themes are **reasonable GMP (~30%)**, **decent but not standout fundamentals**, and **concerns around valuation stretch** typical of SME IPOs. Most commentary frames Dhoot Transmission as a **tactical listing‑gain opportunity rather than a long‑horizon investment**, with no strong “avoid” sentiment but clear emphasis on risk awareness.",
       "slug": "dhoot-transmission"
     },
     {
@@ -363,17 +363,17 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹2480.00 Cr",
-      "sub_total": 0.46,
+      "sub_total": 0.52,
       "sub_qib": 0.64,
-      "sub_nii": 0.4,
-      "sub_retail": 0.38,
-      "review_score": 0.5657,
+      "sub_nii": 0.53,
+      "sub_retail": 0.43,
+      "review_score": 0.5641,
       "videos": [
         {
           "title": "LEAP India IPO Full Review | LEAP India IPO GMP | Apply Or Not?",
           "url": "https://www.youtube.com/watch?v=C8xu2DFjfr4",
           "channel": "Basic Gyaan",
-          "views": 1832,
+          "views": 2453,
           "upload_date": "",
           "sentiment": ""
         },
@@ -381,7 +381,7 @@
           "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
           "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
           "channel": "Vibhor Varshney",
-          "views": 17665,
+          "views": 17886,
           "upload_date": "",
           "sentiment": ""
         },
@@ -389,7 +389,7 @@
           "title": "6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo",
           "url": "https://www.youtube.com/watch?v=2kv6roeZr8w",
           "channel": "CA Market GuY ",
-          "views": 1873,
+          "views": 2318,
           "upload_date": "",
           "sentiment": ""
         },
@@ -397,7 +397,7 @@
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 24763,
+          "views": 25038,
           "upload_date": "",
           "sentiment": ""
         },
@@ -405,13 +405,13 @@
           "title": "YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥",
           "url": "https://www.youtube.com/watch?v=Ix2snEB7TL4",
           "channel": "Share Bazar with Ayush",
-          "views": 197,
+          "views": 671,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "LEAP India’s GMP near 10% and a middling review score suggest moderate market interest rather than strong conviction. With a mainboard listing and active retail chatter, sentiment appears cautiously positive but not emphatic.",
-      "comment_analysis": "Reviewers broadly lean **cautious to neutral**, with most suggesting a **selective or conservative apply** rather than a strong subscribe. The recurring themes are **rich valuation** (P/E ~112x), a **heavy OFS component**, and **moderate GMP**, which together temper enthusiasm despite strong revenue and profit growth. Consensus sentiment frames LEAP India as a possible **listing‑gain play only if demand improves**, while long‑term conviction is limited due to high pricing and modest ROE.  [[0]](https://chanakyanipothi.com/leap-india-ipo-review/) [[1]](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/leap-india-ipo-review-valuation-business-financials/article71316905.ece) [[2]](https://www.indmoney.com/blog/ipo/leap-india-ipo-review) [[3]](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)\n\n\n\n> [0] [LEAP India IPO Review](https://chanakyanipothi.com/leap-india-ipo-review/)\n>\n> [1] [LEAP India IPO Review: Expensive Valuation, Dominant Market Share - The HinduBusinessLine](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/leap-india-ipo-review-valuation-business-financials/article71316905.ece)\n>\n> [2] [LEAP India IPO Review, GMP: Apply or Avoid?](https://www.indmoney.com/blog/ipo/leap-india-ipo-review)\n>\n> [3] [LEAP India IPO Review 2026: Should You Subscribe? GMP, Financial Analysis, Valuation & Long-Term Outlook | India Infoline](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)",
+      "summary": "LEAP India’s GMP near 10% and a middling review score suggest moderate but not overwhelming sentiment around the issue. With a mainboard listing and active retail chatter, interest appears steady rather than strongly conviction‑driven.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative consensus**, leaning more toward *avoid or very selective apply* rather than broad enthusiasm. Across channels, the recurring themes are **stretched valuation**, **weak or unexciting GMP (~10%)**, and **concerns about fundamentals relative to pricing**, which dampen confidence in listing gains. Most reviewers frame LEAP India as a **short-term listing‑gain play at best**, with limited conviction for long‑term holding.",
       "slug": "leap-india"
     },
     {
@@ -456,25 +456,25 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹251.88 Cr",
-      "sub_total": 4.32,
-      "sub_qib": 4.49,
-      "sub_nii": 5.72,
-      "sub_retail": 3.63,
+      "sub_total": 4.74,
+      "sub_qib": 4.5,
+      "sub_nii": 6.48,
+      "sub_retail": 4.13,
       "review_score": 0.5,
       "videos": [
         {
           "title": "Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ",
           "url": "https://www.youtube.com/watch?v=lnOSx0gTMqY",
           "channel": "Vibhor Varshney",
-          "views": 14549,
+          "views": 14817,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft Ventures IPO | Analysis | GMP | Review",
-          "url": "https://www.youtube.com/watch?v=uqwvt8a2buM",
-          "channel": "Stock Market with Naveeen",
-          "views": 811,
+          "title": "Technocraft Ventures IPO 🔴Technocraft Ventures IPO Review 🔴Technocraft Ventures IPO Gmp 🔴Technocraft",
+          "url": "https://www.youtube.com/watch?v=r6CcqawxYlg",
+          "channel": "Share Market with Vini",
+          "views": 73,
           "upload_date": "",
           "sentiment": ""
         },
@@ -482,7 +482,7 @@
           "title": "YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥",
           "url": "https://www.youtube.com/watch?v=Ix2snEB7TL4",
           "channel": "Share Bazar with Ayush",
-          "views": 197,
+          "views": 671,
           "upload_date": "",
           "sentiment": ""
         },
@@ -490,21 +490,21 @@
           "title": "Technocraft Ventures IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=JPg4Jcm42n0",
           "channel": "Knowledge Jazz",
-          "views": 20472,
+          "views": 20815,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
-          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
-          "channel": "Naren RKP",
-          "views": 2053,
+          "title": "Technocraft Ventures IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=uqwvt8a2buM",
+          "channel": "Stock Market with Naveeen",
+          "views": 797,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures shows a modest GMP uplift of about **10.8%**, while mixed YouTube reviews and a middling **0.50** sentiment score suggest only moderate market enthusiasm. As a mainboard IPO currently open, it appears to be drawing balanced interest without strong signals in either direction.",
-      "comment_analysis": "Reviewers appear **cautiously neutral to mildly positive**, with most leaning toward *apply only for listing gains* rather than strong long‑term conviction. A recurring theme is that **fundamentals are decent but not exceptional**, and the **GMP near ~10–11% signals modest demand**, not a high‑momentum IPO. Several reviewers highlight **valuation as reasonable**, yet note that the business lacks a strong growth narrative, making it more suitable for **short‑term listing expectations** than long‑term holding.",
+      "summary": "Technocraft Ventures — grey-market premium ~10.8%, band ₹212, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
+      "comment_analysis": "Reviewers show a **cautiously positive but not enthusiastic** tilt toward *apply*, mainly for **listing gains**, while long‑term conviction appears limited. Across channels, the recurring themes are **modest GMP (~₹10–11)**, questions around **valuation comfort**, and emphasis on checking **fundamentals before applying**. Most reviewers frame Technocraft Ventures as a **potential small listing‑gain opportunity rather than a strong long‑term compounder**, with some urging a selective or risk‑aware approach.",
       "slug": "technocraft-ventures"
     },
     {
@@ -655,17 +655,17 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹3066.89 Cr",
-      "sub_total": 0.5,
-      "sub_qib": 0.01,
-      "sub_nii": 0.74,
-      "sub_retail": 0.66,
-      "review_score": 0.5163,
+      "sub_total": 0.62,
+      "sub_qib": 0.06,
+      "sub_nii": 1.02,
+      "sub_retail": 0.76,
+      "review_score": 0.5185,
       "videos": [
         {
           "title": "Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP",
           "url": "https://www.youtube.com/watch?v=u8MxloMLxHI",
           "channel": "Palash Bopche -WealthyFied",
-          "views": 4016,
+          "views": 5048,
           "upload_date": "",
           "sentiment": ""
         },
@@ -673,7 +673,7 @@
           "title": "Dhoot Transmission IPO Full Review | Dhoot Transmission IPO GMP | Apply Or Not?",
           "url": "https://www.youtube.com/watch?v=qiXQ7jCijag",
           "channel": "Basic Gyaan",
-          "views": 70,
+          "views": 91,
           "upload_date": "",
           "sentiment": ""
         },
@@ -681,7 +681,7 @@
           "title": "6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo",
           "url": "https://www.youtube.com/watch?v=2kv6roeZr8w",
           "channel": "CA Market GuY ",
-          "views": 1873,
+          "views": 2318,
           "upload_date": "",
           "sentiment": ""
         },
@@ -689,21 +689,21 @@
           "title": "MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ",
           "url": "https://www.youtube.com/watch?v=Am0yqYDc6Vs",
           "channel": "Vibhor Varshney",
-          "views": 10631,
+          "views": 11034,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "DHOOT TRANSMISSION IPO analysis | Molbio IPO GMP | Leap india | Technocraft | Ardee ipo allotment ",
-          "url": "https://www.youtube.com/watch?v=8m9KQ_9MnW0",
-          "channel": "Vibhor Varshney",
-          "views": 15788,
+          "title": "YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=Ix2snEB7TL4",
+          "channel": "Share Bazar with Ayush",
+          "views": 671,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Dhoot Transmission — grey-market premium ~29.7%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.52). Above the 5% GMP watch threshold.",
-      "comment_analysis": "Reviewers show a **cautiously positive but not unanimous** lean toward *apply*, mainly for **listing gains** rather than long‑term conviction. Across channels, the recurring themes are a **moderate GMP (~₹30)**, **reasonable but not standout fundamentals**, and **valuation that looks acceptable for a short‑term pop but not compelling for multi‑year holding.** Most analysts frame Dhoot Transmission as a *tactical listing‑gain opportunity* rather than a strong fundamental bet.",
+      "summary": "Dhoot Transmission’s GMP suggests moderate listing optimism, but the middling review score indicates mixed sentiment around fundamentals and valuation. For a retail investor, this IPO appears neither strongly compelling nor clearly unattractive based on currently available signals.",
+      "comment_analysis": "Reviewers show a **mildly positive but cautious tilt toward “apply for listing gains”**, not a strong long‑term conviction. Across videos, the recurring themes are **reasonable GMP (~30%)**, **decent but not standout fundamentals**, and **concerns around valuation stretch** typical of SME IPOs. Most commentary frames Dhoot Transmission as a **tactical listing‑gain opportunity rather than a long‑horizon investment**, with no strong “avoid” sentiment but clear emphasis on risk awareness.",
       "slug": "dhoot-transmission"
     },
     {
@@ -722,17 +722,25 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹939.70 Cr",
-      "sub_total": 0.74,
+      "sub_total": 0.83,
       "sub_qib": 1.0,
-      "sub_nii": 0.59,
-      "sub_retail": 0.65,
-      "review_score": 0.538,
+      "sub_nii": 0.73,
+      "sub_retail": 0.77,
+      "review_score": 0.5424,
       "videos": [
         {
           "title": "Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=W8lV1AEAV6s",
           "channel": "Knowledge Jazz",
-          "views": 17981,
+          "views": 18246,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis",
+          "url": "https://www.youtube.com/watch?v=KPmIAFUB9lE",
+          "channel": "Market Investor",
+          "views": 584,
           "upload_date": "",
           "sentiment": ""
         },
@@ -740,7 +748,15 @@
           "title": "Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics",
           "url": "https://www.youtube.com/watch?v=8Xq8VwMWlXg",
           "channel": "Share Market with Vini",
-          "views": 23,
+          "views": 22,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Molbio Diagnostic IPO Review | Final Decision | Apply or Avoid?",
+          "url": "https://www.youtube.com/watch?v=WIuPc352VdI",
+          "channel": "Yogesh Mantri",
+          "views": 4310,
           "upload_date": "",
           "sentiment": ""
         },
@@ -748,29 +764,13 @@
           "title": "Molbio Diagnostics IPO Analysis। IPO Ranking।",
           "url": "https://www.youtube.com/watch?v=G3G00XkfPpA",
           "channel": "Naren RKP",
-          "views": 1158,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "IPO Ranking | LEAP India IPO | Dhoot Transmission IPO | Molbio Diagnostic | Technocraft Ventures IPO",
-          "url": "https://www.youtube.com/watch?v=t1iL9n175Cs",
-          "channel": "Yogesh Mantri",
-          "views": 13348,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Molbio Diagnostics IPO analysis | Latest IPO GMP | Dhoot Transmission IPO | Shiprocket | Milky mist",
-          "url": "https://www.youtube.com/watch?v=TGrWs_PuMCQ",
-          "channel": "Vibhor Varshney",
-          "views": 9499,
+          "views": 1177,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Molbio’s GMP premium and mid‑range review score suggest moderate interest, with neither strong enthusiasm nor clear red flags. The diagnostics focus and mainboard listing make it a conventional healthcare IPO where sentiment appears steady rather than exuberant.",
-      "comment_analysis": "Reviewers generally lean **cautiously positive**, with most suggesting an *apply only for listing gains* rather than strong long‑term conviction. Across videos, recurring themes include **rich valuation**, **moderate GMP (~16%)**, and **solid fundamentals driven by Molbio’s molecular diagnostics niche**, but also concerns about **pricing being on the higher side**. The consensus frames the IPO as attractive for short‑term listing pop, while long‑term investors may want to wait for more reasonable valuations.",
+      "summary": "Molbio Diagnostics’ IPO shows moderate grey‑market interest and a middling review score, suggesting sentiment is neither strongly positive nor negative. The company’s mainboard listing and active retail discussion indicate attention, but available signals point to a fairly balanced market view rather than clear enthusiasm.",
+      "comment_analysis": "Reviewers generally lean **cautiously positive**, with most suggesting an *apply* stance but typically for **listing gains rather than long‑term holding**. Across videos, recurring themes include **premium valuation**, **moderate GMP (~16%)**, and **strong fundamentals driven by Molbio’s niche diagnostics products**, though some analysts flag that growth momentum and pricing leave limited margin of safety. Overall consensus: **decent short‑term sentiment, mixed conviction for long‑term investment**.",
       "slug": "molbio-diagnostics"
     },
     {
@@ -789,25 +789,25 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹251.88 Cr",
-      "sub_total": 4.32,
-      "sub_qib": 4.49,
-      "sub_nii": 5.72,
-      "sub_retail": 3.63,
+      "sub_total": 4.74,
+      "sub_qib": 4.5,
+      "sub_nii": 6.48,
+      "sub_retail": 4.13,
       "review_score": 0.5,
       "videos": [
         {
           "title": "Technocraft ventures IPO review | Technocraft latest GMP | Dhoot Transmission | Milky Mist IPO GMP ",
           "url": "https://www.youtube.com/watch?v=lnOSx0gTMqY",
           "channel": "Vibhor Varshney",
-          "views": 14549,
+          "views": 14817,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft Ventures IPO | Analysis | GMP | Review",
-          "url": "https://www.youtube.com/watch?v=uqwvt8a2buM",
-          "channel": "Stock Market with Naveeen",
-          "views": 811,
+          "title": "Technocraft Ventures IPO 🔴Technocraft Ventures IPO Review 🔴Technocraft Ventures IPO Gmp 🔴Technocraft",
+          "url": "https://www.youtube.com/watch?v=r6CcqawxYlg",
+          "channel": "Share Market with Vini",
+          "views": 73,
           "upload_date": "",
           "sentiment": ""
         },
@@ -815,7 +815,7 @@
           "title": "YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥",
           "url": "https://www.youtube.com/watch?v=Ix2snEB7TL4",
           "channel": "Share Bazar with Ayush",
-          "views": 197,
+          "views": 671,
           "upload_date": "",
           "sentiment": ""
         },
@@ -823,21 +823,21 @@
           "title": "Technocraft Ventures IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=JPg4Jcm42n0",
           "channel": "Knowledge Jazz",
-          "views": 20472,
+          "views": 20815,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Technocraft Ventures IPO Detailed Analysis with Latest GMP।",
-          "url": "https://www.youtube.com/watch?v=YxtkDfXDgok",
-          "channel": "Naren RKP",
-          "views": 2053,
+          "title": "Technocraft Ventures IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=uqwvt8a2buM",
+          "channel": "Stock Market with Naveeen",
+          "views": 797,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Technocraft Ventures shows a modest GMP uplift of about **10.8%**, while mixed YouTube reviews and a middling **0.50** sentiment score suggest only moderate market enthusiasm. As a mainboard IPO currently open, it appears to be drawing balanced interest without strong signals in either direction.",
-      "comment_analysis": "Reviewers appear **cautiously neutral to mildly positive**, with most leaning toward *apply only for listing gains* rather than strong long‑term conviction. A recurring theme is that **fundamentals are decent but not exceptional**, and the **GMP near ~10–11% signals modest demand**, not a high‑momentum IPO. Several reviewers highlight **valuation as reasonable**, yet note that the business lacks a strong growth narrative, making it more suitable for **short‑term listing expectations** than long‑term holding.",
+      "summary": "Technocraft Ventures — grey-market premium ~10.8%, band ₹212, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
+      "comment_analysis": "Reviewers show a **cautiously positive but not enthusiastic** tilt toward *apply*, mainly for **listing gains**, while long‑term conviction appears limited. Across channels, the recurring themes are **modest GMP (~₹10–11)**, questions around **valuation comfort**, and emphasis on checking **fundamentals before applying**. Most reviewers frame Technocraft Ventures as a **potential small listing‑gain opportunity rather than a strong long‑term compounder**, with some urging a selective or risk‑aware approach.",
       "slug": "technocraft-ventures"
     },
     {
@@ -856,17 +856,17 @@
       "kostak": "",
       "subject_to": "",
       "issue_size": "₹2480.00 Cr",
-      "sub_total": 0.46,
+      "sub_total": 0.52,
       "sub_qib": 0.64,
-      "sub_nii": 0.4,
-      "sub_retail": 0.38,
-      "review_score": 0.5657,
+      "sub_nii": 0.53,
+      "sub_retail": 0.43,
+      "review_score": 0.5641,
       "videos": [
         {
           "title": "LEAP India IPO Full Review | LEAP India IPO GMP | Apply Or Not?",
           "url": "https://www.youtube.com/watch?v=C8xu2DFjfr4",
           "channel": "Basic Gyaan",
-          "views": 1832,
+          "views": 2453,
           "upload_date": "",
           "sentiment": ""
         },
@@ -874,7 +874,7 @@
           "title": "LEAP INDIA IPO Review | Leap IPO latest GMP | Molbio Diagnostics | Dhoot Transmission | Milky Mist ",
           "url": "https://www.youtube.com/watch?v=1oBmqVDH13s",
           "channel": "Vibhor Varshney",
-          "views": 17665,
+          "views": 17886,
           "upload_date": "",
           "sentiment": ""
         },
@@ -882,7 +882,7 @@
           "title": "6 IPOs Ranking! | GMP| Final Decision? | dhoot transmission ipo | milky mist ipo | leap India ipo",
           "url": "https://www.youtube.com/watch?v=2kv6roeZr8w",
           "channel": "CA Market GuY ",
-          "views": 1873,
+          "views": 2318,
           "upload_date": "",
           "sentiment": ""
         },
@@ -890,7 +890,7 @@
           "title": "Leap India IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=10duJBgXb3s",
           "channel": "Knowledge Jazz",
-          "views": 24763,
+          "views": 25038,
           "upload_date": "",
           "sentiment": ""
         },
@@ -898,13 +898,13 @@
           "title": "YouDhoot IPO GMP | Ardee IPO GMP | Molbio IPO GMP | Technocraft IPO GMP | Milky Mist IPO GMP 💥",
           "url": "https://www.youtube.com/watch?v=Ix2snEB7TL4",
           "channel": "Share Bazar with Ayush",
-          "views": 197,
+          "views": 671,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "LEAP India’s GMP near 10% and a middling review score suggest moderate market interest rather than strong conviction. With a mainboard listing and active retail chatter, sentiment appears cautiously positive but not emphatic.",
-      "comment_analysis": "Reviewers broadly lean **cautious to neutral**, with most suggesting a **selective or conservative apply** rather than a strong subscribe. The recurring themes are **rich valuation** (P/E ~112x), a **heavy OFS component**, and **moderate GMP**, which together temper enthusiasm despite strong revenue and profit growth. Consensus sentiment frames LEAP India as a possible **listing‑gain play only if demand improves**, while long‑term conviction is limited due to high pricing and modest ROE.  [[0]](https://chanakyanipothi.com/leap-india-ipo-review/) [[1]](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/leap-india-ipo-review-valuation-business-financials/article71316905.ece) [[2]](https://www.indmoney.com/blog/ipo/leap-india-ipo-review) [[3]](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)\n\n\n\n> [0] [LEAP India IPO Review](https://chanakyanipothi.com/leap-india-ipo-review/)\n>\n> [1] [LEAP India IPO Review: Expensive Valuation, Dominant Market Share - The HinduBusinessLine](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/leap-india-ipo-review-valuation-business-financials/article71316905.ece)\n>\n> [2] [LEAP India IPO Review, GMP: Apply or Avoid?](https://www.indmoney.com/blog/ipo/leap-india-ipo-review)\n>\n> [3] [LEAP India IPO Review 2026: Should You Subscribe? GMP, Financial Analysis, Valuation & Long-Term Outlook | India Infoline](https://www.indiainfoline.com/news/ipo/leap-india-ipo-review-2026-should-you-subscribe-gmp-financial-analysis-valuation-long-term-outlook)",
+      "summary": "LEAP India’s GMP near 10% and a middling review score suggest moderate but not overwhelming sentiment around the issue. With a mainboard listing and active retail chatter, interest appears steady rather than strongly conviction‑driven.",
+      "comment_analysis": "Reviewers show a **cautious-to-negative consensus**, leaning more toward *avoid or very selective apply* rather than broad enthusiasm. Across channels, the recurring themes are **stretched valuation**, **weak or unexciting GMP (~10%)**, and **concerns about fundamentals relative to pricing**, which dampen confidence in listing gains. Most reviewers frame LEAP India as a **short-term listing‑gain play at best**, with limited conviction for long‑term holding.",
       "slug": "leap-india"
     }
   ]
