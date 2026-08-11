@@ -9,12 +9,12 @@ source: "ipowatch"
 review_score: 0.5357
 ---
 
-Molbio Diagnostics’ GMP near 15% and a middling review score suggest moderate but not overwhelming market enthusiasm for the offering. The IPO’s mainboard profile and active discussion across review channels indicate solid visibility, though sentiment appears cautiously balanced rather than strongly bullish.
+Molbio Diagnostics’ IPO shows a moderate GMP and middling review sentiment, suggesting balanced but not overwhelming market interest at the current price band. The company’s diagnostics focus may appeal to investors seeking healthcare exposure, though subscription trends will likely determine how demand ultimately shapes up.
 
 ## Reviews
 
-- [Dhoot Transmission IPO Subscription GMP | Molbio Diagnostics IPO GMP Review | Stock Market Tak](https://www.youtube.com/watch?v=3NuAZn0CU_E) — Stock Market Tak (2,747 views)
 - [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (22,789 views)
-- [Dhoot Transmission IPO । Molbio Diagnostics IPO । Milky Mist Dairy Food IPO । LEAP India IPO](https://www.youtube.com/watch?v=3MsiP5QdRiM) — The Bonus (20,677 views)
+- [Dhoot Transmission IPO Subscription GMP | Molbio Diagnostics IPO GMP Review | Stock Market Tak](https://www.youtube.com/watch?v=3NuAZn0CU_E) — Stock Market Tak (2,791 views)
+- [Dhoot Transmission IPO । Molbio Diagnostics IPO । Milky Mist Dairy Food IPO । LEAP India IPO](https://www.youtube.com/watch?v=3MsiP5QdRiM) — The Bonus (20,830 views)
 - [Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis](https://www.youtube.com/watch?v=KPmIAFUB9lE) — Market Investor (637 views)
-- [Dhoot Transmission IPO | Molbio Diagnostics IPO | Day 2 Subscription Status 💥](https://www.youtube.com/watch?v=Nvlw4ArooHk) — Share Bazar with Ayush (2,448 views)
+- [Dhoot Transmission IPO | Molbio Diagnostics IPO | Day 2 Subscription Status 💥](https://www.youtube.com/watch?v=Nvlw4ArooHk) — Share Bazar with Ayush (2,475 views)
