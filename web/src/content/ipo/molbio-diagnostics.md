@@ -6,15 +6,15 @@ price_band: "₹807"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5426
+review_score: 0.5830
 ---
 
-Molbio Diagnostics’ GMP premium near 16% and a middling review score suggest moderate but not overwhelming market enthusiasm. The IPO’s fundamentals and reception appear mixed, making it a candidate for closer scrutiny rather than a clear-cut sentiment.
+Molbio Diagnostics’ GMP near 16% and a middling review score suggest moderate but not overwhelming sentiment around the offer. With a premium-priced band and mixed retail commentary, interest appears steady rather than strongly conviction-driven.
 
 ## Reviews
 
-- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (20,201 views)
-- [Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis](https://www.youtube.com/watch?v=KPmIAFUB9lE) — Market Investor (616 views)
-- [Molbio Diagnostics IPO Analysis - Avoid or Apply? GMP, Valuation & Fundamentals](https://www.youtube.com/watch?v=cApZOFekqis) — Md Azhar - Learn Investing (292 views)
-- [LEAP India IPO । Molbio Diagnostics IPO । Dhoot Transmission IPO में कहां बनेगा मौका? IPO](https://www.youtube.com/watch?v=VHvdxViPtH4) — The Bonus (38,255 views)
-- [Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics](https://www.youtube.com/watch?v=ym5EeD8MfRM) — Share Market with Vini (3 views)
+- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (20,448 views)
+- [Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis](https://www.youtube.com/watch?v=KPmIAFUB9lE) — Market Investor (619 views)
+- [Molbio Diagnostics IPO 🔴Molbio Diagnostics IPO Review 🔴Molbio Diagnostics IPO Gmp🔴Molbio Diagnostics](https://www.youtube.com/watch?v=ym5EeD8MfRM) — Share Market with Vini (18 views)
+- [Molbio Diagnostics IPO Review | Molbio Diagnostics IPO GMP | Apply Or Not ?](https://www.youtube.com/watch?v=oI2ks2j9mBk) — The Rich Investor  (1,886 views)
+- [Molbio diagnostics ipo gmp today✅molbio diagnostics ipo apply or avoid?molbio diagnostics ipo review](https://www.youtube.com/watch?v=j9ii7ZjLAng) — INVESTMENT ka bazar 🤑🤑 (120 views)
