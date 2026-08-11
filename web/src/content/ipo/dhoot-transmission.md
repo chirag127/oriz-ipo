@@ -6,15 +6,15 @@ price_band: "₹871"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5592
+review_score: 0.5000
 ---
 
-Dhoot Transmission’s IPO shows a moderate GMP uplift and middling review sentiment, suggesting balanced but not overwhelming market enthusiasm. The company’s mainboard listing and steady grey‑market interest indicate that investors are watching it, though reactions so far appear measured rather than strongly bullish.
+Dhoot Transmission’s IPO shows a moderate grey‑market premium and middling review sentiment, suggesting balanced but not enthusiastic demand. Its mainboard listing and active discussion across comparison reviews indicate investor interest, though opinions appear split on its relative strength among current offerings.
 
 ## Reviews
 
-- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (9,903 views)
-- [All ipo gmp today🤑dhoot transmission ipo gmp today💥leap india ipo final decision✅ molbio ipo gmp up?](https://www.youtube.com/watch?v=Jzs6y9hnI7A) — INVESTMENT ka bazar 🤑🤑 (906 views)
-- [DHOOT TRANSMISSION IPO analysis | Molbio IPO GMP | Leap india | Technocraft | Ardee ipo allotment ](https://www.youtube.com/watch?v=8m9KQ_9MnW0) — Vibhor Varshney (18,606 views)
-- [Dhoot Transmission IPO Review | Apply Or Not ? | Jayesh Khatri](https://www.youtube.com/watch?v=hzncxqd39aw) — Knowledge Jazz (27,788 views)
-- [Dhoot Transmission IPO Full Review | Dhoot Transmission IPO GMP | Apply Or Not?](https://www.youtube.com/watch?v=qiXQ7jCijag) — Basic Gyaan (756 views)
+- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (10,130 views)
+- [5 IPO Ranking || Dhoot Transmission IPO | Molbio Diagnostics IPO | Milky Mist IPO | Technocraft IPO ](https://www.youtube.com/watch?v=jyViux3ZVTY) — Palash Bopche -WealthyFied (15,832 views)
+- [Final Verdict: LEAP India IPO | Technocraft IPO | Dhoot Transmission IPO | Live IPO Subscription ...](https://www.youtube.com/watch?v=W8TMEdb5TwY) — Ankur Singh (800 views)
+- [4 IPO comparison | Leap india vs Technocraft vs Dhoot transmission vs Molbio Diagnostics | IPO GMP ](https://www.youtube.com/watch?v=vWGJSD_JQ9Q) — Vibhor Varshney (21,387 views)
+- [All ipo gmp today🤑dhoot transmission ipo gmp today💥leap india ipo final decision✅ molbio ipo gmp up?](https://www.youtube.com/watch?v=Jzs6y9hnI7A) — INVESTMENT ka bazar 🤑🤑 (1,555 views)
