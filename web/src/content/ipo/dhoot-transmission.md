@@ -6,15 +6,15 @@ price_band: "₹871"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5201
+review_score: 0.5000
 ---
 
-Dhoot Transmission’s GMP near 29% suggests moderate listing optimism, but the middling review score indicates mixed sentiment around fundamentals and valuation. Subscription traction and peer comparisons will likely determine how this auto‑components IPO ultimately shapes up for retail participants.
+Dhoot Transmission — grey-market premium ~28.7%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.
 
 ## Reviews
 
-- [Dhoot Transmission IPO Subscription GMP | Molbio Diagnostics IPO GMP Review | Stock Market Tak](https://www.youtube.com/watch?v=3NuAZn0CU_E) — Stock Market Tak (565 views)
-- [Dhoot Transmission IPO | Molbio Diagnostics IPO | Day 2 Subscription Status 💥](https://www.youtube.com/watch?v=Nvlw4ArooHk) — Share Bazar with Ayush (517 views)
-- [Dhoot Transmission IPO । Molbio Diagnostics IPO । Milky Mist Dairy Food IPO । LEAP India IPO](https://www.youtube.com/watch?v=3MsiP5QdRiM) — The Bonus (8,036 views)
-- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (10,348 views)
-- [Stocks To Buy | Milky Mist Dairy Food IPO | Molbio Diagnostics IPO GMP | Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=TnLiV8qPmF8) — ShareX India (117 views)
+- [Dhoot Transmission IPO Subscription GMP | Molbio Diagnostics IPO GMP Review | Stock Market Tak](https://www.youtube.com/watch?v=3NuAZn0CU_E) — Stock Market Tak (1,090 views)
+- [Dhoot Transmission IPO | Molbio Diagnostics IPO | Day 2 Subscription Status 💥](https://www.youtube.com/watch?v=Nvlw4ArooHk) — Share Bazar with Ayush (995 views)
+- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (10,395 views)
+- [Final Verdict: LEAP India IPO | Technocraft IPO | Dhoot Transmission IPO | Live IPO Subscription ...](https://www.youtube.com/watch?v=W8TMEdb5TwY) — Ankur Singh (3,465 views)
+- [Dhoot Transmission IPO । Molbio Diagnostics IPO । Milky Mist Dairy Food IPO । LEAP India IPO](https://www.youtube.com/watch?v=3MsiP5QdRiM) — The Bonus (11,236 views)
