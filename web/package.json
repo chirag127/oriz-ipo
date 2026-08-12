@@ -10,7 +10,7 @@
     "check": "astro check"
   },
   "dependencies": {
-    "astro": "^6.4.8"
+    "astro": "^7.2.1"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
