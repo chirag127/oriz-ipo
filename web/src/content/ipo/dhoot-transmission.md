@@ -6,15 +6,15 @@ price_band: "₹871"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5590
+review_score: 0.5474
 ---
 
-Dhoot Transmission — grey-market premium ~29.3%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.56). Above the 5% GMP watch threshold.
+Dhoot Transmission — grey-market premium ~29.3%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.55). Above the 5% GMP watch threshold.
 
 ## Reviews
 
-- [Mega IPO Comparison - Dhoot Transmission Vs Molbio Vs Milky Mist IPO | Best IPO to Apply | GMP Today](https://www.youtube.com/watch?v=TmTsvDGAW4M) — Ajay Singh Rathore (1,253 views)
-- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (10,647 views)
-- [Dhoot Transmission IPO Review | Apply Or Not ? | Jayesh Khatri](https://www.youtube.com/watch?v=hzncxqd39aw) — Knowledge Jazz (30,100 views)
-- [Dhoot IPO Final Update | Ardee IPO Listing Strategy | Molbio IPO | Technocraft IPO Allotment | Leap ](https://www.youtube.com/watch?v=7pc5PWUl4hQ) — Knowledge Jazz (15,869 views)
-- [Dhoot Transmission IPO Subscription GMP | Molbio Diagnostics IPO GMP Review | Stock Market Tak](https://www.youtube.com/watch?v=3NuAZn0CU_E) — Stock Market Tak (2,840 views)
+- [Mega IPO Comparison - Dhoot Transmission Vs Molbio Vs Milky Mist IPO | Best IPO to Apply | GMP Today](https://www.youtube.com/watch?v=TmTsvDGAW4M) — Ajay Singh Rathore (1,632 views)
+- [Dhoot Transmission IPO Review Final | Dhoot Transmission IPO GMP Today](https://www.youtube.com/watch?v=PPz6I59n9rg) — Financial Yoddha (63 views)
+- [FINAL DECISION | DHOOT TRANSMISSION IPO GMP TODAY | DHOOT TRANSMISSION IPO | APPLY OR AVOID ?](https://www.youtube.com/watch?v=PwbA_wbXv8s) — The Smart Investor💹 (4 views)
+- [2 IPO Ranking | Dhoot Transmission IPO Or Molbio Diagnostics IPO Which one is Best IPO | GMP Today](https://www.youtube.com/watch?v=nXwUKOHg3Ts) — Financial Yoddha (21 views)
+- [Latest IPO Ranking - Final List | Dhoot Transmission IPO | Molbio IPO | Milky Mist IPO |](https://www.youtube.com/watch?v=WEBUw-gQuRA) — Ankur Singh (673 views)
