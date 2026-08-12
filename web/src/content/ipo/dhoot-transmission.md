@@ -13,8 +13,8 @@ Dhoot Transmission — grey-market premium ~29.3%, band ₹871, Mainboard, Open,
 
 ## Reviews
 
-- [Dhoot Transmission IPO Subscription Status | MOLBIO Diagnostic IPO Subscription Status | Dhoot IPO 💥](https://www.youtube.com/watch?v=ZGf4m9CZ-5s) — Share Bazar with Ayush (4,387 views)
-- [Dhoot Transmissions IPO | Molbio Diagnostics IPO | Subscription Status GMP & Allotment Chances?](https://www.youtube.com/watch?v=h4ixb7Mxcbk) — The Rich Investor  (1,340 views)
-- [Molbio IPO & Dhoot IPO Allotment Chances, Date, Fund & Listing expectations | Ankur Singh](https://www.youtube.com/watch?v=0pQtSdYmgOM) — Ankur Singh (1,233 views)
-- [Dhoot Transmission IPO Review || Dhoot Transmission IPO GMP](https://www.youtube.com/watch?v=u8MxloMLxHI) — Palash Bopche -WealthyFied (11,102 views)
-- [Dhoot Transmission IPO GMP Today | Molbio Diagnostics IPO GMP  Review | Stock Market Tak](https://www.youtube.com/watch?v=NAki91TUkYM) — Stock Market Tak (3,481 views)
+- [Dhoot Transmission IPO Subscription Status | MOLBIO Diagnostic IPO Subscription Status | Dhoot IPO 💥](https://www.youtube.com/watch?v=ZGf4m9CZ-5s) — Share Bazar with Ayush (4,511 views)
+- [Dhoot Transmission IPO Allotment Chances | Dhoot Transmission IPO GMP Today](https://www.youtube.com/watch?v=YidoTNATZ_s) — Financial Yoddha (2,479 views)
+- [Dhoot Transmission IPO | Milky Mist Dairy Food IPO | Molbio Diagnostics IPO में कहां मौका?](https://www.youtube.com/watch?v=uLzt1LxHTFM) — The Bonus (14,023 views)
+- [Molbio IPO & Dhoot IPO Allotment Chances, Date, Fund & Listing expectations | Ankur Singh](https://www.youtube.com/watch?v=0pQtSdYmgOM) — Ankur Singh (1,288 views)
+- [Dhoot Transmissions IPO | Molbio Diagnostics IPO | Subscription Status GMP & Allotment Chances?](https://www.youtube.com/watch?v=h4ixb7Mxcbk) — The Rich Investor  (1,374 views)
