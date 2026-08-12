@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T06:27:30+00:00",
+  "generated_at": "2026-08-12T08:40:30+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 22,
@@ -228,18 +228,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5827,
+      "issue_size": "₹301.62 Cr",
+      "sub_total": 1.24,
+      "sub_qib": 0.47,
+      "sub_nii": 1.05,
+      "sub_retail": 1.64,
+      "review_score": 0.5513,
       "videos": [
         {
           "title": "Behari Lal Engineering IPO 🔴 Behari Lal Engineering IPO Review 🔴Behari Lal Engineering IPO Gmp Today",
           "url": "https://www.youtube.com/watch?v=53a7IACFOac",
           "channel": "Share Market with Vini",
-          "views": 32,
+          "views": 42,
           "upload_date": "",
           "sentiment": ""
         },
@@ -247,7 +247,7 @@
           "title": "Behari Lal Engineering IPO Review 2026 | 18% GMP, Apply or Avoid?  Listing Gain & Full Analysis",
           "url": "https://www.youtube.com/watch?v=nZ2E5CkIKQg",
           "channel": "Market Investor",
-          "views": 78,
+          "views": 113,
           "upload_date": "",
           "sentiment": ""
         },
@@ -255,29 +255,29 @@
           "title": "Behari Lal Engineering IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=ezk2E4vqHIo",
           "channel": "Knowledge Jazz",
-          "views": 2476,
+          "views": 3869,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Behari Lal Engineering IPO Review | Behari Lal Engineering IPO GMP | Apply Or Not ?",
-          "url": "https://www.youtube.com/watch?v=qeq_tfTEhpc",
-          "channel": "The Rich Investor ",
-          "views": 1129,
+          "title": "Dhoot IPO GMP | Molbio IPO GMP | Shiprocket IPO GMP | Behari Lal IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=46rGe_l6lEM",
+          "channel": "Share Bazar with Ayush",
+          "views": 652,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Behari Lal Engineering IPO Analysis। IPO Ranking।",
-          "url": "https://www.youtube.com/watch?v=SmHXIIXNvfk",
-          "channel": "Naren RKP",
-          "views": 363,
+          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
+          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 87,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Behari Lal Engineering — grey-market premium ~23.5%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.58). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (4,078 combined views); overall reviewer tone reads mixed (review score 0.58/1).",
+      "summary": "Behari Lal Engineering — grey-market premium ~23.5%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.55). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (4,763 combined views); overall reviewer tone reads mixed (review score 0.55/1).",
       "slug": "behari-lal-engineering"
     },
     {
@@ -321,18 +321,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5864,
+      "issue_size": "₹1617.48 Cr",
+      "sub_total": 0.58,
+      "sub_qib": 0.0,
+      "sub_nii": 0.63,
+      "sub_retail": 2.19,
+      "review_score": 0.57,
       "videos": [
         {
           "title": "SHIPROCKET IPO Analysis | Shiprocket IPO latest GMP | Milky Mist | Behari Lal | sunshine pictures",
           "url": "https://www.youtube.com/watch?v=dKwcmh7T2wU",
           "channel": "Vibhor Varshney",
-          "views": 6358,
+          "views": 7425,
           "upload_date": "",
           "sentiment": ""
         },
@@ -340,7 +340,7 @@
           "title": "Shiprocket IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=JXCs38ZZK24",
           "channel": "Knowledge Jazz",
-          "views": 16324,
+          "views": 17125,
           "upload_date": "",
           "sentiment": ""
         },
@@ -348,7 +348,15 @@
           "title": "Shiprocket IPO Review 2026 | Should You Apply? | Detailed IPO Analysis",
           "url": "https://www.youtube.com/watch?v=_TTwRQlg73Y",
           "channel": "Assetyogi Wealth",
-          "views": 1662,
+          "views": 1832,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
+          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 87,
           "upload_date": "",
           "sentiment": ""
         },
@@ -359,18 +367,10 @@
           "views": 573,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "Shiprocket IPO Review 🚀 | GMP, Valuation, Financials & Should You Apply? Wealth Tak",
-          "url": "https://www.youtube.com/watch?v=Jnvr-0C5TX4",
-          "channel": "Wealth Tak",
-          "views": 30,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Shiprocket — grey-market premium ~30.9%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.59). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (24,947 combined views); overall reviewer tone reads mixed (review score 0.59/1).",
+      "summary": "Shiprocket — grey-market premium ~30.9%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.57). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (27,042 combined views); overall reviewer tone reads mixed (review score 0.57/1).",
       "slug": "shiprocket"
     },
     {
@@ -440,26 +440,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5959,
+      "issue_size": "₹1553.00 Cr",
+      "sub_total": 1.75,
+      "sub_qib": 0.51,
+      "sub_nii": 2.71,
+      "sub_retail": 2.04,
+      "review_score": 0.5923,
       "videos": [
         {
           "title": "Mega IPO Comparison - Dhoot Transmission Vs Molbio Vs Milky Mist IPO | Best IPO to Apply | GMP Today",
           "url": "https://www.youtube.com/watch?v=TmTsvDGAW4M",
           "channel": "Ajay Singh Rathore",
-          "views": 2137,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "IPO Ranking Latest | Dhoot Transmission IPO vs Molbio IPO vs Milky Mist IPO | Ankur Singh",
-          "url": "https://www.youtube.com/watch?v=WEBUw-gQuRA",
-          "channel": "Ankur Singh",
-          "views": 894,
+          "views": 3087,
           "upload_date": "",
           "sentiment": ""
         },
@@ -467,7 +459,15 @@
           "title": "Milky Mist IPO Review 2026 | Should You Apply? | Detailed IPO Analysis",
           "url": "https://www.youtube.com/watch?v=FTfdrpN13i0",
           "channel": "Asset Yogi",
-          "views": 10442,
+          "views": 10820,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "IPO Ranking Latest | Dhoot Transmission IPO vs Molbio IPO vs Milky Mist IPO | Ankur Singh",
+          "url": "https://www.youtube.com/watch?v=WEBUw-gQuRA",
+          "channel": "Ankur Singh",
+          "views": 1339,
           "upload_date": "",
           "sentiment": ""
         },
@@ -475,21 +475,21 @@
           "title": "Milky Mist IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=aKa9aNlHRtY",
           "channel": "Knowledge Jazz",
-          "views": 18727,
+          "views": 19121,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Milky Mist IPO Review | Final Decision | Apply or Avoid? | Latest IPO Review",
-          "url": "https://www.youtube.com/watch?v=-ODHYlN7Hf8",
-          "channel": "Yogesh Mantri",
-          "views": 4062,
+          "title": "MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ",
+          "url": "https://www.youtube.com/watch?v=Am0yqYDc6Vs",
+          "channel": "Vibhor Varshney",
+          "views": 18073,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Milky Mist — grey-market premium ~16.4%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.60). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (36,262 combined views); overall reviewer tone reads mixed (review score 0.60/1).",
+      "summary": "Milky Mist — grey-market premium ~16.4%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.59). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (52,440 combined views); overall reviewer tone reads mixed (review score 0.59/1).",
       "slug": "milky-mist"
     },
     {
@@ -507,18 +507,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5438,
+      "issue_size": "₹939.70 Cr",
+      "sub_total": 17.2,
+      "sub_qib": 20.8,
+      "sub_nii": 32.51,
+      "sub_retail": 8.62,
+      "review_score": 0.5391,
       "videos": [
         {
-          "title": "Molbio diagnostics ipo gmp today💥molbio diagnostics ipo final decision🔥 molbio diagnostics ipo gmp✅",
-          "url": "https://www.youtube.com/watch?v=GZiPUUfUCrE",
-          "channel": "INVESTMENT ka bazar 🤑🤑",
-          "views": 68,
+          "title": "Dhoot Transmission IPO GMP Today | Molbio Diagnostics IPO GMP  Review | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=NAki91TUkYM",
+          "channel": "Stock Market Tak",
+          "views": 970,
           "upload_date": "",
           "sentiment": ""
         },
@@ -526,7 +526,23 @@
           "title": "Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=W8lV1AEAV6s",
           "channel": "Knowledge Jazz",
-          "views": 23115,
+          "views": 23612,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO । Molbio Diagnostics IPO । Milky Mist Dairy Food IPO । LEAP India IPO",
+          "url": "https://www.youtube.com/watch?v=3MsiP5QdRiM",
+          "channel": "The Bonus",
+          "views": 22924,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Molbio diagnostics ipo gmp today💥molbio diagnostics ipo final decision🔥 molbio diagnostics ipo gmp✅",
+          "url": "https://www.youtube.com/watch?v=GZiPUUfUCrE",
+          "channel": "INVESTMENT ka bazar 🤑🤑",
+          "views": 179,
           "upload_date": "",
           "sentiment": ""
         },
@@ -534,29 +550,13 @@
           "title": "Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis",
           "url": "https://www.youtube.com/watch?v=KPmIAFUB9lE",
           "channel": "Market Investor",
-          "views": 638,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Molbio Diagnostics IPO Analysis - Avoid or Apply? GMP, Valuation & Fundamentals",
-          "url": "https://www.youtube.com/watch?v=cApZOFekqis",
-          "channel": "Md Azhar - Learn Investing",
-          "views": 618,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Molbio Diagnostics IPO Analysis। IPO Ranking।",
-          "url": "https://www.youtube.com/watch?v=G3G00XkfPpA",
-          "channel": "Naren RKP",
-          "views": 1477,
+          "views": 640,
           "upload_date": "",
           "sentiment": ""
         }
       ],
       "summary": "Molbio Diagnostics — grey-market premium ~17.1%, band ₹807, Mainboard, Open, 5 YouTube reviews (score 0.54). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (25,916 combined views); overall reviewer tone reads mixed (review score 0.54/1).",
+      "comment_analysis": "5 reviewers covered this IPO (48,325 combined views); overall reviewer tone reads mixed (review score 0.54/1).",
       "slug": "molbio-diagnostics"
     },
     {
@@ -574,18 +574,26 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5291,
+      "issue_size": "₹3066.89 Cr",
+      "sub_total": 15.88,
+      "sub_qib": 15.47,
+      "sub_nii": 39.03,
+      "sub_retail": 6.24,
+      "review_score": 0.5334,
       "videos": [
         {
-          "title": "Dhoot Transmission IPO Review Final | Dhoot Transmission IPO GMP Today",
-          "url": "https://www.youtube.com/watch?v=PPz6I59n9rg",
-          "channel": "Financial Yoddha",
-          "views": 63,
+          "title": "Closing Today💥Dhoot Transmission IPO | Solid Action in Premiums",
+          "url": "https://www.youtube.com/watch?v=R53juZwpgiM",
+          "channel": "The Wealth Magnet",
+          "views": 1774,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO GMP Today | Molbio Diagnostics IPO GMP  Review | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=NAki91TUkYM",
+          "channel": "Stock Market Tak",
+          "views": 970,
           "upload_date": "",
           "sentiment": ""
         },
@@ -593,7 +601,15 @@
           "title": "Mega IPO Comparison - Dhoot Transmission Vs Molbio Vs Milky Mist IPO | Best IPO to Apply | GMP Today",
           "url": "https://www.youtube.com/watch?v=TmTsvDGAW4M",
           "channel": "Ajay Singh Rathore",
-          "views": 2137,
+          "views": 3087,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot IPO GMP | Molbio IPO GMP | Shiprocket IPO GMP | Behari Lal IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=46rGe_l6lEM",
+          "channel": "Share Bazar with Ayush",
+          "views": 652,
           "upload_date": "",
           "sentiment": ""
         },
@@ -601,29 +617,13 @@
           "title": "IPO Ranking Latest | Dhoot Transmission IPO vs Molbio IPO vs Milky Mist IPO | Ankur Singh",
           "url": "https://www.youtube.com/watch?v=WEBUw-gQuRA",
           "channel": "Ankur Singh",
-          "views": 894,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Dhoot Transmission IPO analysis | Dhoot Transmission IPO",
-          "url": "https://www.youtube.com/watch?v=Pe-nIdiWxNo",
-          "channel": "Anant Ladha",
-          "views": 23962,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Dhoot Transmission IPO Review: Positives vs Negatives, पैसा लगाएं या नहीं? | Anil Singhvi",
-          "url": "https://www.youtube.com/watch?v=Edf_LPof2FA",
-          "channel": "Zee Business",
-          "views": 52922,
+          "views": 1339,
           "upload_date": "",
           "sentiment": ""
         }
       ],
       "summary": "Dhoot Transmission — grey-market premium ~29.3%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (79,978 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
+      "comment_analysis": "5 reviewers covered this IPO (7,822 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
       "slug": "dhoot-transmission"
     },
     {
@@ -799,18 +799,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5864,
+      "issue_size": "₹1617.48 Cr",
+      "sub_total": 0.58,
+      "sub_qib": 0.0,
+      "sub_nii": 0.63,
+      "sub_retail": 2.19,
+      "review_score": 0.57,
       "videos": [
         {
           "title": "SHIPROCKET IPO Analysis | Shiprocket IPO latest GMP | Milky Mist | Behari Lal | sunshine pictures",
           "url": "https://www.youtube.com/watch?v=dKwcmh7T2wU",
           "channel": "Vibhor Varshney",
-          "views": 6358,
+          "views": 7425,
           "upload_date": "",
           "sentiment": ""
         },
@@ -818,7 +818,7 @@
           "title": "Shiprocket IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=JXCs38ZZK24",
           "channel": "Knowledge Jazz",
-          "views": 16324,
+          "views": 17125,
           "upload_date": "",
           "sentiment": ""
         },
@@ -826,7 +826,15 @@
           "title": "Shiprocket IPO Review 2026 | Should You Apply? | Detailed IPO Analysis",
           "url": "https://www.youtube.com/watch?v=_TTwRQlg73Y",
           "channel": "Assetyogi Wealth",
-          "views": 1662,
+          "views": 1832,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
+          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 87,
           "upload_date": "",
           "sentiment": ""
         },
@@ -837,18 +845,10 @@
           "views": 573,
           "upload_date": "",
           "sentiment": ""
-        },
-        {
-          "title": "Shiprocket IPO Review 🚀 | GMP, Valuation, Financials & Should You Apply? Wealth Tak",
-          "url": "https://www.youtube.com/watch?v=Jnvr-0C5TX4",
-          "channel": "Wealth Tak",
-          "views": 30,
-          "upload_date": "",
-          "sentiment": ""
         }
       ],
-      "summary": "Shiprocket — grey-market premium ~30.9%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.59). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (24,947 combined views); overall reviewer tone reads mixed (review score 0.59/1).",
+      "summary": "Shiprocket — grey-market premium ~30.9%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.57). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (27,042 combined views); overall reviewer tone reads mixed (review score 0.57/1).",
       "slug": "shiprocket"
     },
     {
@@ -866,18 +866,26 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5291,
+      "issue_size": "₹3066.89 Cr",
+      "sub_total": 15.88,
+      "sub_qib": 15.47,
+      "sub_nii": 39.03,
+      "sub_retail": 6.24,
+      "review_score": 0.5334,
       "videos": [
         {
-          "title": "Dhoot Transmission IPO Review Final | Dhoot Transmission IPO GMP Today",
-          "url": "https://www.youtube.com/watch?v=PPz6I59n9rg",
-          "channel": "Financial Yoddha",
-          "views": 63,
+          "title": "Closing Today💥Dhoot Transmission IPO | Solid Action in Premiums",
+          "url": "https://www.youtube.com/watch?v=R53juZwpgiM",
+          "channel": "The Wealth Magnet",
+          "views": 1774,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO GMP Today | Molbio Diagnostics IPO GMP  Review | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=NAki91TUkYM",
+          "channel": "Stock Market Tak",
+          "views": 970,
           "upload_date": "",
           "sentiment": ""
         },
@@ -885,7 +893,15 @@
           "title": "Mega IPO Comparison - Dhoot Transmission Vs Molbio Vs Milky Mist IPO | Best IPO to Apply | GMP Today",
           "url": "https://www.youtube.com/watch?v=TmTsvDGAW4M",
           "channel": "Ajay Singh Rathore",
-          "views": 2137,
+          "views": 3087,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot IPO GMP | Molbio IPO GMP | Shiprocket IPO GMP | Behari Lal IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=46rGe_l6lEM",
+          "channel": "Share Bazar with Ayush",
+          "views": 652,
           "upload_date": "",
           "sentiment": ""
         },
@@ -893,29 +909,13 @@
           "title": "IPO Ranking Latest | Dhoot Transmission IPO vs Molbio IPO vs Milky Mist IPO | Ankur Singh",
           "url": "https://www.youtube.com/watch?v=WEBUw-gQuRA",
           "channel": "Ankur Singh",
-          "views": 894,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Dhoot Transmission IPO analysis | Dhoot Transmission IPO",
-          "url": "https://www.youtube.com/watch?v=Pe-nIdiWxNo",
-          "channel": "Anant Ladha",
-          "views": 23962,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Dhoot Transmission IPO Review: Positives vs Negatives, पैसा लगाएं या नहीं? | Anil Singhvi",
-          "url": "https://www.youtube.com/watch?v=Edf_LPof2FA",
-          "channel": "Zee Business",
-          "views": 52922,
+          "views": 1339,
           "upload_date": "",
           "sentiment": ""
         }
       ],
       "summary": "Dhoot Transmission — grey-market premium ~29.3%, band ₹871, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (79,978 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
+      "comment_analysis": "5 reviewers covered this IPO (7,822 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
       "slug": "dhoot-transmission"
     },
     {
@@ -933,18 +933,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5827,
+      "issue_size": "₹301.62 Cr",
+      "sub_total": 1.24,
+      "sub_qib": 0.47,
+      "sub_nii": 1.05,
+      "sub_retail": 1.64,
+      "review_score": 0.5513,
       "videos": [
         {
           "title": "Behari Lal Engineering IPO 🔴 Behari Lal Engineering IPO Review 🔴Behari Lal Engineering IPO Gmp Today",
           "url": "https://www.youtube.com/watch?v=53a7IACFOac",
           "channel": "Share Market with Vini",
-          "views": 32,
+          "views": 42,
           "upload_date": "",
           "sentiment": ""
         },
@@ -952,7 +952,7 @@
           "title": "Behari Lal Engineering IPO Review 2026 | 18% GMP, Apply or Avoid?  Listing Gain & Full Analysis",
           "url": "https://www.youtube.com/watch?v=nZ2E5CkIKQg",
           "channel": "Market Investor",
-          "views": 78,
+          "views": 113,
           "upload_date": "",
           "sentiment": ""
         },
@@ -960,29 +960,29 @@
           "title": "Behari Lal Engineering IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=ezk2E4vqHIo",
           "channel": "Knowledge Jazz",
-          "views": 2476,
+          "views": 3869,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Behari Lal Engineering IPO Review | Behari Lal Engineering IPO GMP | Apply Or Not ?",
-          "url": "https://www.youtube.com/watch?v=qeq_tfTEhpc",
-          "channel": "The Rich Investor ",
-          "views": 1129,
+          "title": "Dhoot IPO GMP | Molbio IPO GMP | Shiprocket IPO GMP | Behari Lal IPO GMP | Technocraft IPO GMP 💥",
+          "url": "https://www.youtube.com/watch?v=46rGe_l6lEM",
+          "channel": "Share Bazar with Ayush",
+          "views": 652,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Behari Lal Engineering IPO Analysis। IPO Ranking।",
-          "url": "https://www.youtube.com/watch?v=SmHXIIXNvfk",
-          "channel": "Naren RKP",
-          "views": 363,
+          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
+          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 87,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Behari Lal Engineering — grey-market premium ~23.5%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.58). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (4,078 combined views); overall reviewer tone reads mixed (review score 0.58/1).",
+      "summary": "Behari Lal Engineering — grey-market premium ~23.5%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.55). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (4,763 combined views); overall reviewer tone reads mixed (review score 0.55/1).",
       "slug": "behari-lal-engineering"
     },
     {
@@ -1000,18 +1000,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5438,
+      "issue_size": "₹939.70 Cr",
+      "sub_total": 17.2,
+      "sub_qib": 20.8,
+      "sub_nii": 32.51,
+      "sub_retail": 8.62,
+      "review_score": 0.5391,
       "videos": [
         {
-          "title": "Molbio diagnostics ipo gmp today💥molbio diagnostics ipo final decision🔥 molbio diagnostics ipo gmp✅",
-          "url": "https://www.youtube.com/watch?v=GZiPUUfUCrE",
-          "channel": "INVESTMENT ka bazar 🤑🤑",
-          "views": 68,
+          "title": "Dhoot Transmission IPO GMP Today | Molbio Diagnostics IPO GMP  Review | Stock Market Tak",
+          "url": "https://www.youtube.com/watch?v=NAki91TUkYM",
+          "channel": "Stock Market Tak",
+          "views": 970,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1019,7 +1019,23 @@
           "title": "Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=W8lV1AEAV6s",
           "channel": "Knowledge Jazz",
-          "views": 23115,
+          "views": 23612,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Dhoot Transmission IPO । Molbio Diagnostics IPO । Milky Mist Dairy Food IPO । LEAP India IPO",
+          "url": "https://www.youtube.com/watch?v=3MsiP5QdRiM",
+          "channel": "The Bonus",
+          "views": 22924,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Molbio diagnostics ipo gmp today💥molbio diagnostics ipo final decision🔥 molbio diagnostics ipo gmp✅",
+          "url": "https://www.youtube.com/watch?v=GZiPUUfUCrE",
+          "channel": "INVESTMENT ka bazar 🤑🤑",
+          "views": 179,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1027,29 +1043,13 @@
           "title": "Molbio Diagnostics IPO Review | Apply or Avoid? GMP, Financials & Full Analysis",
           "url": "https://www.youtube.com/watch?v=KPmIAFUB9lE",
           "channel": "Market Investor",
-          "views": 638,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Molbio Diagnostics IPO Analysis - Avoid or Apply? GMP, Valuation & Fundamentals",
-          "url": "https://www.youtube.com/watch?v=cApZOFekqis",
-          "channel": "Md Azhar - Learn Investing",
-          "views": 618,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Molbio Diagnostics IPO Analysis। IPO Ranking।",
-          "url": "https://www.youtube.com/watch?v=G3G00XkfPpA",
-          "channel": "Naren RKP",
-          "views": 1477,
+          "views": 640,
           "upload_date": "",
           "sentiment": ""
         }
       ],
       "summary": "Molbio Diagnostics — grey-market premium ~17.1%, band ₹807, Mainboard, Open, 5 YouTube reviews (score 0.54). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (25,916 combined views); overall reviewer tone reads mixed (review score 0.54/1).",
+      "comment_analysis": "5 reviewers covered this IPO (48,325 combined views); overall reviewer tone reads mixed (review score 0.54/1).",
       "slug": "molbio-diagnostics"
     },
     {
@@ -1067,26 +1067,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5959,
+      "issue_size": "₹1553.00 Cr",
+      "sub_total": 1.75,
+      "sub_qib": 0.51,
+      "sub_nii": 2.71,
+      "sub_retail": 2.04,
+      "review_score": 0.5923,
       "videos": [
         {
           "title": "Mega IPO Comparison - Dhoot Transmission Vs Molbio Vs Milky Mist IPO | Best IPO to Apply | GMP Today",
           "url": "https://www.youtube.com/watch?v=TmTsvDGAW4M",
           "channel": "Ajay Singh Rathore",
-          "views": 2137,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "IPO Ranking Latest | Dhoot Transmission IPO vs Molbio IPO vs Milky Mist IPO | Ankur Singh",
-          "url": "https://www.youtube.com/watch?v=WEBUw-gQuRA",
-          "channel": "Ankur Singh",
-          "views": 894,
+          "views": 3087,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1094,7 +1086,15 @@
           "title": "Milky Mist IPO Review 2026 | Should You Apply? | Detailed IPO Analysis",
           "url": "https://www.youtube.com/watch?v=FTfdrpN13i0",
           "channel": "Asset Yogi",
-          "views": 10442,
+          "views": 10820,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "IPO Ranking Latest | Dhoot Transmission IPO vs Molbio IPO vs Milky Mist IPO | Ankur Singh",
+          "url": "https://www.youtube.com/watch?v=WEBUw-gQuRA",
+          "channel": "Ankur Singh",
+          "views": 1339,
           "upload_date": "",
           "sentiment": ""
         },
@@ -1102,21 +1102,21 @@
           "title": "Milky Mist IPO Review | Apply Or Not ? | Jayesh Khatri ",
           "url": "https://www.youtube.com/watch?v=aKa9aNlHRtY",
           "channel": "Knowledge Jazz",
-          "views": 18727,
+          "views": 19121,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Milky Mist IPO Review | Final Decision | Apply or Avoid? | Latest IPO Review",
-          "url": "https://www.youtube.com/watch?v=-ODHYlN7Hf8",
-          "channel": "Yogesh Mantri",
-          "views": 4062,
+          "title": "MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ",
+          "url": "https://www.youtube.com/watch?v=Am0yqYDc6Vs",
+          "channel": "Vibhor Varshney",
+          "views": 18073,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Milky Mist — grey-market premium ~16.4%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.60). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (36,262 combined views); overall reviewer tone reads mixed (review score 0.60/1).",
+      "summary": "Milky Mist — grey-market premium ~16.4%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.59). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (52,440 combined views); overall reviewer tone reads mixed (review score 0.59/1).",
       "slug": "milky-mist"
     }
   ]
