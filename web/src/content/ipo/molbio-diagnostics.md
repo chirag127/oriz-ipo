@@ -13,8 +13,8 @@ Molbio Diagnostics — grey-market premium ~17.1%, band ₹807, Mainboard, Open,
 
 ## Reviews
 
-- [Dhoot Transmission IPO Allotment GMP Today | Molbio Diagnostics IPO Allotment GMP | Stock Market Tak](https://www.youtube.com/watch?v=QNuvd1l3SLQ) — Stock Market Tak (923 views)
-- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (24,908 views)
-- [Dhoot Transmissions IPO | Molbio Diagnostics IPO | Subscription Status GMP & Allotment Chances?](https://www.youtube.com/watch?v=h4ixb7Mxcbk) — The Rich Investor  (279 views)
-- [Dhoot Transmission IPO | Milky Mist Dairy Food IPO | Molbio Diagnostics IPO में कहां मौका?](https://www.youtube.com/watch?v=uLzt1LxHTFM) — The Bonus (4,113 views)
-- [Dhoot Transmission IPO GMP Today | Molbio Diagnostics IPO GMP  Review | Stock Market Tak](https://www.youtube.com/watch?v=NAki91TUkYM) — Stock Market Tak (2,802 views)
+- [Dhoot Transmissions IPO | Molbio Diagnostics IPO | Subscription Status GMP & Allotment Chances?](https://www.youtube.com/watch?v=h4ixb7Mxcbk) — The Rich Investor  (469 views)
+- [Molbio Diagnostics IPO Review | Anchor List | Apply Or Not ? | Jayesh Khatri ](https://www.youtube.com/watch?v=W8lV1AEAV6s) — Knowledge Jazz (24,946 views)
+- [Dhoot Transmission IPO Allotment GMP Today | Molbio Diagnostics IPO Allotment GMP | Stock Market Tak](https://www.youtube.com/watch?v=QNuvd1l3SLQ) — Stock Market Tak (1,443 views)
+- [Dhoot Transmission IPO Subscription Status | MOLBIO Diagnostic IPO Subscription Status | Dhoot IPO 💥](https://www.youtube.com/watch?v=ZGf4m9CZ-5s) — Share Bazar with Ayush (1,433 views)
+- [Dhoot Transmission IPO GMP Today | Molbio Diagnostics IPO GMP  Review | Stock Market Tak](https://www.youtube.com/watch?v=NAki91TUkYM) — Stock Market Tak (3,164 views)
