@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:43:41+00:00",
+  "generated_at": "2026-08-13T05:05:10+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 21,
@@ -254,42 +254,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "₹301.62 Cr",
-      "sub_total": 2.21,
-      "sub_qib": 0.98,
-      "sub_nii": 2.14,
-      "sub_retail": 2.74,
-      "review_score": 0.5245,
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.5313,
       "videos": [
         {
           "title": "Behari Lal Engineering IPO Review | Behari Lal Engineering IPO GMP Today",
           "url": "https://www.youtube.com/watch?v=eAJvvtth4sA",
           "channel": "Financial Yoddha",
-          "views": 8,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Behari Lal Engineering IPO Review | Apply or Avoid | Latest IPO GMP",
-          "url": "https://www.youtube.com/watch?v=fqxZFo1NvVs",
-          "channel": "Yogesh Mantri",
-          "views": 1167,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Behari Lal Engineering IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
-          "url": "https://www.youtube.com/watch?v=ezk2E4vqHIo",
-          "channel": "Knowledge Jazz",
-          "views": 11933,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Behari Lal Engineering IPO Review 🔥 | GMP Today LIVE | Apply or Avoid? | Listing Gain",
-          "url": "https://www.youtube.com/watch?v=bM5oI7UPSUc",
-          "channel": "Naresh Bhyan ",
-          "views": 8,
+          "views": 147,
           "upload_date": "",
           "sentiment": ""
         },
@@ -297,13 +273,37 @@
           "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
           "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
           "channel": "Divyanshu Chaturvedi",
-          "views": 1199,
+          "views": 1248,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Behari Lal Engineering IPO 2026🔥 Price ₹271-285 | GMP Today,Review & Full Analysis | Apply or Avoid?",
+          "url": "https://www.youtube.com/watch?v=bFz5hDu9w0g",
+          "channel": "Stock Market Study",
+          "views": 1,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Behari Lal Engineering IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=ezk2E4vqHIo",
+          "channel": "Knowledge Jazz",
+          "views": 12278,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Behari Lal Engineering IPO Review 🔥 | GMP Today LIVE | Apply or Avoid? | Listing Gain",
+          "url": "https://www.youtube.com/watch?v=bM5oI7UPSUc",
+          "channel": "Naresh Bhyan ",
+          "views": 16,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Behari Lal Engineering — grey-market premium ~26.0%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.52). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (14,315 combined views); overall reviewer tone reads mixed (review score 0.52/1).",
+      "summary": "Behari Lal Engineering — grey-market premium ~26.0%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (13,690 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
       "slug": "behari-lal-engineering"
     },
     {
@@ -347,26 +347,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "₹1617.48 Cr",
-      "sub_total": 1.0,
-      "sub_qib": 0.02,
-      "sub_nii": 1.28,
-      "sub_retail": 3.49,
-      "review_score": 0.5,
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.5336,
       "videos": [
         {
           "title": "Shiprocket IPO Review | Final Decision | Shiprocket IPO Latest GMP | Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=vKtI9qGDlwE",
           "channel": "Yogesh Mantri",
-          "views": 2422,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
-          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
-          "channel": "Divyanshu Chaturvedi",
-          "views": 1199,
+          "views": 2593,
           "upload_date": "",
           "sentiment": ""
         },
@@ -374,7 +366,7 @@
           "title": "SHIPROCKET IPO Analysis | Shiprocket IPO latest GMP | Milky Mist | Behari Lal | sunshine pictures",
           "url": "https://www.youtube.com/watch?v=dKwcmh7T2wU",
           "channel": "Vibhor Varshney",
-          "views": 12423,
+          "views": 12816,
           "upload_date": "",
           "sentiment": ""
         },
@@ -382,21 +374,29 @@
           "title": "₹97 Shiprocket IPO: Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=9tyYhhWNbMo",
           "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 28671,
+          "views": 30181,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "IPO Ranking | Shiprocket IPO | Milky Mist IPO | Behari Lal Engineering IPO | Latest IPO GMP",
-          "url": "https://www.youtube.com/watch?v=nQ9BzLvjPaQ",
-          "channel": "Yogesh Mantri",
-          "views": 2169,
+          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
+          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 1248,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shiprocket IPO Review | Apply Or Not ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=JXCs38ZZK24",
+          "channel": "Knowledge Jazz",
+          "views": 22541,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Shiprocket — grey-market premium ~35.0%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (46,884 combined views); overall reviewer tone reads mixed (review score 0.50/1).",
+      "summary": "Shiprocket — grey-market premium ~35.0%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (69,379 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
       "slug": "shiprocket"
     },
     {
@@ -466,26 +466,34 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "₹1553.00 Cr",
-      "sub_total": 2.29,
-      "sub_qib": 0.69,
-      "sub_nii": 3.75,
-      "sub_retail": 2.57,
-      "review_score": 0.56,
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.54,
       "videos": [
         {
           "title": "Milky Mist IPO Review 2026 | Should You Apply? | Detailed IPO Analysis",
           "url": "https://www.youtube.com/watch?v=FTfdrpN13i0",
           "channel": "Asset Yogi",
-          "views": 12896,
+          "views": 13061,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "IPO Ranking | Shiprocket IPO | Milky Mist IPO | Behari Lal Engineering IPO | Latest IPO GMP",
-          "url": "https://www.youtube.com/watch?v=nQ9BzLvjPaQ",
-          "channel": "Yogesh Mantri",
-          "views": 2169,
+          "title": "Milky Mist Dairy Food IPO Review Final | Milky Mist Dairy Food IPO GMP Today",
+          "url": "https://www.youtube.com/watch?v=-Eqf8OMdct4",
+          "channel": "Financial Yoddha",
+          "views": 232,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "FINAL DECISION | MILKY MIST IPO GMP TODAY | MILKY MIST DAIRY FOOD IPO | APPLY OR AVOID ?",
+          "url": "https://www.youtube.com/watch?v=y95pPdNlzHo",
+          "channel": "The Smart Investor💹",
+          "views": 14,
           "upload_date": "",
           "sentiment": ""
         },
@@ -493,29 +501,21 @@
           "title": "Milky Mist IPO I Milky Mist IPO Review I Milky Mist IPO GMP I Milky Mist ipo Listing",
           "url": "https://www.youtube.com/watch?v=NzFXogiMBtY",
           "channel": "𝓛𝓮𝓪𝓻𝓷 𝓽𝓸 𝓔𝓪𝓻𝓷 𝓫𝔂 𝔸𝕂ℝ",
-          "views": 2971,
+          "views": 2972,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Milky Mist IPO Review | Final Decision | Apply or Avoid? | Latest IPO Review",
-          "url": "https://www.youtube.com/watch?v=-ODHYlN7Hf8",
-          "channel": "Yogesh Mantri",
-          "views": 5529,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Milky Mist Dairy Food IPO Review || Should You Apply? || Paryan Sharma",
-          "url": "https://www.youtube.com/watch?v=mKRWxFFOljo",
-          "channel": "Paryan Sharma Equities",
-          "views": 845,
+          "title": "MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ",
+          "url": "https://www.youtube.com/watch?v=Am0yqYDc6Vs",
+          "channel": "Vibhor Varshney",
+          "views": 21019,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Milky Mist — grey-market premium ~15.7%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.56). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (24,410 combined views); overall reviewer tone reads mixed (review score 0.56/1).",
+      "summary": "Milky Mist — grey-market premium ~15.7%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.54). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (37,298 combined views); overall reviewer tone reads mixed (review score 0.54/1).",
       "slug": "milky-mist"
     },
     {
@@ -691,26 +691,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "₹1617.48 Cr",
-      "sub_total": 1.0,
-      "sub_qib": 0.02,
-      "sub_nii": 1.28,
-      "sub_retail": 3.49,
-      "review_score": 0.5,
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.5336,
       "videos": [
         {
           "title": "Shiprocket IPO Review | Final Decision | Shiprocket IPO Latest GMP | Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=vKtI9qGDlwE",
           "channel": "Yogesh Mantri",
-          "views": 2422,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
-          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
-          "channel": "Divyanshu Chaturvedi",
-          "views": 1199,
+          "views": 2593,
           "upload_date": "",
           "sentiment": ""
         },
@@ -718,7 +710,7 @@
           "title": "SHIPROCKET IPO Analysis | Shiprocket IPO latest GMP | Milky Mist | Behari Lal | sunshine pictures",
           "url": "https://www.youtube.com/watch?v=dKwcmh7T2wU",
           "channel": "Vibhor Varshney",
-          "views": 12423,
+          "views": 12816,
           "upload_date": "",
           "sentiment": ""
         },
@@ -726,21 +718,29 @@
           "title": "₹97 Shiprocket IPO: Apply or Avoid?",
           "url": "https://www.youtube.com/watch?v=9tyYhhWNbMo",
           "channel": "Money Purse { మనీ పర్స్ }",
-          "views": 28671,
+          "views": 30181,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "IPO Ranking | Shiprocket IPO | Milky Mist IPO | Behari Lal Engineering IPO | Latest IPO GMP",
-          "url": "https://www.youtube.com/watch?v=nQ9BzLvjPaQ",
-          "channel": "Yogesh Mantri",
-          "views": 2169,
+          "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
+          "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
+          "channel": "Divyanshu Chaturvedi",
+          "views": 1248,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shiprocket IPO Review | Apply Or Not ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=JXCs38ZZK24",
+          "channel": "Knowledge Jazz",
+          "views": 22541,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Shiprocket — grey-market premium ~35.0%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.50). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (46,884 combined views); overall reviewer tone reads mixed (review score 0.50/1).",
+      "summary": "Shiprocket — grey-market premium ~35.0%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (69,379 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
       "slug": "shiprocket"
     },
     {
@@ -758,42 +758,18 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "₹301.62 Cr",
-      "sub_total": 2.21,
-      "sub_qib": 0.98,
-      "sub_nii": 2.14,
-      "sub_retail": 2.74,
-      "review_score": 0.5245,
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.5313,
       "videos": [
         {
           "title": "Behari Lal Engineering IPO Review | Behari Lal Engineering IPO GMP Today",
           "url": "https://www.youtube.com/watch?v=eAJvvtth4sA",
           "channel": "Financial Yoddha",
-          "views": 8,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Behari Lal Engineering IPO Review | Apply or Avoid | Latest IPO GMP",
-          "url": "https://www.youtube.com/watch?v=fqxZFo1NvVs",
-          "channel": "Yogesh Mantri",
-          "views": 1167,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Behari Lal Engineering IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
-          "url": "https://www.youtube.com/watch?v=ezk2E4vqHIo",
-          "channel": "Knowledge Jazz",
-          "views": 11933,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Behari Lal Engineering IPO Review 🔥 | GMP Today LIVE | Apply or Avoid? | Listing Gain",
-          "url": "https://www.youtube.com/watch?v=bM5oI7UPSUc",
-          "channel": "Naresh Bhyan ",
-          "views": 8,
+          "views": 147,
           "upload_date": "",
           "sentiment": ""
         },
@@ -801,13 +777,37 @@
           "title": "Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP",
           "url": "https://www.youtube.com/watch?v=tFrhNL2d2N8",
           "channel": "Divyanshu Chaturvedi",
-          "views": 1199,
+          "views": 1248,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Behari Lal Engineering IPO 2026🔥 Price ₹271-285 | GMP Today,Review & Full Analysis | Apply or Avoid?",
+          "url": "https://www.youtube.com/watch?v=bFz5hDu9w0g",
+          "channel": "Stock Market Study",
+          "views": 1,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Behari Lal Engineering IPO Review | Apply Or Avoid ? | Jayesh Khatri ",
+          "url": "https://www.youtube.com/watch?v=ezk2E4vqHIo",
+          "channel": "Knowledge Jazz",
+          "views": 12278,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Behari Lal Engineering IPO Review 🔥 | GMP Today LIVE | Apply or Avoid? | Listing Gain",
+          "url": "https://www.youtube.com/watch?v=bM5oI7UPSUc",
+          "channel": "Naresh Bhyan ",
+          "views": 16,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Behari Lal Engineering — grey-market premium ~26.0%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.52). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (14,315 combined views); overall reviewer tone reads mixed (review score 0.52/1).",
+      "summary": "Behari Lal Engineering — grey-market premium ~26.0%, band ₹285, Mainboard, Open, 5 YouTube reviews (score 0.53). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (13,690 combined views); overall reviewer tone reads mixed (review score 0.53/1).",
       "slug": "behari-lal-engineering"
     },
     {
@@ -825,26 +825,34 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "₹1553.00 Cr",
-      "sub_total": 2.29,
-      "sub_qib": 0.69,
-      "sub_nii": 3.75,
-      "sub_retail": 2.57,
-      "review_score": 0.56,
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.54,
       "videos": [
         {
           "title": "Milky Mist IPO Review 2026 | Should You Apply? | Detailed IPO Analysis",
           "url": "https://www.youtube.com/watch?v=FTfdrpN13i0",
           "channel": "Asset Yogi",
-          "views": 12896,
+          "views": 13061,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "IPO Ranking | Shiprocket IPO | Milky Mist IPO | Behari Lal Engineering IPO | Latest IPO GMP",
-          "url": "https://www.youtube.com/watch?v=nQ9BzLvjPaQ",
-          "channel": "Yogesh Mantri",
-          "views": 2169,
+          "title": "Milky Mist Dairy Food IPO Review Final | Milky Mist Dairy Food IPO GMP Today",
+          "url": "https://www.youtube.com/watch?v=-Eqf8OMdct4",
+          "channel": "Financial Yoddha",
+          "views": 232,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "FINAL DECISION | MILKY MIST IPO GMP TODAY | MILKY MIST DAIRY FOOD IPO | APPLY OR AVOID ?",
+          "url": "https://www.youtube.com/watch?v=y95pPdNlzHo",
+          "channel": "The Smart Investor💹",
+          "views": 14,
           "upload_date": "",
           "sentiment": ""
         },
@@ -852,29 +860,21 @@
           "title": "Milky Mist IPO I Milky Mist IPO Review I Milky Mist IPO GMP I Milky Mist ipo Listing",
           "url": "https://www.youtube.com/watch?v=NzFXogiMBtY",
           "channel": "𝓛𝓮𝓪𝓻𝓷 𝓽𝓸 𝓔𝓪𝓻𝓷 𝓫𝔂 𝔸𝕂ℝ",
-          "views": 2971,
+          "views": 2972,
           "upload_date": "",
           "sentiment": ""
         },
         {
-          "title": "Milky Mist IPO Review | Final Decision | Apply or Avoid? | Latest IPO Review",
-          "url": "https://www.youtube.com/watch?v=-ODHYlN7Hf8",
-          "channel": "Yogesh Mantri",
-          "views": 5529,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Milky Mist Dairy Food IPO Review || Should You Apply? || Paryan Sharma",
-          "url": "https://www.youtube.com/watch?v=mKRWxFFOljo",
-          "channel": "Paryan Sharma Equities",
-          "views": 845,
+          "title": "MILKY MIST IPO analysis | Milky Mist latest GMP | Dhoot Transmission | Behari lal engineering ",
+          "url": "https://www.youtube.com/watch?v=Am0yqYDc6Vs",
+          "channel": "Vibhor Varshney",
+          "views": 21019,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "Milky Mist — grey-market premium ~15.7%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.56). Above the 5% GMP watch threshold.",
-      "comment_analysis": "5 reviewers covered this IPO (24,410 combined views); overall reviewer tone reads mixed (review score 0.56/1).",
+      "summary": "Milky Mist — grey-market premium ~15.7%, band ₹140, Mainboard, Open, 5 YouTube reviews (score 0.54). Above the 5% GMP watch threshold.",
+      "comment_analysis": "5 reviewers covered this IPO (37,298 combined views); overall reviewer tone reads mixed (review score 0.54/1).",
       "slug": "milky-mist"
     }
   ]
