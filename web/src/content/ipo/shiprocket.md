@@ -13,8 +13,8 @@ Shiprocket — grey-market premium ~30.9%, band ₹97, Mainboard, Open, 5 YouTub
 
 ## Reviews
 
-- [Shiprocket IPO Review | Final Decision | Shiprocket IPO Latest GMP | Apply or Avoid?](https://www.youtube.com/watch?v=vKtI9qGDlwE) — Yogesh Mantri (2,241 views)
-- [Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP](https://www.youtube.com/watch?v=tFrhNL2d2N8) — Divyanshu Chaturvedi (1,128 views)
-- [₹97 Shiprocket IPO: Apply or Avoid?](https://www.youtube.com/watch?v=9tyYhhWNbMo) — Money Purse { మనీ పర్స్ } (27,731 views)
-- [SHIPROCKET IPO Analysis | Shiprocket IPO latest GMP | Milky Mist | Behari Lal | sunshine pictures](https://www.youtube.com/watch?v=dKwcmh7T2wU) — Vibhor Varshney (12,208 views)
-- [IPO Ranking | Shiprocket IPO | Milky Mist IPO | Behari Lal Engineering IPO | Latest IPO GMP](https://www.youtube.com/watch?v=nQ9BzLvjPaQ) — Yogesh Mantri (1,621 views)
+- [Shiprocket IPO Review | Final Decision | Shiprocket IPO Latest GMP | Apply or Avoid?](https://www.youtube.com/watch?v=vKtI9qGDlwE) — Yogesh Mantri (2,346 views)
+- [SHIPROCKET IPO Analysis | Shiprocket IPO latest GMP | Milky Mist | Behari Lal | sunshine pictures](https://www.youtube.com/watch?v=dKwcmh7T2wU) — Vibhor Varshney (12,335 views)
+- [₹97 Shiprocket IPO: Apply or Avoid?](https://www.youtube.com/watch?v=9tyYhhWNbMo) — Money Purse { మనీ పర్స్ } (28,181 views)
+- [Shiprocket IPO vs Behari Lal Engineering IPO | 2 Upcoming IPOs Review | IPO Latest GMP](https://www.youtube.com/watch?v=tFrhNL2d2N8) — Divyanshu Chaturvedi (1,134 views)
+- [IPO Ranking | Shiprocket IPO | Milky Mist IPO | Behari Lal Engineering IPO | Latest IPO GMP](https://www.youtube.com/watch?v=nQ9BzLvjPaQ) — Yogesh Mantri (1,882 views)
