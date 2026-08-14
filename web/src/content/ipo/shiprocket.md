@@ -1,20 +1,22 @@
 ---
-title: "Shiprocket IPO — 35.0% grey-market premium"
-gmp_pct: 35.05
-gmp: "34.0"
+title: "Shiprocket IPO — 37.1% grey-market premium"
+gmp_pct: 37.11
+gmp: "36.0"
 price_band: "₹97"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5248
+review_score: 0.5000
 ---
 
-Shiprocket — grey-market premium ~35.0%, band ₹97, Mainboard, Open, 5 YouTube reviews (score 0.52). Above the 5% GMP watch threshold.
+Here is a neutral take on the Shiprocket IPO in exactly 2 concise sentences for a retail investor:
+
+Shiprocket's IPO, priced between ₹97, has opened with a moderate market sentiment indicated by a GMP of ~37.1% (₹36.0), suggesting some investor interest. The IPO's attractiveness is relatively average compared to contemporaneous offerings, such as Behari Lal Engineering's, as reflected in mixed YouTube review sentiments scoring it 0.50 out of 1.
 
 ## Reviews
 
-- [Shiprocket IPO | Behari Lal Engineering IPO | Analysis and review, Latest GMP and anchor | ](https://www.youtube.com/watch?v=48a97SlDsjU) — Anant Ladha (2,839 views)
-- [Shiprocket IPO Review | Final Decision | Shiprocket IPO Latest GMP | Apply or Avoid?](https://www.youtube.com/watch?v=vKtI9qGDlwE) — Yogesh Mantri (2,945 views)
-- [SHIPROCKET IPO Analysis | Shiprocket IPO latest GMP | Milky Mist | Behari Lal | sunshine pictures](https://www.youtube.com/watch?v=dKwcmh7T2wU) — Vibhor Varshney (14,122 views)
-- [Shiprocket IPO Review🚀 | Apply or Avoid? | GMP, Valuation, Financials & Full Analysis](https://www.youtube.com/watch?v=MaGaY3hT4rQ) — Finvarse and Bhupendra Gangurde  (7 views)
-- [Miky Mist IPO Final Verdict - Apply or Not | Milky IPO से Shiprocket IPO & Behari Lal IPO बढ़िया है?](https://www.youtube.com/watch?v=0Y0mlgZi3mM) — Ankur Singh (248 views)
+- [Shiprocket vs Behari Lal IPO comparison | Latest IPO GMP | Bihari lal | Shiprocket IPO review](https://www.youtube.com/watch?v=R476OTZZTd4) — Vibhor Varshney (9,097 views)
+- [Shiprocket IPO | Behari Lal Engineering IPO | Analysis and review, Latest GMP and anchor | ](https://www.youtube.com/watch?v=48a97SlDsjU) — Anant Ladha (20,684 views)
+- [Shiprocket IPO Final Update | Behari Lal IPO Final Update | Jayesh Khatri ](https://www.youtube.com/watch?v=KzODMa35fls) — Knowledge Jazz (4,568 views)
+- [₹97 Shiprocket IPO: Apply ✅ or Avoid? ❌](https://www.youtube.com/watch?v=9tyYhhWNbMo) — Money Purse { మనీ పర్స్ } (42,539 views)
+- [Shiprocket IPO Review Final | Shiprocket IPO GMP Today](https://www.youtube.com/watch?v=kQCkSfxLpGQ) — Financial Yoddha (192 views)
