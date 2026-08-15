@@ -1,22 +1,22 @@
 ---
-title: "Behari Lal Engineering IPO — 28.1% grey-market premium"
-gmp_pct: 28.07
-gmp: "80.0"
+title: "Behari Lal Engineering IPO — 29.8% grey-market premium"
+gmp_pct: 29.82
+gmp: "85.0"
 price_band: "₹285"
 ipo_type: "Mainboard"
 status: "Open"
 source: "ipowatch"
-review_score: 0.4888
+review_score: 0.5000
 ---
 
-Here is a neutral take on the Behari Lal Engineering IPO in exactly 2 concise sentences for a retail investor:
+Here is a neutral take on the IPO in exactly 2 concise sentences for a retail investor:
 
-Behari Lal Engineering's IPO, priced between ₹285, shows a moderate GMP of ~28.1% (₹80.0), indicating some market interest. However, with a review score of 0.49, suggesting mixed analyst sentiments, investors should carefully evaluate the company's fundamentals and risks before making a decision.
+Behari Lal Engineering's IPO, priced between ₹285, shows a moderate market sentiment with a GMP of ~29.8% (₹85.0), indicating some investor interest but not overwhelming demand. The IPO's success and long-term potential depend on the company's post-listing performance, with current indicators suggesting a cautious, rather than highly optimistic, outlook.
 
 ## Reviews
 
-- [Behari Lal Engineering IPO Review Final | Behari Lal Engineering IPO GMP Today](https://www.youtube.com/watch?v=Ng2M6qsaIzY) — Financial Yoddha (111 views)
-- [Shiprocket IPO | Behari Lal Engineering IPO | Analysis and review, Latest GMP and anchor | ](https://www.youtube.com/watch?v=48a97SlDsjU) — Anant Ladha (20,684 views)
-- [Behari Lal Engineering IPO: निवेश से पहले ये Risk जान लो! Full IPO Analysis, GMP, Valuation & Review](https://www.youtube.com/watch?v=1he4PMd-NpI) — Money Roots (1 views)
-- [Behari Lal Engineering IPO Review | Apply or Avoid | Latest IPO GMP](https://www.youtube.com/watch?v=fqxZFo1NvVs) — Yogesh Mantri (2,210 views)
-- [Behari Lal Engineering IPO Review | Behari Lal Engineering IPO GMP Today](https://www.youtube.com/watch?v=eAJvvtth4sA) — Financial Yoddha (482 views)
+- [Behari Lal Engineering IPO Closing से पहले बड़ी खबर | Behari Lal Engineering IPO GMP status ?](https://www.youtube.com/watch?v=ssyjmaPYu2U) — Satwasiya Pankaj (1,834 views)
+- [Behari Lal Engineering IPO Allotment chances ? | Behari Lal Engineering IPO GMP status ?](https://www.youtube.com/watch?v=HY0T4M623LU) — Satwasiya Pankaj (594 views)
+- [Shiprocket IPO | Behari Lal Engineering IPO | Analysis and review, Latest GMP and anchor | ](https://www.youtube.com/watch?v=48a97SlDsjU) — Anant Ladha (32,306 views)
+- [Behari Lal Engineering IPO Review Final | Behari Lal Engineering IPO GMP Today](https://www.youtube.com/watch?v=Ng2M6qsaIzY) — Financial Yoddha (873 views)
+- [Shiprocket IPO GMP | Behari Lal Engineering IPO GMP | Dhoot IPO GMP | Molbio IPO GMP 💥](https://www.youtube.com/watch?v=6UvKaLLXLvg) — Share Bazar with Ayush (3,298 views)
