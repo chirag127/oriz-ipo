@@ -11,12 +11,12 @@ review_score: 0.5000
 
 Here is a neutral take on the Behari Lal Engineering IPO in exactly 2 concise sentences for a retail investor:
 
-Behari Lal Engineering's IPO, priced between ₹285, shows a moderate market sentiment with a Grey Market Premium (GMP) of ~29.8% (₹85.0), indicating some investor interest but not overwhelming demand. The IPO's success and long-term prospects depend on the company's future performance, with mixed review scores (0.50/1) suggesting a cautious approach.
+Behari Lal Engineering's IPO, priced at ₹285 with a strong GMP of ~29.8% (₹85), indicates market enthusiasm, but its sustainability post-listing is uncertain. The IPO's attractiveness for retail investors depends on their individual risk tolerance and long-term outlook on the company's growth prospects.
 
 ## Reviews
 
-- [Shiprocket IPO | Behari Lal Engineering IPO | Analysis and review, Latest GMP and anchor | ](https://www.youtube.com/watch?v=48a97SlDsjU) — Anant Ladha (33,013 views)
-- [Behari Lal Engineering IPO Review | Apply or Avoid | Latest IPO GMP](https://www.youtube.com/watch?v=fqxZFo1NvVs) — Yogesh Mantri (2,554 views)
-- [Shiprocket IPO Allotment GMP Review | Behari Lal Engineering IPO Allotment GMP | Stock Market Tak](https://www.youtube.com/watch?v=PIy1RW5ZS2o) — Stock Market Tak (2,462 views)
-- [Behari Lal Engineering IPO Allotment chances ? | Behari Lal Engineering IPO GMP status ?](https://www.youtube.com/watch?v=HY0T4M623LU) — Satwasiya Pankaj (989 views)
-- [Behari Lal Engineering IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=E4d9er3ZTws) — Stock Market with Naveeen (476 views)
+- [Shiprocket IPO | Behari Lal Engineering IPO | Analysis and review, Latest GMP and anchor | ](https://www.youtube.com/watch?v=48a97SlDsjU) — Anant Ladha (33,140 views)
+- [Behari Lal Engineering IPO Review | Behari Lal Engineering IPO GMP Today](https://www.youtube.com/watch?v=eAJvvtth4sA) — Financial Yoddha (531 views)
+- [Behari Lal Engineering IPO Allotment Chances | Behari Lal Engineering IPO GMP Today](https://www.youtube.com/watch?v=Kx_l54jTPd8) — Financial Yoddha (895 views)
+- [Behari Lal Engineering Ltd.- #IPO Review by @Tradeswift1](https://www.youtube.com/watch?v=z_RMItOlQQ0) — Sandeep Jain (4,907 views)
+- [All IPO GMP Today | Dhoot Transmissions IPO | Shiprocket IPO | Behari Lal Engineering IPO |](https://www.youtube.com/watch?v=6PXUqp2bm94) — The Rich Investor  (864 views)
