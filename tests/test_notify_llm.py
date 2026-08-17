@@ -83,7 +83,10 @@ def test_template_blurb():
     blurb = _template_blurb(i)
     assert "Gamma" in blurb
     assert "12.5%" in blurb
-    assert "threshold" in blurb.lower()
+    # long-form analysis: carries the GMP caveat + is multi-sentence
+    assert "grey-market premium" in blurb.lower()
+    assert "unofficial" in blurb.lower()
+    assert len(blurb.split()) > 60  # no longer a 2-liner
 
 
 def test_summarise_falls_back_without_llm(monkeypatch):
