@@ -31,9 +31,10 @@ _NVIDIA_MODELS = [
 # --- g4f (keyless, last resort) ----------------------------------------------
 # Best models first, then fall back down the list. g4f routes each to whichever
 # provider currently serves it; if one model/provider fails we try the next.
-# Override with IPO_LLM_MODELS="a,b,c". (g4f docs: gpt-4o / gpt-4.1 / deepseek-v3
-# are the strong keyless models; gpt-4o-mini is the reliable fallback.)
-_DEFAULT_MODELS = ["gpt-4o", "gpt-4.1", "deepseek-v3", "gpt-4o-mini"]
+# Override with IPO_LLM_MODELS="a,b,c". "auto" lets g4f route to the best working
+# provider/model (verified keyless, 2026-08); gpt-4o / gpt-4o-mini are the tested
+# fallbacks. (gpt-4.1 / deepseek-v3 now require auth on g4f — dropped.)
+_DEFAULT_MODELS = ["auto", "gpt-4o", "gpt-4o-mini"]
 
 
 def _models() -> list[str]:
