@@ -1,30 +1,20 @@
 ---
-title: "Annu Projects IPO — 5.0% grey-market premium"
-gmp_pct: 5.05
-gmp: "5.0"
+title: "Annu Projects IPO — 7.1% grey-market premium"
+gmp_pct: 7.07
+gmp: "7.0"
 price_band: "₹99"
 ipo_type: ""
 status: "Open"
 source: "ipowatch"
-review_score: 0.5000
+review_score: 0.5463
 ---
 
-As Annu Projects' IPO enters its open stage, scheduled to run from 25 to 28 August with an estimated listing thereafter, market indicators provide some insight into expectations. The grey-market premium (GMP) of approximately 5.0% of the upper price band, translating to ₹5, suggests the market anticipates a modest listing gain. However, it is crucial to approach this indicator with caution, as GMP is unofficial, unregulated, thinly traded, and highly volatile, capable of evaporating by the time of listing.
-
-At this stage, the subscription demand is not yet visible as the issue has just opened, and no figures have been reported. Investors will need to monitor updates to assess the appetite across different investor categories—QIB, NII/HNI, and retail—to understand the drivers of demand, whether institutional conviction, leveraged HNI interest, or retail enthusiasm.
-
-The issue size and type details are not explicitly provided, but given that it's listed under the "Stage: Open" without specification of an SME platform, it's reasonable to assume a Mainboard listing. Typically, Mainboard issues are larger and offer more liquidity compared to SME listings, which are characterized by smaller issue sizes, higher lot values, thinner trading, lower liquidity, and inherently higher risk.
-
-Prospective investors are currently within the bidding window, with the issue open from 25 to 28 August and listing anticipated thereafter, at an estimated ₹104, reflecting the aforementioned GMP-driven expectation. It's essential for investors to make their decisions within this timeframe.
-
-Reviews from YouTube analysts yield a mixed but leaning negative sentiment, with an aggregate score of 0.50/1 across five reviews. Titles such as "APPLY or AVOID?" and the presence of cautionary symbols (🚨) in some titles suggest a cautious approach, with the discussion framing leaning towards short-term listing gains rather than long-term investment potential. Notably, "Knowledge Jazz" and "Vibhor Varshney" attracted significantly more views, potentially influencing broader market sentiment with their analyses. However, these are opinions of reviewers and should be considered as such, not as factual investment advice.
-
-In conclusion, investors considering Annu Projects' IPO might reasonably include those seeking a potential listing gain, provided they are comfortable with the volatility and unreliability of GMP as an indicator. Conversely, investors requiring immediate liquidity, those with a risk-averse profile, or anyone treating the GMP as a guaranteed outcome should exercise caution. The decision to invest should be based on a thorough evaluation of the company's fundamentals and the investor's own risk tolerance, rather than reliance on grey market indicators or reviewer opinions.
+Annu Projects currently marked Open. The grey-market premium is running near 7.1% of the upper price band (about ₹7 over the band), which is the market's informal read on possible listing-day gains. Note that GMP is an unofficial, unregulated and thinly-traded signal that can move sharply or vanish before listing, so it should be treated as sentiment, not a forecast. The book is subscribed overall 2.93x, QIB 1.72x, NII/HNI 3.55x, retail 2.68x. A stronger QIB figure points to institutional conviction, heavy NII/HNI bidding often reflects leveraged listing-gain interest, and the retail number shows how crowded the trade is with small investors. The issue size is ₹175.06 Cr. Timeline: opens 25-28 August, estimated listing ₹96 (7.07%). Given the current stage, so the issue is currently biddable. Across 5 YouTube reviews the aggregate score is 0.55/1, with commentary reading mixed. This reflects reviewer opinion rather than fact, and coverage tends to emphasise listing-gain potential more than long-term fundamentals. On balance, this may interest applicants comfortable with GMP-driven, listing-oriented positioning who accept that the premium can swing before listing. Investors who need liquidity, are risk-averse, or who would treat GMP as a guaranteed gain, have clear reasons to be cautious. None of the above is a recommendation.
 
 ## Reviews
 
-- [Annu Projects IPO Detailed Analysis with Latest GMP।](https://www.youtube.com/watch?v=PigKaFx1ClM) — Naren RKP (240 views)
-- [Annu Projects IPO 🔴 Annu Projects IPO Review 🔴Annu Projects IPO Gmp 🔴Annu Project IPO 🔴Annu Projects](https://www.youtube.com/watch?v=xKa_2wyWX9s) — Share Market with Vini (2 views)
-- [Annu Projects IPO 🚨 APPLY or AVOID? | Full IPO Analysis](https://www.youtube.com/watch?v=o4CfWZa2wpw) — Lumos By Akshaya (2 views)
-- [Augmont IPO Final Update | Annu Projects IPO Anchor List ? | Jayesh Khatri ](https://www.youtube.com/watch?v=3AH80DuR5js) — Knowledge Jazz (1,775 views)
-- [Symbiotec Pharmalab IPO review | Symbiotec IPO latest GMP | Skyways Air ways | Annu projects IPO ](https://www.youtube.com/watch?v=qBCxudgmdfg) — Vibhor Varshney (12,250 views)
+- [Annu Projects IPO Review Final | Annu Projects IPO GMP Today](https://www.youtube.com/watch?v=a0qJyPrIjho) — Financial Yoddha (10,952 views)
+- [Annu Projects IPO FINAL DECISION 🔥 | Symbiotic vs Skyways vs Hy-Tech IPO Allotment Chance 🔥](https://www.youtube.com/watch?v=34vBWfxXzB8) — Investors Choice  (2,853 views)
+- [Annu Projects IPO Final Decision 🔥 | Apply or Avoid? | GMP, Subscription, Listing Gain](https://www.youtube.com/watch?v=Amv_pOU0dis) — MARKET VIBE (890 views)
+- [Annu Projects IPO Final Decision | Apply or Avoid? | Latest IPO GMP](https://www.youtube.com/watch?v=KztxrpgFDWY) — Yogesh Mantri (26,794 views)
+- [Annu projects IPO analysis | Annu Latest GMP | Lumino industries | ESDS software | Priority jewels](https://www.youtube.com/watch?v=LV6zOw5waHQ) — Vibhor Varshney (16,778 views)
