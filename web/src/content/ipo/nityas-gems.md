@@ -6,21 +6,25 @@ price_band: "₹75"
 ipo_type: ""
 status: "Open"
 source: "ipowatch"
-review_score: 0.4813
+review_score: 0.6194
 ---
 
-Nityas Gems is currently open, with an issue size of ₹108.35 Cr and a price band stated at ₹75. The grey-market premium is around 6.7% of the upper band, or about ₹5, which points to an unofficial market expectation of a modest listing gain if that premium were to hold through listing. That signal needs to be treated cautiously. GMP is unofficial, unregulated, thinly traded and highly volatile, and it can evaporate before listing. The indicative listing level provided is ₹80, or 6.67%, but this should be read as an estimate associated with the stated GMP rather than a guaranteed outcome.
+Nityas Gems is an open issue of ₹108.35 crore priced at ₹75, with a grey-market premium of ~6.7% of the upper band. This suggests that the market is pricing in a listing-gain expectation of ~6.67%, though the grey-market premium is an unofficial, unregulated, and volatile indicator that may not materialise. Investors should note that GMP can evaporate before listing, and the premium does not guarantee a return.
 
-Subscription data is available and, at the stated stage, the book is showing 0.16x overall subscription. QIB demand is 0x, NII/HNI demand is 0.08x and retail demand is 0.41x. On the figures provided, retail is therefore supplying the strongest portion of the disclosed demand, while QIB participation has not yet appeared and NII/HNI demand remains below one times. That makes the current demand mix more retail-led than institution-led; the figures do not show institutional conviction at this stage, while the NII/HNI level does not indicate a heavily driven leveraged-HNI bid either. The issue is currently biddable, with the stated window running from 30 September to 5 October, so the book is not yet at its final subscription position.
+The issue has seen a subscription of 0.48x, with retail investors driving demand at 1.17x, while qualified institutional buyers (QIBs) and non-institutional investors (NII/HNIs) have subscribed at 0.07x and 0.23x, respectively. This suggests that demand is largely retail-driven, with limited institutional participation. The low QIB and NII/HNI subscription figures may indicate a lack of conviction among larger investors, while the high retail subscription could reflect speculative interest or listing-gain expectations.
 
-The ₹108.35 Cr issue is the only issue-size classification provided in the facts. Whether Nityas Gems is a Mainboard or SME issue is not stated, so no specific structural classification can be made here. In general, the distinction matters because SME issues are typically smaller, more thinly traded, carry higher lot values, have lower liquidity and involve higher risk, while Mainboard issues are generally larger and more liquid; however, the supplied facts do not establish which category applies to Nityas Gems. On the review side, five YouTube reviews have an aggregate score of 0.48/1. The video titles include explicit GMP, listing and “Apply Or Avoid” framing, suggesting that the reviewer discussion has a meaningful listing-gain and application-decision focus, although one review explicitly covers business, financials and key risks. The 0.48/1 aggregate indicates a mixed-to-cautious reviewer tone rather than a strongly positive consensus; this is reviewer opinion, not an objective assessment of the IPO.
+Nityas Gems is an SME issue, which means it will have a smaller market capitalisation, higher lot size, and lower liquidity compared to a Mainboard listing. SME issues are also subject to stricter regulatory requirements and may trade in a narrower range. Investors should be aware of these structural differences when considering the risk profile.
 
-The current setup is therefore most directly relevant to applicants focused on the possibility of a listing gain and comfortable with the volatility and uncertainty of GMP, while investors who require liquidity, have lower risk tolerance, or might treat GMP as a reliable guarantee of listing performance should approach that indicator cautiously. With the issue still open and subscription figures incomplete, the available data describes an early demand position rather than a final market verdict.
+The issue opens on 30-5 October and is expected to list at ₹80, implying a listing-gain of ~6.67%. Investors are currently in the bidding window, with the issue closing on 5 October. Once the issue closes, the investor will need to wait for the listing date, which is not yet confirmed.
+
+YouTube reviews for Nityas Gems show a mixed sentiment, with an aggregate score of 0.62/1. The videos suggest a leaning towards applying, with some reviewers framing the issue as a potential listing-gain play. However, the reviews should be treated as opinion rather than fact, as they reflect individual investor perspectives rather than objective analysis.
+
+Investors considering Nityas Gems should weigh the grey-market premium against the risks of SME listings. Those comfortable with the volatility of GMP and seeking a short-term listing-gain may find the issue appealing, but those requiring liquidity or preferring lower-risk investments should be cautious. The retail-driven subscription and lack of institutional interest may also indicate a speculative market environment.
 
 ## Reviews
 
-- [Nityas Gems & Jewellery IPO Review | Nityas Gems IPO GMP status ? | Nityas Gems IPO Latest news](https://www.youtube.com/watch?v=XAWuB3GmzeQ) — Satwasiya Pankaj (332 views)
-- [Nityas Gems & Jewellery IPO | Nityas Gems IPO Review | GMP, Price Band, Allotment, Listing & Apply ?](https://www.youtube.com/watch?v=bKFqplo4jTU) — Swapnil Khande Dhruvi Financial Services (81 views)
-- [Nityas Gems & Jewellery IPO Review | Apply Or Avoid ? | Jayesh Khatri ](https://www.youtube.com/watch?v=069NnbiHOpY) — Knowledge Jazz (13,859 views)
-- [Nityas Gems & Jewellery IPO Review | Nityas Gems IPO GMP status ? | Nityas Gems IPO Latest news](https://www.youtube.com/watch?v=CJFM9KqYoCg) — Satwasiya Pankaj (814 views)
-- [SRIT India & Nityas Gems IPO Review 2026 | Business, Financials & Key Risks](https://www.youtube.com/watch?v=h4VsWQTRLW8) — IPO Review by Groww (6,455 views)
+- [Nityas Gems & Jewellery IPO Review | நல்ல IPO வா? | GMP, Financials, Valuation | தமிழ்](https://www.youtube.com/watch?v=D03UxItas2k) — Investing in  Tamil (1,249 views)
+- [Adroit Ind| Swastika Infra| SRIT India| Nityas Gems| Vishal Nirmiti| Where to Make Bumper Profits...](https://www.youtube.com/watch?v=wJ-aXyFTAcU) — Money9 (23,624 views)
+- [Nityas Gems IPO Review 🔥 Apply చేయాలా? Skip చేయాలా? | 44x P/E | GMP ₹0 | Complete Analysis](https://www.youtube.com/watch?v=rZaRKdreAeo) — Gopi Finance Telugu (1,749 views)
+- [Nityas Gems & Jewellery IPO Latest Update 🔥| IPO Details #iporeview #ipoanalysis #ipo #nityaipo #ipo](https://www.youtube.com/watch?v=UCV5epBoYEs) — The Unstoppable Learnerr (6 views)
+- [Nityas Gems & Jewellery IPO Full Review Telugu | Nityas Gems Jewellery Ipo Review Telugu | Ipo Apply](https://www.youtube.com/watch?v=rMI4EBPULmU) — Manu Trading Tricks  (673 views)
