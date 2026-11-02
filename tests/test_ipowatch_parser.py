@@ -3,19 +3,21 @@
 from pathlib import Path
 
 import pytest
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser
 
+import ipo_watch.sources.ipowatch as ipowatch_module
 from ipo_watch.sources.ipowatch import IpoWatch
 from ipo_watch.util import clean, parse_money, parse_pct
 from ipo_watch.sources.base import compute_gmp_pct
 from ipo_watch.models import Ipo
 
 FIXTURE = Path(__file__).parent / "fixtures" / "ipowatch.html"
+LIVE_FIXTURE = Path(__file__).parent / "fixtures" / "ipowatch_2026-11.html"
 
 
 def _parse_fixture() -> list[Ipo]:
     """Mirror IpoWatch.fetch() parsing on the saved HTML (no network)."""
-    tree = HTMLParser(FIXTURE.read_text(encoding="utf-8"))
+    tree = LexborHTMLParser(FIXTURE.read_text(encoding="utf-8"))
     out: list[Ipo] = []
     for table in tree.css("table"):
         rows = table.css("tr")
@@ -70,3 +72,23 @@ def test_ipowatch_gmp_pct_present():
     # all percentages are sane numbers
     for i in with_pct:
         assert -50 <= i.gmp_pct <= 500
+
+
+@pytest.mark.skipif(not LIVE_FIXTURE.exists(), reason="2026-11 fixture not captured")
+def test_ipowatch_fetches_live_2026_11_layout(monkeypatch):
+    """Nov-2026 drift: Company/GMP*/Est. Gain header, board from the <h3> above
+    each table, Open/Closed badge inside the name cell."""
+    monkeypatch.setattr(
+        ipowatch_module, "fetch_html",
+        lambda url, **kw: LIVE_FIXTURE.read_text(encoding="utf-8"),
+    )
+    ipos = IpoWatch().fetch()
+
+    assert len(ipos) == 14, "5 mainboard + 9 SME rows"
+    assert {i.ipo_type for i in ipos} == {"Mainboard", "SME"}
+    assert {i.status for i in ipos} == {"Open", "Closed"}
+    assert all(not i.name.endswith(("Open", "Closed")) for i in ipos), "badge must not leak into name"
+    assert all(i.gmp_pct is not None for i in ipos), "% comes from Est. Gain"
+
+    row = next(i for i in ipos if i.name == "Bombay Coated and Special Steels")
+    assert (row.gmp, row.gmp_pct, row.ipo_type, row.status) == (9.0, 10.98, "Mainboard", "Open")

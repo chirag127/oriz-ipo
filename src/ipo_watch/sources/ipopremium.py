@@ -10,7 +10,7 @@ GMP is absolute rupees ('249'); price band 'low–high' ('829–871'). Compute t
 
 from __future__ import annotations
 
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser
 
 from ..models import Ipo
 from ..util import clean, fetch_html, parse_money
@@ -22,7 +22,7 @@ class IpoPremium(Source):
     url = "https://ipopremium.in/"
 
     def fetch(self) -> list[Ipo]:
-        tree = HTMLParser(fetch_html(self.url))
+        tree = LexborHTMLParser(fetch_html(self.url))
         out: list[Ipo] = []
         for table in tree.css("table"):
             rows = table.css("tr")
