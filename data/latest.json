@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:19:02+00:00",
+  "generated_at": "2026-11-15T09:49:22+00:00",
   "source": "ipopremium",
   "threshold_pct": 5.0,
   "count_all": 30,
@@ -7,8 +7,8 @@
   "all_ipos": [
     {
       "name": "Watrana Rentals Ltd (NSE SME)",
-      "gmp": 18.0,
-      "gmp_pct": 7.35,
+      "gmp": 22.0,
+      "gmp_pct": 8.98,
       "price_band": "232–245",
       "lot_size": "",
       "open_date": "Nov 19, 2026",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Mahanadi Coalfields (Mainboard)",
-      "gmp": 12.5,
+      "gmp": 8.25,
       "gmp_pct": null,
       "price_band": "0–0",
       "lot_size": "",
@@ -59,8 +59,8 @@
     },
     {
       "name": "Crystal Crop Protection Ltd (MAINBOARD)",
-      "gmp": 27.0,
-      "gmp_pct": 9.93,
+      "gmp": 15.5,
+      "gmp_pct": 5.7,
       "price_band": "259–272",
       "lot_size": "",
       "open_date": "Nov 18, 2026",
