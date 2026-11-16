@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:49:22+00:00",
+  "generated_at": "2026-11-16T10:06:07+00:00",
   "source": "ipopremium",
   "threshold_pct": 5.0,
   "count_all": 30,
@@ -33,9 +33,9 @@
     },
     {
       "name": "Mahanadi Coalfields (Mainboard)",
-      "gmp": 8.25,
-      "gmp_pct": null,
-      "price_band": "0–0",
+      "gmp": 5.0,
+      "gmp_pct": 3.68,
+      "price_band": "129–136",
       "lot_size": "",
       "open_date": "Nov 19, 2026",
       "close_date": "Nov 23, 2026",
@@ -59,8 +59,8 @@
     },
     {
       "name": "Crystal Crop Protection Ltd (MAINBOARD)",
-      "gmp": 15.5,
-      "gmp_pct": 5.7,
+      "gmp": 13.0,
+      "gmp_pct": 4.78,
       "price_band": "259–272",
       "lot_size": "",
       "open_date": "Nov 18, 2026",
