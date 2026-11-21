@@ -1,12 +1,12 @@
 ---
-title: "Watrana Rentals IPO — 27.4% grey-market premium"
-gmp_pct: 27.35
-gmp: "67.0"
+title: "Watrana Rentals IPO — 26.5% grey-market premium"
+gmp_pct: 26.53
+gmp: "65.0"
 price_band: "₹232 - ₹245"
 ipo_type: "NSE Emerge"
 status: "Open"
 source: "ipowatch"
-review_score: 0.4819
+review_score: 0.5000
 ---
 
 ### Copilot moved to a new app
@@ -20,8 +20,8 @@ If you don't sign in by December 31, 2026, your Copilot history and content will
 
 ## Reviews
 
-- [Watrana Rentals IPO 2026 🚜 | ₹120 Crore SME IPO | Financials, Business & Risk Factors Explained](https://www.youtube.com/watch?v=qOd2Ovi0UWQ) — InvestKraft (8,425 views)
-- [Watrana Rentals IPO Review 🔥 ₹29 Cr Profit, But ₹73 Cr Cash Gap? | GMP, Financials & Risks](https://www.youtube.com/watch?v=hpHxL-fLG1M) — IPO Beyond GMP (131 views)
-- [Watrana Rentals IPO GMP Today, Watrana Rentals IPO Review by Anil Singhvi, Should You Apply?](https://www.youtube.com/watch?v=8sYTek6-ETU) — Kamai Ka Adda (149 views)
-- [Watrana Rentals IPO Review | Watrana Rentals IPO Telugu Review | Watrana Rentals IPO | IPO](https://www.youtube.com/watch?v=noCgDRqCUtQ) — Manu Trading Tricks  (1,150 views)
-- [Watrana Rentals Limited IPO 2026 Review By Business Remedies](https://www.youtube.com/watch?v=jK6HB8sjn0s) — Business Remedies (1,880 views)
+- [Watrana Rentals IPO Review 🔥 ₹29 Cr Profit, But ₹73 Cr Cash Gap? | GMP, Financials & Risks](https://www.youtube.com/watch?v=hpHxL-fLG1M) —  (0 views)
+- [Watrana Rentals IPO🔴Watrana Rentals IPO Review🔴Watrana Rentals IPO Gmp Today🔴Watrana Rentals IPO Gmp](https://www.youtube.com/watch?v=OiWJDFX21Wg) —  (0 views)
+- [Watrana Rentals IPO 2026 🚜 | ₹120 Crore SME IPO | Financials, Business & Risk Factors Explained](https://www.youtube.com/watch?v=qOd2Ovi0UWQ) —  (0 views)
+- [Watrana Rentals IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=jlx9Set2eOM) —  (0 views)
+- [Watrana Rentals IPO GMP Today, Watrana Rentals IPO Review by Anil Singhvi, Should You Apply?](https://www.youtube.com/watch?v=8sYTek6-ETU) —  (0 views)
