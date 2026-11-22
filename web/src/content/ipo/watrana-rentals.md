@@ -6,7 +6,7 @@ price_band: "₹232 - ₹245"
 ipo_type: "NSE Emerge"
 status: "Open"
 source: "ipowatch"
-review_score: 0.5000
+review_score: 0.4617
 ---
 
 ### Copilot moved to a new app
@@ -20,8 +20,8 @@ If you don't sign in by December 31, 2026, your Copilot history and content will
 
 ## Reviews
 
-- [Watrana Rentals IPO Review 🔥 ₹29 Cr Profit, But ₹73 Cr Cash Gap? | GMP, Financials & Risks](https://www.youtube.com/watch?v=hpHxL-fLG1M) —  (0 views)
-- [Watrana Rentals IPO🔴Watrana Rentals IPO Review🔴Watrana Rentals IPO Gmp Today🔴Watrana Rentals IPO Gmp](https://www.youtube.com/watch?v=OiWJDFX21Wg) —  (0 views)
-- [Watrana Rentals IPO 2026 🚜 | ₹120 Crore SME IPO | Financials, Business & Risk Factors Explained](https://www.youtube.com/watch?v=qOd2Ovi0UWQ) —  (0 views)
-- [Watrana Rentals IPO | Analysis | GMP | Review](https://www.youtube.com/watch?v=jlx9Set2eOM) —  (0 views)
-- [Watrana Rentals IPO GMP Today, Watrana Rentals IPO Review by Anil Singhvi, Should You Apply?](https://www.youtube.com/watch?v=8sYTek6-ETU) —  (0 views)
+- [Watrana Rentals IPO Review 🔥 ₹29 Cr Profit, But ₹73 Cr Cash Gap? | GMP, Financials & Risks](https://www.youtube.com/watch?v=hpHxL-fLG1M) — IPO Beyond GMP (324 views)
+- [Watrana Rentals IPO 2026 🚜 | ₹120 Crore SME IPO | Financials, Business & Risk Factors Explained](https://www.youtube.com/watch?v=qOd2Ovi0UWQ) — InvestKraft (12,333 views)
+- [Watrana Rentals IPO🔴Watrana Rentals IPO Review🔴Watrana Rentals IPO Gmp Today🔴Watrana Rentals IPO Gmp](https://www.youtube.com/watch?v=f5wsNoP92ww) — Share Market with Vini (1,605 views)
+- [Watrana Rentals IPO🔴Watrana Rentals IPO Review🔴Watrana Rentals IPO Gmp Today🔴Watrana Rentals IPO Gmp](https://www.youtube.com/watch?v=OiWJDFX21Wg) — Share Market with Vini (886 views)
+- [All IPO GMP Today | Crystal Corp Protection IPO | Watrana Rentals IPO | Mahanadi Coalfield IPO ](https://www.youtube.com/watch?v=nt6Dr7DaEHY) — The Rich Investor  (1,899 views)
