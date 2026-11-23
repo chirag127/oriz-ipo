@@ -1,12 +1,12 @@
 ---
-title: "Watrana Rentals IPO — 26.5% grey-market premium"
-gmp_pct: 26.53
-gmp: "65.0"
+title: "Watrana Rentals IPO — 16.3% grey-market premium"
+gmp_pct: 16.33
+gmp: "40.0"
 price_band: "₹232 - ₹245"
 ipo_type: "NSE Emerge"
 status: "Open"
 source: "ipowatch"
-review_score: 0.4617
+review_score: 0.4700
 ---
 
 ### Copilot moved to a new app
@@ -20,8 +20,8 @@ If you don't sign in by December 31, 2026, your Copilot history and content will
 
 ## Reviews
 
-- [Watrana Rentals IPO Review 🔥 ₹29 Cr Profit, But ₹73 Cr Cash Gap? | GMP, Financials & Risks](https://www.youtube.com/watch?v=hpHxL-fLG1M) — IPO Beyond GMP (324 views)
-- [Watrana Rentals IPO 2026 🚜 | ₹120 Crore SME IPO | Financials, Business & Risk Factors Explained](https://www.youtube.com/watch?v=qOd2Ovi0UWQ) — InvestKraft (12,333 views)
-- [Watrana Rentals IPO🔴Watrana Rentals IPO Review🔴Watrana Rentals IPO Gmp Today🔴Watrana Rentals IPO Gmp](https://www.youtube.com/watch?v=f5wsNoP92ww) — Share Market with Vini (1,605 views)
-- [Watrana Rentals IPO🔴Watrana Rentals IPO Review🔴Watrana Rentals IPO Gmp Today🔴Watrana Rentals IPO Gmp](https://www.youtube.com/watch?v=OiWJDFX21Wg) — Share Market with Vini (886 views)
-- [All IPO GMP Today | Crystal Corp Protection IPO | Watrana Rentals IPO | Mahanadi Coalfield IPO ](https://www.youtube.com/watch?v=nt6Dr7DaEHY) — The Rich Investor  (1,899 views)
+- [Watrana Rentals IPO🔴Watrana Rentals IPO Review🔴Watrana Rentals IPO Gmp Today🔴Watrana Rentals IPO Gmp](https://www.youtube.com/watch?v=T5vQMCI3W-Y) —  (0 views)
+- [Mahanadi Coalfield IPO GMP Subscription | Watrana Rentals IPO GMP Today | Stock Market Tak](https://www.youtube.com/watch?v=eMHoM-is8sI) —  (0 views)
+- [Watrana Rentals IPO 2026 🚜 | ₹120 Crore SME IPO | Financials, Business & Risk Factors Explained](https://www.youtube.com/watch?v=qOd2Ovi0UWQ) —  (0 views)
+- [Watrana Rentals IPO Review 🔥 ₹29 Cr Profit, But ₹73 Cr Cash Gap? | GMP, Financials & Risks](https://www.youtube.com/watch?v=hpHxL-fLG1M) —  (0 views)
+- [Watrana Rentals IPO GMP: Should You Apply or Avoid? Watrana Rentals IPO Review | Anil Singhvi](https://www.youtube.com/watch?v=f8542h-7O8k) —  (0 views)
