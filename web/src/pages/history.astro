@@ -3,12 +3,13 @@ import Base from '../layouts/Base.astro';
 import { loadHistory } from '../lib/data';
 
 const history = loadHistory();
+const BASE = import.meta.env.BASE_URL;
 ---
 
 <Base title="History — IPO GMP Terminal" desc="Hourly archive of India IPO grey-market-premium snapshots.">
   <header class="hero">
     <div class="wrap hero-inner">
-      <span class="tag"><span class="pulse" aria-hidden="true"></span><a href="/">← Terminal</a></span>
+      <span class="tag"><span class="pulse" aria-hidden="true"></span><a href={BASE}>← Terminal</a></span>
       <h1>Snapshot <span class="ticker">history</span></h1>
       <p class="sub">Every hourly GMP snapshot, newest first. Each row is a committed data point — see how the open-IPO board moved over time.</p>
       <div class="meta"><span><b>{history.length}</b> snapshots archived</span></div>
@@ -31,7 +32,7 @@ const history = loadHistory();
               <td class="hide-sm" style="color:var(--dim)">{h.source || '—'}</td>
               <td>
                 {h.top.map((t) => (
-                  <a href={`/ipo/${t.slug}`} class="chip">{t.name} <b>{(t.gmp_pct ?? 0).toFixed(0)}%</b></a>
+                  <a href={`${BASE}ipo/${t.slug}`} class="chip">{t.name} <b>{(t.gmp_pct ?? 0).toFixed(0)}%</b></a>
                 ))}
               </td>
             </tr>
@@ -43,7 +44,7 @@ const history = loadHistory();
 
   <footer>
     <div class="wrap">
-      Not investment advice. · <a href="/">Terminal</a>
+      Not investment advice. · <a href={BASE}>Terminal</a>
     </div>
   </footer>
 
