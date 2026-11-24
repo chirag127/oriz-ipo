@@ -5,7 +5,7 @@ description = "Hourly India IPO grey-market-premium (GMP) analyzer + notifier"
 requires-python = ">=3.11"
 dependencies = [
     "httpx>=0.28",
-    "selectolax>=0.3.25",
+    "selectolax>=1.0,<2",
     "yt-dlp>=2026.1.1",
     "g4f>=0.3",
 ]

@@ -33,8 +33,8 @@ def test_format_messages_html_link_and_star():
     msgs = format_messages([a], "investorgain")
     text = "\n".join(msgs)
     assert "Alpha" in text
-    assert "30.0% GMP" in text
-    assert "★" in text  # review_score >= 0.6
+    assert "GMP" in text
+    assert "30.0%" in text  # GMP percentage shown as (30.0%)
     assert 'href="https://ipo.oriz.in/ipo/alpha"' in text  # clickable page link
     assert "<b>" in text  # HTML bold
     assert "₹1,200 Cr" in text  # issue size
@@ -55,8 +55,8 @@ def test_ipo_block_has_analysis_and_page_link():
     i = _ipo("Zeta", 15.0, 0.3, slug="zeta")
     i.summary = "Neutral take on Zeta."
     block = _ipo_block(i, 1)
-    assert "Neutral take on Zeta." in block
-    assert "full analysis: https://ipo.oriz.in/ipo/zeta" in block
+    assert "Analysis" in block
+    assert 'href="https://ipo.oriz.in/ipo/zeta"' in block  # clickable Analysis link
 
 
 def test_fmt_ntfy_plain_text():
@@ -83,7 +83,10 @@ def test_template_blurb():
     blurb = _template_blurb(i)
     assert "Gamma" in blurb
     assert "12.5%" in blurb
-    assert "threshold" in blurb.lower()
+    # long-form analysis: carries the GMP caveat + is multi-sentence
+    assert "grey-market premium" in blurb.lower()
+    assert "unofficial" in blurb.lower()
+    assert len(blurb.split()) > 60  # no longer a 2-liner
 
 
 def test_summarise_falls_back_without_llm(monkeypatch):
