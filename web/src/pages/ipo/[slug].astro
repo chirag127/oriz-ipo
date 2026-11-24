@@ -2,6 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import { loadSnapshot, type Ipo } from '../../lib/data';
 
+const BASE = import.meta.env.BASE_URL;
+
 export function getStaticPaths() {
   const snap = loadSnapshot();
   return snap.picks
@@ -17,7 +19,7 @@ const sub = (n: number | null) => (n == null ? null : `${n}x`);
 <Base title={`${ipo.name} — ${pct.toFixed(1)}% GMP`} desc={ipo.summary}>
   <header class="hero">
     <div class="wrap hero-inner">
-      <span class="tag"><span class="pulse" aria-hidden="true"></span><a href="/">← Terminal</a></span>
+      <span class="tag"><span class="pulse" aria-hidden="true"></span><a href={BASE}>← Terminal</a></span>
       <h1>{ipo.name}</h1>
       <div class="meta">
         <span>GMP <b style="color:var(--up)">{pct.toFixed(1)}%</b></span>
@@ -79,7 +81,7 @@ const sub = (n: number | null) => (n == null ? null : `${n}x`);
 
   <footer>
     <div class="wrap">
-      Not investment advice. GMP is an unofficial signal. · <a href="/">Terminal</a> · <a href="/history">History</a>
+      Not investment advice. GMP is an unofficial signal. · <a href={BASE}>Terminal</a> · <a href={`${BASE}history`}>History</a>
     </div>
   </footer>
 

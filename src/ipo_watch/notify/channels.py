@@ -45,38 +45,32 @@ def _sub_line(ipo: Ipo) -> str | None:
 
 
 def _ipo_block(ipo: Ipo, rank: int) -> str:
+    """Concise IPO block: Name | GMP | Size | Band | Sub | Type | Status | List | Est | Src | link."""
     url = f"{SITE}/ipo/{ipo.slug}" if ipo.slug else SITE
-    star = " ★" if ipo.review_score >= 0.6 else ""
-    head = (
-        f'{rank}. <a href="{_esc(url)}"><b>{_esc(ipo.name)} — '
-        f'{ipo.gmp_pct:.1f}% GMP{star}</b></a>'
-    )
-    lines = [head]
-    meta = " · ".join(x for x in [ipo.status, ipo.ipo_type] if x)
-    if meta:
-        lines.append(_esc(meta))
-    detail = []
-    if ipo.gmp is not None:
-        detail.append(f"GMP ₹{ipo.gmp:g}")
-    if ipo.price_band:
-        detail.append(f"band {ipo.price_band}")
+    parts = [ipo.name]
+    if ipo.gmp is not None and ipo.gmp_pct is not None:
+        parts.append(f"GMP: ₹{ipo.gmp:g} ({ipo.gmp_pct:.1f}%)")
+    elif ipo.gmp_pct is not None:
+        parts.append(f"GMP: {ipo.gmp_pct:.1f}%")
     if ipo.issue_size:
-        detail.append(f"size {ipo.issue_size}")
-    if detail:
-        lines.append(_esc(" · ".join(detail)))
+        parts.append(f"Size: {ipo.issue_size}")
+    if ipo.price_band:
+        parts.append(f"Band: {ipo.price_band}")
     sub = _sub_line(ipo)
     if sub:
-        lines.append(_esc(sub))
-    dates = " · ".join(x for x in [ipo.open_date, ipo.close_date] if x)
-    if dates:
-        lines.append(_esc(dates))
-    if ipo.summary:
-        lines.append(_esc(ipo.summary))
-    if ipo.videos:
-        v = ipo.videos[0]
-        lines.append(f'review: <a href="{_esc(v.url)}">{_esc(v.title[:70])}</a>')
-    lines.append(f'→ full analysis: {_esc(url)}')
-    return "\n".join(lines)
+        parts.append(sub.replace("sub ", "Sub: "))
+    if ipo.ipo_type:
+        parts.append(f"Type: {ipo.ipo_type}")
+    if ipo.status:
+        parts.append(f"Status: {ipo.status}")
+    if ipo.listing_date:
+        parts.append(f"List: {ipo.listing_date}")
+    if ipo.est_listing:
+        parts.append(f"Est: {ipo.est_listing}")
+    if ipo.source:
+        parts.append(f"Src: {ipo.source}")
+    parts.append(f'<a href="{_esc(url)}">Analysis</a>')
+    return f"{rank}. " + " | ".join(parts)
 
 
 def format_messages(picks: list[Ipo], source: str) -> list[str]:
@@ -159,23 +153,36 @@ def send_ntfy(text: str) -> bool:
 
 
 def _fmt_ntfy(picks: list[Ipo], source: str) -> str:
-    """Plain-text version for ntfy (no HTML)."""
+    """Concise plain text for ntfy."""
     if not picks:
         return "No open mainboard IPO above 5% GMP right now."
     lines = [f"{len(picks)} open mainboard IPO(s) · GMP>5% (via {source})", ""]
     for i, ipo in enumerate(picks, 1):
-        lines.append(f"{i}. {ipo.name} — {ipo.gmp_pct:.1f}% GMP")
-        bits = []
+        parts = [f"{i}. {ipo.name}"]
+        if ipo.gmp is not None and ipo.gmp_pct is not None:
+            parts.append(f"GMP: ₹{ipo.gmp:g} ({ipo.gmp_pct:.1f}%)")
+        elif ipo.gmp_pct is not None:
+            parts.append(f"GMP: {ipo.gmp_pct:.1f}%")
         if ipo.issue_size:
-            bits.append(f"size {ipo.issue_size}")
-        if ipo.sub_total is not None:
-            bits.append(f"sub {ipo.sub_total:g}x")
+            parts.append(f"Size: {ipo.issue_size}")
         if ipo.price_band:
-            bits.append(ipo.price_band)
-        if bits:
-            lines.append("   " + " · ".join(bits))
+            parts.append(f"Band: {ipo.price_band}")
+        sub = _sub_line(ipo)
+        if sub:
+            parts.append(sub.replace("sub ", "Sub: "))
+        if ipo.ipo_type:
+            parts.append(f"Type: {ipo.ipo_type}")
+        if ipo.status:
+            parts.append(f"Status: {ipo.status}")
+        if ipo.listing_date:
+            parts.append(f"List: {ipo.listing_date}")
+        if ipo.est_listing:
+            parts.append(f"Est: {ipo.est_listing}")
+        if ipo.source:
+            parts.append(f"Src: {ipo.source}")
         if ipo.slug:
-            lines.append(f"   https://ipo.oriz.in/ipo/{ipo.slug}")
+            parts.append(f"https://ipo.oriz.in/ipo/{ipo.slug}")
+        lines.append(" | ".join(parts))
     return "\n".join(lines)
 
 
