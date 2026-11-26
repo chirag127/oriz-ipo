@@ -1,40 +1,14 @@
 {
-  "generated_at": "2026-11-25T11:44:01+00:00",
+  "generated_at": "2026-11-26T11:30:54+00:00",
   "source": "ipowatch",
   "threshold_pct": 5.0,
   "count_all": 10,
-  "count_picks": 1,
+  "count_picks": 2,
   "all_ipos": [
     {
-      "name": "Crystal Crop Protection",
-      "gmp": 18.0,
-      "gmp_pct": 6.62,
-      "price_band": "₹259 - ₹272",
-      "lot_size": "",
-      "open_date": "18 Nov - 20 Nov",
-      "close_date": "",
-      "listing_date": "",
-      "est_listing": "",
-      "ipo_type": "Mainboard",
-      "status": "Closed",
-      "source": "ipowatch",
-      "kostak": "",
-      "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.0,
-      "videos": [],
-      "summary": "",
-      "comment_analysis": "",
-      "slug": ""
-    },
-    {
       "name": "Mahanadi Coalfields",
-      "gmp": 0.0,
-      "gmp_pct": 0.0,
+      "gmp": 1.0,
+      "gmp_pct": 0.74,
       "price_band": "₹129 - ₹136",
       "lot_size": "",
       "open_date": "19 Nov - 23 Nov",
@@ -59,8 +33,8 @@
     },
     {
       "name": "Watrana Rentals",
-      "gmp": 41.0,
-      "gmp_pct": 16.73,
+      "gmp": 22.0,
+      "gmp_pct": 8.98,
       "price_band": "₹232 - ₹245",
       "lot_size": "",
       "open_date": "19 Nov - 23 Nov",
@@ -85,8 +59,8 @@
     },
     {
       "name": "Shree Siddhivinayak Greentech Industries",
-      "gmp": 20.0,
-      "gmp_pct": 14.08,
+      "gmp": 25.0,
+      "gmp_pct": 17.61,
       "price_band": "₹130 - ₹142",
       "lot_size": "",
       "open_date": "25 Nov - 27 Nov",
@@ -98,18 +72,42 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5332,
+      "issue_size": "₹93.66 Cr",
+      "sub_total": 1.24,
+      "sub_qib": 4.27,
+      "sub_nii": 0.82,
+      "sub_retail": 1.59,
+      "review_score": 0.567,
       "videos": [
+        {
+          "title": "Shree Siddhivinayak Greentech IPO Review | GMP & Day 1 Subscription Status | Apply Or Not?",
+          "url": "https://www.youtube.com/watch?v=hd8KvMtR4BE",
+          "channel": "The Rich Investor ",
+          "views": 1174,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shree Siddhivinayak Greentech IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=_l19PWQCKus",
+          "channel": "Stock Market with Naveeen",
+          "views": 76,
+          "upload_date": "",
+          "sentiment": ""
+        },
         {
           "title": "Shri Siddhivinayak Greentech Industry SME IPO Review | Will It Have a Bumper Listing?",
           "url": "https://www.youtube.com/watch?v=EggJZ65qLL8",
           "channel": "The Zero Trader",
-          "views": 706,
+          "views": 2239,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shree Siddhivinayak Greentech Industries IPO 🔴Shree Siddhivinayak Greentech 🔴Shree Siddhivinayak IPO",
+          "url": "https://www.youtube.com/watch?v=t59I3lWdQv0",
+          "channel": "Share Market with Vini",
+          "views": 283,
           "upload_date": "",
           "sentiment": ""
         },
@@ -117,43 +115,19 @@
           "title": "Shree Siddhivinayak Greentech Industries IPO Review",
           "url": "https://www.youtube.com/watch?v=4AdcgP1kDqw",
           "channel": "CA Pradeep Rajput",
-          "views": 3113,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shree Siddhivinayak Greentech Industries IPO Review | SSGI IPO Review | IPO Application",
-          "url": "https://www.youtube.com/watch?v=nmpkIynig4w",
-          "channel": "Manu Trading Tricks ",
-          "views": 304,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shree Siddhivinayak Greentech IPO: Full RHP Review | श्री सिद्धिविनायक ग्रीनटेक आईपीओ पूरा विश्लेषण",
-          "url": "https://www.youtube.com/watch?v=5dL8DS-DHAk",
-          "channel": "WolfOut Traders",
-          "views": 324,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shree Siddhivinayak Greentech IPO Review | GMP ₹20 | SME IPO Details #ipo #iporeview",
-          "url": "https://www.youtube.com/watch?v=fB2uSAZ7n6M",
-          "channel": "GMP Updates - IPO GMP, Listing & SME IPO",
-          "views": 35,
+          "views": 4249,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "### Copilot moved to a new app\n\n- Install the new Copilot app (needs iOS 26 or Android 13 or later).\n- Sign in with the same account.\n\nIf you don't sign in by December 31, 2026, your Copilot history and content will be deleted. If you can't use the new app on this phone, sign in on your PC or Mac.\n\n[Install now](https://unifiedlink.svc.cloud.microsoft/app/copilot/?openAppStoreOnLoad=true&fromcode=cmm5pinh4s5&referrer=utm_source%3Dmai_copilot_migration%26utm_campaign%3Dmigration_chatblock&ocid=migration_chatblock&pt=80423&ct=migration_chatblock&qrversion=email&ccac=tofmigration)",
-      "comment_analysis": "### Copilot moved to a new app\n\n- Install the new Copilot app (needs iOS 26 or Android 13 or later).\n- Sign in with the same account.\n\nIf you don't sign in by December 31, 2026, your Copilot history and content will be deleted. If you can't use the new app on this phone, sign in on your PC or Mac.\n\n[Install now](https://unifiedlink.svc.cloud.microsoft/app/copilot/?openAppStoreOnLoad=true&fromcode=cmm5pinh4s5&referrer=utm_source%3Dmai_copilot_migration%26utm_campaign%3Dmigration_chatblock&ocid=migration_chatblock&pt=80423&ct=migration_chatblock&qrversion=email&ccac=tofmigration)",
+      "summary": "Sign up and repeat your request.",
+      "comment_analysis": "Sign up and repeat your request.",
       "slug": "shree-siddhivinayak-greentech-industries"
     },
     {
       "name": "Foodlink F&B Holdings",
-      "gmp": 27.0,
-      "gmp_pct": 14.14,
+      "gmp": 14.0,
+      "gmp_pct": 7.33,
       "price_band": "₹181 - ₹191",
       "lot_size": "",
       "open_date": "26 Nov - 30 Nov",
@@ -161,20 +135,61 @@
       "listing_date": "",
       "est_listing": "",
       "ipo_type": "Mainboard",
-      "status": "Upcoming",
+      "status": "Open",
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.0,
-      "videos": [],
-      "summary": "",
-      "comment_analysis": "",
-      "slug": ""
+      "issue_size": "₹360.76 Cr",
+      "sub_total": 1.08,
+      "sub_qib": 1.0,
+      "sub_nii": 0.39,
+      "sub_retail": 2.34,
+      "review_score": 0.5,
+      "videos": [
+        {
+          "title": "Foodlink F&B Holdings IPO review | Food links IPO latest GMP | Matangi Rubber IPO | Analysis ",
+          "url": "https://www.youtube.com/watch?v=so-Qh4kmRlc",
+          "channel": "Vibhor Varshney",
+          "views": 13171,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink F&B Holdings IPO Review | Foodlink F&B Holdings IPO GMP Status ? | Foodlink IPO Latest news",
+          "url": "https://www.youtube.com/watch?v=zV5kbpawq_A",
+          "channel": "Satwasiya Pankaj",
+          "views": 2113,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink IPO Review || Foodlink F&B Holdings IPO",
+          "url": "https://www.youtube.com/watch?v=BzbHWKB4U6E",
+          "channel": "Palash Bopche -WealthyFied",
+          "views": 19268,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink F&B Holdings IPO Review in Tamil | Business, Financials & Valuation Analysis",
+          "url": "https://www.youtube.com/watch?v=wXW4G36GZBs",
+          "channel": "Investing in  Tamil",
+          "views": 548,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink F&B Holdings IPO Review | Apply or Avoid? | Latest IPO Review",
+          "url": "https://www.youtube.com/watch?v=Z_SygOD-WDw",
+          "channel": "Yogesh Mantri",
+          "views": 8004,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "Sign up and repeat your request.",
+      "comment_analysis": "Sign up and repeat your request.",
+      "slug": "foodlink-fb-holdings"
     },
     {
       "name": "Integris Medtech",
@@ -256,8 +271,8 @@
     },
     {
       "name": "Matangi Rubber",
-      "gmp": 21.0,
-      "gmp_pct": 12.21,
+      "gmp": 27.0,
+      "gmp_pct": 15.7,
       "price_band": "₹163 - ₹172",
       "lot_size": "",
       "open_date": "1 Dec - 3 Dec",
@@ -305,13 +320,39 @@
       "summary": "",
       "comment_analysis": "",
       "slug": ""
+    },
+    {
+      "name": "Encube Ethicals",
+      "gmp": 0.0,
+      "gmp_pct": null,
+      "price_band": "₹0",
+      "lot_size": "",
+      "open_date": "3 Dec - 7 Dec",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "",
+      "ipo_type": "Mainboard",
+      "status": "Upcoming",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "issue_size": "",
+      "sub_total": null,
+      "sub_qib": null,
+      "sub_nii": null,
+      "sub_retail": null,
+      "review_score": 0.0,
+      "videos": [],
+      "summary": "",
+      "comment_analysis": "",
+      "slug": ""
     }
   ],
   "picks": [
     {
       "name": "Shree Siddhivinayak Greentech Industries",
-      "gmp": 20.0,
-      "gmp_pct": 14.08,
+      "gmp": 25.0,
+      "gmp_pct": 17.61,
       "price_band": "₹130 - ₹142",
       "lot_size": "",
       "open_date": "25 Nov - 27 Nov",
@@ -323,18 +364,42 @@
       "source": "ipowatch",
       "kostak": "",
       "subject_to": "",
-      "issue_size": "",
-      "sub_total": null,
-      "sub_qib": null,
-      "sub_nii": null,
-      "sub_retail": null,
-      "review_score": 0.5332,
+      "issue_size": "₹93.66 Cr",
+      "sub_total": 1.24,
+      "sub_qib": 4.27,
+      "sub_nii": 0.82,
+      "sub_retail": 1.59,
+      "review_score": 0.567,
       "videos": [
+        {
+          "title": "Shree Siddhivinayak Greentech IPO Review | GMP & Day 1 Subscription Status | Apply Or Not?",
+          "url": "https://www.youtube.com/watch?v=hd8KvMtR4BE",
+          "channel": "The Rich Investor ",
+          "views": 1174,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shree Siddhivinayak Greentech IPO | Analysis | GMP | Review",
+          "url": "https://www.youtube.com/watch?v=_l19PWQCKus",
+          "channel": "Stock Market with Naveeen",
+          "views": 76,
+          "upload_date": "",
+          "sentiment": ""
+        },
         {
           "title": "Shri Siddhivinayak Greentech Industry SME IPO Review | Will It Have a Bumper Listing?",
           "url": "https://www.youtube.com/watch?v=EggJZ65qLL8",
           "channel": "The Zero Trader",
-          "views": 706,
+          "views": 2239,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Shree Siddhivinayak Greentech Industries IPO 🔴Shree Siddhivinayak Greentech 🔴Shree Siddhivinayak IPO",
+          "url": "https://www.youtube.com/watch?v=t59I3lWdQv0",
+          "channel": "Share Market with Vini",
+          "views": 283,
           "upload_date": "",
           "sentiment": ""
         },
@@ -342,38 +407,81 @@
           "title": "Shree Siddhivinayak Greentech Industries IPO Review",
           "url": "https://www.youtube.com/watch?v=4AdcgP1kDqw",
           "channel": "CA Pradeep Rajput",
-          "views": 3113,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shree Siddhivinayak Greentech Industries IPO Review | SSGI IPO Review | IPO Application",
-          "url": "https://www.youtube.com/watch?v=nmpkIynig4w",
-          "channel": "Manu Trading Tricks ",
-          "views": 304,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shree Siddhivinayak Greentech IPO: Full RHP Review | श्री सिद्धिविनायक ग्रीनटेक आईपीओ पूरा विश्लेषण",
-          "url": "https://www.youtube.com/watch?v=5dL8DS-DHAk",
-          "channel": "WolfOut Traders",
-          "views": 324,
-          "upload_date": "",
-          "sentiment": ""
-        },
-        {
-          "title": "Shree Siddhivinayak Greentech IPO Review | GMP ₹20 | SME IPO Details #ipo #iporeview",
-          "url": "https://www.youtube.com/watch?v=fB2uSAZ7n6M",
-          "channel": "GMP Updates - IPO GMP, Listing & SME IPO",
-          "views": 35,
+          "views": 4249,
           "upload_date": "",
           "sentiment": ""
         }
       ],
-      "summary": "### Copilot moved to a new app\n\n- Install the new Copilot app (needs iOS 26 or Android 13 or later).\n- Sign in with the same account.\n\nIf you don't sign in by December 31, 2026, your Copilot history and content will be deleted. If you can't use the new app on this phone, sign in on your PC or Mac.\n\n[Install now](https://unifiedlink.svc.cloud.microsoft/app/copilot/?openAppStoreOnLoad=true&fromcode=cmm5pinh4s5&referrer=utm_source%3Dmai_copilot_migration%26utm_campaign%3Dmigration_chatblock&ocid=migration_chatblock&pt=80423&ct=migration_chatblock&qrversion=email&ccac=tofmigration)",
-      "comment_analysis": "### Copilot moved to a new app\n\n- Install the new Copilot app (needs iOS 26 or Android 13 or later).\n- Sign in with the same account.\n\nIf you don't sign in by December 31, 2026, your Copilot history and content will be deleted. If you can't use the new app on this phone, sign in on your PC or Mac.\n\n[Install now](https://unifiedlink.svc.cloud.microsoft/app/copilot/?openAppStoreOnLoad=true&fromcode=cmm5pinh4s5&referrer=utm_source%3Dmai_copilot_migration%26utm_campaign%3Dmigration_chatblock&ocid=migration_chatblock&pt=80423&ct=migration_chatblock&qrversion=email&ccac=tofmigration)",
+      "summary": "Sign up and repeat your request.",
+      "comment_analysis": "Sign up and repeat your request.",
       "slug": "shree-siddhivinayak-greentech-industries"
+    },
+    {
+      "name": "Foodlink F&B Holdings",
+      "gmp": 14.0,
+      "gmp_pct": 7.33,
+      "price_band": "₹181 - ₹191",
+      "lot_size": "",
+      "open_date": "26 Nov - 30 Nov",
+      "close_date": "",
+      "listing_date": "",
+      "est_listing": "",
+      "ipo_type": "Mainboard",
+      "status": "Open",
+      "source": "ipowatch",
+      "kostak": "",
+      "subject_to": "",
+      "issue_size": "₹360.76 Cr",
+      "sub_total": 1.08,
+      "sub_qib": 1.0,
+      "sub_nii": 0.39,
+      "sub_retail": 2.34,
+      "review_score": 0.5,
+      "videos": [
+        {
+          "title": "Foodlink F&B Holdings IPO review | Food links IPO latest GMP | Matangi Rubber IPO | Analysis ",
+          "url": "https://www.youtube.com/watch?v=so-Qh4kmRlc",
+          "channel": "Vibhor Varshney",
+          "views": 13171,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink F&B Holdings IPO Review | Foodlink F&B Holdings IPO GMP Status ? | Foodlink IPO Latest news",
+          "url": "https://www.youtube.com/watch?v=zV5kbpawq_A",
+          "channel": "Satwasiya Pankaj",
+          "views": 2113,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink IPO Review || Foodlink F&B Holdings IPO",
+          "url": "https://www.youtube.com/watch?v=BzbHWKB4U6E",
+          "channel": "Palash Bopche -WealthyFied",
+          "views": 19268,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink F&B Holdings IPO Review in Tamil | Business, Financials & Valuation Analysis",
+          "url": "https://www.youtube.com/watch?v=wXW4G36GZBs",
+          "channel": "Investing in  Tamil",
+          "views": 548,
+          "upload_date": "",
+          "sentiment": ""
+        },
+        {
+          "title": "Foodlink F&B Holdings IPO Review | Apply or Avoid? | Latest IPO Review",
+          "url": "https://www.youtube.com/watch?v=Z_SygOD-WDw",
+          "channel": "Yogesh Mantri",
+          "views": 8004,
+          "upload_date": "",
+          "sentiment": ""
+        }
+      ],
+      "summary": "Sign up and repeat your request.",
+      "comment_analysis": "Sign up and repeat your request.",
+      "slug": "foodlink-fb-holdings"
     }
   ]
 }
